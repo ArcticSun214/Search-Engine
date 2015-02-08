@@ -1,6 +1,6 @@
 import java.net.*;
 import java.io.*;
-import java.util.Stack;
+import java.util.*;
 
 import org.jsoup.Jsoup;
 import org.jsoup.helper.Validate;
@@ -16,8 +16,7 @@ class apples{
     static long numPages = 0;
     static long hopsAway = 0;
 
-    static Stack<Tuple<String, Integer>> frontier = new Stack<>();
-
+	static Map<String, Integer> map = new HashMap<String, Integer> (500000);
 	public static void main(String[] args){
 
         //Check if Input is valid
@@ -66,15 +65,14 @@ class apples{
         try (BufferedReader seeds = new BufferedReader(new FileReader(seedFile))) {
             for(String url = seeds.readLine(); url != null; url = seeds.readLine())
             {
-                    //////////////CHECK FOR WHITESPACES AT THE END OF FILE
-               frontier.push(new Tuple<String, Integer>(url,0));
+		map.put(url,0);
             }
-           
-            /*while(!frontier.empty()){
-                Tuple<String, Integer> temp = frontier.pop();
-                System.out.println(temp.x + "\t" + temp.y);
-            }
-            */
+/*          	
+		for(Map.Entry<String, Integer> entry : map.entrySet())
+		{
+			String getUrl = entry.getKey();
+			System.out.print(getUrl + "\n");
+		}*/ 
             seeds.close();
         } catch (IOException e) {
                 e.printStackTrace();
@@ -116,18 +114,19 @@ class apples{
     //Traverse webpages starting from the seed URLs.
     public static void crawl() {
         long fileNum = 0; ///What happens to files that already exists, do they just get replaced?
-        while(!frontier.empty()) {
-            Tuple<String, Integer> temp = frontier.pop();
             try {
-                downloadFile(temp.x, fileNum);
-                System.out.println(temp.x);
-                getLinks("http://" + temp.x);
+		for(Map.Entry<String, Integer> entry : map.entrySet())
+		{
+                	downloadFile(entry.getKey(), fileNum);
+                	System.out.println(entry.getKey());
+			getLinks( "http://" + entry.getKey());
+		}
             } catch (IOException e) {
                 e.printStackTrace();
             }
             fileNum++;
         }
-    }
+    
 
     //Download Webpage. This code is an altered version of the code the TA gave provided in his slides.//////////////////FIX
     public static String downloadFile(String url, long fileNum) throws IOException, 
@@ -151,6 +150,5 @@ class apples{
 
         return fileName;
     }
-
 
 }

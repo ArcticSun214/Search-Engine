@@ -1,5 +1,3 @@
-www.cs.ucr.edu/~cto002/
-www.cs.ucr.edu/~ltadi001/
-www.cs.ucr.edu/~svill017/
-www.cs.ucr.edu
-systems.engr.ucr.edu
+http://www.cs.ucr.edu/~ltadi001/
+http://www.cs.ucr.edu/~svill017/
+http://www.cs.ucr.edu/~cto002/

@@ -1,0 +1,87 @@
+<html>
+ <head> 
+  <title>Lance Tadiosa's Home Page</title> 
+ </head> 
+ <body style="background-color:black"> 
+  <h1 style="color:white;"> Lance Tadiosa</h1> 
+  <div style="background-color:white;height:150px;width:150px;float:left"> 
+   <center> 
+    <img src="IMG_0359.JPG" width="150" height="150">
+   </center> 
+  </div> 
+  <div style="background-color:green;height:150px;width:250px;float:left"> 
+   <center>
+    <b><u>About</u></b>
+   </center> Third Year Computer Science Major at the University of California, Riverside 
+   <br>
+   <br> Expected Graduation: 2015 
+  </div> 
+  <div style="background-color:skyblue;height:150px;width:200px;float:left"> 
+   <center>
+    <b><u>Contacts</u></b>
+   </center> 
+   <center>
+    ltadi001@ucr.edu
+   </center> 
+  </div> 
+  <div style="background-color:orange;height:300px;width:600px"> 
+   <center>
+    <b><u>Career Goals</u></b>
+   </center> Software Engineer/Developer 
+  </div> 
+  <div style="background-color:white;height:10px;width:600px"> 
+  </div> 
+  <div style="background-color:#8A2BE2 ;height:300px;width:400px;float:left"> 
+   <center>
+    <b><u>Classes</u></b>
+    <br>
+    <br> CS061 Machine Org and Assembly Lang PRGM 
+    <br> CS100 Software Construction
+    <br> CS111 Discrete Structures
+    <br> CS141 Intermediate Data Structures &amp; Algorithms 
+    <br> 
+    <br> MATH126 Combinatorics 
+    <br> MATH113 Linear Algebra 
+    <br> 
+   </center> 
+  </div> 
+  <div style="background-color:darkslateblue;height:300px;width:600px"> 
+   <center>
+    <b><u>Project</u></b>
+    <center> 
+     <center>
+      Planning on making a text based game
+      <center> 
+      </center>
+     </center>
+    </center>
+   </center>
+  </div> 
+  <div style="background-color:white;height:10px;width:600px"> 
+  </div> 
+  <div style="background-color:yellow;height:150px;width:600px"> 
+   <center>
+    <b><u>Skills</u></b>
+   </center>
+   <br> Programming Languages - C++, Python, LC3 Asembly
+   <br> Text Editors - VIM, Geany, Codeblocks
+   <br> Operating Systems - Linux, Windows Softwares - Latex, Microsoft Office 
+   <br> 
+  </div> 
+  <div style="background-color:black;height:10px;width:600px"> 
+  </div> 
+  <div style="background-color:red;height:150px;width:600px"> 
+   <center>
+    <b><u>Hobbies</u></b>
+   </center> Programming
+   <br> Drawing
+   <br> Music
+   <br> 
+  </div>  
+  <div style="background-color:black;height:10px;width:600px"> 
+  </div> 
+  <div style="background-color:hotpink;height:10px;width:600px"> 
+  </div> 
+  <a href="http://www.cs.ucr.edu/~ltadi001/testdir/test.html">HI</a>  
+ </body>
+</html>

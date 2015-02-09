@@ -1,10 +1,14 @@
 import java.net.*;
 import java.io.*;
+<<<<<<< HEAD
 import java.util.Map;
 import java.util.HashMap;
 import java.util.Queue;
 import java.util.LinkedList;
 import java.util.concurrent.locks.*;
+=======
+import java.util.*;
+>>>>>>> 3fdcd19e22c1ac312dc10b2a827329b66e0e93b9
 
 import org.jsoup.Jsoup;
 import org.jsoup.helper.Validate;
@@ -21,12 +25,16 @@ class apples{
     static long numPages = 0;
     static long hopsAway = 0;
 
+<<<<<<< HEAD
 	static Map<String, Integer> map = new HashMap<String,Integer>();
     public static Queue<Tuple<String, Integer>> frontier = new LinkedList<Tuple<String, Integer>>();
 
 	private static final Lock lock = new ReentrantLock();
 	public static boolean frontierLock = false;
 
+=======
+	static Map<String, Integer> map = new HashMap<String, Integer> (500000);
+>>>>>>> 3fdcd19e22c1ac312dc10b2a827329b66e0e93b9
 	public static void main(String[] args){
 
         //Check if Input is valid
@@ -85,6 +93,7 @@ class apples{
 		{
             for(String url = seeds.readLine(); url != null; url = seeds.readLine())
             {
+<<<<<<< HEAD
                     //////////////CHECK FOR WHITESPACES AT THE END OF FILE
 				if(hasValidProtocol(url))
 				{
@@ -95,6 +104,16 @@ class apples{
 				}
             }
 
+=======
+		map.put(url,0);
+            }
+/*          	
+		for(Map.Entry<String, Integer> entry : map.entrySet())
+		{
+			String getUrl = entry.getKey();
+			System.out.print(getUrl + "\n");
+		}*/ 
+>>>>>>> 3fdcd19e22c1ac312dc10b2a827329b66e0e93b9
             seeds.close();
         } 
 		catch (IOException e) {
@@ -105,8 +124,16 @@ class apples{
 
     //Clean URL and Normalize URL
     public static boolean isDiscarded(String link) {
-		System.out.println(link + "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF");
-		String fileType = link.substring(link.length()-4);
+		
+		String fileType;
+	   	if(link.length() < 4)
+		{
+			fileType = new String("Not an image or pdf");
+		}
+		else
+		{
+			fileType= link.substring(link.length()-4);
+		}
 		if(link.charAt(0) == '#' || link.equals("/") || fileType.equals(".jpg") 
 				|| fileType.equals(".png") || fileType.equals(".gif") 
 				|| fileType.equals(".pdf") || link.contains("&") /// Do we avaoid space and ampersands?
@@ -201,6 +228,7 @@ class apples{
     /*//Traverse webpages starting from the seed URLs.
     public static void crawl() {
         long fileNum = 0; ///What happens to files that already exists, do they just get replaced?
+<<<<<<< HEAD
         while(useFrontier(2,null) != null) {
             Tuple<String, Integer> temp = useFrontier(0,null);frontier.remove();
             try {
@@ -211,12 +239,25 @@ class apples{
 				}
 				//printFrontier();
 
+=======
+            try {
+		for(Map.Entry<String, Integer> entry : map.entrySet())
+		{
+                	downloadFile(entry.getKey(), fileNum);
+                	System.out.println(entry.getKey());
+			getLinks( "http://" + entry.getKey());
+		}
+>>>>>>> 3fdcd19e22c1ac312dc10b2a827329b66e0e93b9
             } catch (IOException e) {
                 e.printStackTrace();
             }
             fileNum++;
         }
+<<<<<<< HEAD
     }*/
+=======
+    
+>>>>>>> 3fdcd19e22c1ac312dc10b2a827329b66e0e93b9
 
     //Download Webpage. This code is an altered version of the code the TA gave provided in his slides.//////////////////FIX
     public static void downloadFile(String url, long fileNum) throws IOException, 
@@ -322,7 +363,6 @@ class apples{
 		//new Thread(thread).start();
 
 	}
-
 
 }
 

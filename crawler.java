@@ -206,26 +206,6 @@ class apples{
     }
 
 
-    /*//Traverse webpages starting from the seed URLs.
-    public static void crawl() {
-        long fileNum = 0; ///What happens to files that already exists, do they just get replaced?
-        while(useFrontier(2,null) != null) {
-            Tuple<String, Integer> temp = useFrontier(0,null);frontier.remove();
-            try {
-                downloadFile(temp.x, fileNum);
-				if (temp.y < hopsAway)
-				{
-					getLinks(temp.x,temp.y);
-				}
-				//printFrontier();
-
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-            fileNum++;
-        }
-    }*/
-
     //Download Webpage. This code is an altered version of the code the TA gave provided in his slides.//////////////////FIX
     public static void downloadFile(String url, long fileNum) throws IOException, 
         MalformedURLException {
@@ -330,7 +310,6 @@ class apples{
 		//new Thread(thread).start();
 
 	}
-
 
 }
 

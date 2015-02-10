@@ -1,0 +1,250 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Bourns College of Engineering: In the Spotlight</title> 
+  <meta http-equiv="last-modified" content="2014-06-11"> 
+  <meta name="version" content="2.62 2.123 "> 
+  <!-- 02/09/15 19:46:39 02/09/15 20:15:45 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to BCOE news via RSS" href="http://www.engr.ucr.edu/rss/news.xml"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.engr.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/masthead_overlay.png" alt=""> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="http://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+     </form> 
+     <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="masthead"> 
+   <h1><a href="http://www.engr.ucr.edu/"><span class="printonly">Bourns College of Engineering</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">Social Media Links:</p> 
+   <ul class="l_breadcrumb_links"> 
+    <li><a id="footer_link_flickr" href="http://www.flickr.com/photos/bournscollege/" title="Visit BCOE’s Flickr gallery (external site: Flickr)"><span class="accessibility">Visit BCOE’s Flickr gallery</span></a></li> 
+    <li><a id="footer_link_facebook" href="http://www.facebook.com/pages/Riverside-CA/Bourns-College-of-Engineering/118503574842498" title="Visit BCOE’s Facebook page (external site: Facebook)"><span class="accessibility">Visit BCOE’s Facebook page</span></a></li> 
+    <li><a id="footer_link_twitter" href="http://twitter.com/bournscollege" title="Follow BCOE on Twitter (external site: Twitter)"><span class="accessibility">Follow BCOE on Twitter</span></a></li> 
+    <li><a id="footer_link_youtube" href="http://www.youtube.com/BournsCollege" title="Visit BCOE’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit BCOE’s YouTube channel</span></a></li> 
+    <li><a id="footer_link_linkedin" href="http://www.linkedin.com/groups?gid=3185912" title="Join the Linkedin alumni group (external site: Linkedin)"><span class="accessibility">Join the Linkedin alumni group</span></a></li> 
+    <li><a id="footer_link_rss" href="http://www.engr.ucr.edu/rss/news.xml" title="Subscribe to BCOE news via RSS"><span class="accessibility">Subscribe to BCOE news via RSS</span></a></li> 
+   </ul> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li> 
+    <li class="lastitem">In the Spotlight</li> 
+   </ul> 
+  </div> 
+  <div class="l_contentwrapper">
+   <div class="pagewrapper"> 
+    <hr> 
+    <!-- Start Content (Navigation and Content columns) --> 
+    <div id="content"> 
+     <h2>In the Spotlight</h2> 
+     <!-- Start Sidebar --> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li><a href="/" title="BCOE Home">BCOE Home<br><span>Bourns College of Engineering</span></a></li>
+        <li><a href="/about/" title="The Bourns Difference">The Bourns Difference</a></li>
+        <li><a href="/academics/" title="Academic Programs">Academic Programs</a></li>
+        <li><a href="/research/" title="Research">Research</a></li>
+        <li><a href="/employment.html" title="Employment">Employment</a></li>
+        <li><a href="/faculty/" title="The Faculty">The Faculty</a></li>
+        <li><a href="/undergrads/" title="Prospective Undergraduate Students">Prospective Undergraduate Students</a></li>
+        <li><a href="http://student.engr.ucr.edu/" title="Current Undergraduate Students">Current Undergraduate Students</a></li>
+        <li><a href="/grad/" title="Graduate Programs">Graduate Programs</a></li>
+        <li><a href="/alumni/" title="Bourns Alumni">Bourns Alumni</a></li>
+        <li><a href="/giving/" title="Giving">Giving</a></li>
+        <li><a href="/industry/" title="Corporate Partners Program">Corporate Partners Program</a></li>
+        <li><a href="/news/" title="News">News</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <hr> 
+     <!-- End Sidebar --> 
+     <!-- Start Content Area --> 
+     <div id="main"> 
+      <p><a href="http://ucrtoday.ucr.edu/22901"><img title="Rosemblim and Karen Lugo" src="/images/profile_lugo.jpg" alt="Rosemblim and Karen Lugo" width="178" height="53"></a>&nbsp;<a href="http://ucrtoday.ucr.edu/22901">Read the remarkable story of Rosemblim Lugo '14 and the obstacles he overcame to realize his dream of earning his B.S. in electrical engineering.</a></p> 
+      <p><a style="font-size: 1em; line-height: 1.5em;" href="https://www.flickr.com/photos/bournscollege/sets/72157644463836380/"><img title="SIGI opening celebration" src="/images/spotlight_SIGI.jpg" alt="SIGI opening celebration" width="178" height="53"></a>&nbsp;<a href="https://www.flickr.com/photos/bournscollege/sets/72157644463836380/">View photos from the opening celebration of the Sustainable Integrated Grid Initiative at the College of Engineering-Center for Environmental Research and Technology</a></p> 
+      <p><a href="http://www.flickr.com/photos/bournscollege/sets/72157642213070384/"><span style="font-size: 1em; line-height: 1.5em;" data-mce-mark="1"><img title="Bourns Engineering Day" src="/images/Spotlight_Bourns_Eng_Day_2014.jpg" alt="Bourns Engineering Day" width="179" height="53"></span></a>&nbsp;<a style="font-size: 1em; line-height: 1.5em;" href="/about/outreach.html#outreach2014">See photos from recent student-led outreach events on campus designed to get young people engaged in engineering.</a></p> 
+      <p><a style="font-size: 1em; line-height: 1.5em;" href="http://www.flickr.com/photos/bournscollege/sets/72157642213070384/"><img title="Winston Chung" src="/images/WinstonChungVisitSpotlight.jpg" alt="Winston Chung" width="178" height="53"></a>&nbsp;<a style="font-size: 1em; line-height: 1.5em;" href="http://www.flickr.com/photos/bournscollege/sets/72157642213070384/">View the photos of Winston Chung's visit March 9, 2014, when he was updated on research activities at the Winston Chung Global Energy Center.&nbsp;</a></p> 
+      <p><a style="font-size: 1em; line-height: 1.5em;" href="http://www.flickr.com/photos/bournscollege/sets/72157641831766893/"><img title="IEEE-HKN" src="/images/spotlight_IEEE_HKN.jpg" alt="IEEE-HKN" width="178" height="53"></a>&nbsp;<a style="font-size: 1em; line-height: 1.5em;" href="http://www.flickr.com/photos/bournscollege/sets/72157641831766893/">View the photos of the induction ceremony for the IEEE-Eta Kappa Nu honor society&nbsp;(Lamda Sigma chapter) at BCOE on Feb. 28, 2014.&nbsp;</a></p> 
+      <p><a href="http://www.youtube.com/watch?v=WFHWe3IIxYM&amp;feature=share&amp;list=UUQVfY-ask5eSxnoFxVLHsBw&amp;index=27"><img title="Alexander Balandin" src="/images/spotlight_balandin_MRS.jpg" alt="Alexander Balandin" width="178" height="53"></a>&nbsp;<a href="http://www.youtube.com/watch?v=WFHWe3IIxYM&amp;feature=share&amp;list=UUQVfY-ask5eSxnoFxVLHsBw&amp;index=27">&nbsp;View the interview of Professor of Electrical Engineering Alexander Balandin at the 2013&nbsp;Materials Research Society&nbsp;Fall Meeting where he received the MRS Medal Award. </a></p> 
+      <p><a style="font-size: 1em; line-height: 1.5em;" href="http://www.flickr.com/photos/bournscollege/sets/72157637890623155/"><img title="CE-CERT Ribbon Cutting " src="/images/Ribbon%20Cutting%20Weisenmiller%20Spotlight.jpg" alt="CE-CERT Ribbon Cutting " width="178" height="53"></a>&nbsp;<a style="font-size: 1em; line-height: 1.5em;" href="http://www.flickr.com/photos/bournscollege/sets/72157637890623155/">View the photos of the ribbon-cutting ceremony for the Advanced Thermochemical Research Laboratory at CE-CERT that included a visit by California Energy Commission Chairman Robert Weisenmiller.</a></p> 
+      <p><a href="http://mashable.com/2013/09/08/brain-window-implant/"><img src="/images/prof_spotlight.jpg" alt="APL" width="178" height="53">&nbsp;Watch the Mashable video about a new material developed by a team of faculty and students that could be used as a “window to the brain.”</a></p> 
+      <p><a href="http://apl.aip.org/features/videos_podcasts/author_podcast_prof_alexander_a_balandin"><img src="/images/Spotlight%20APL%20header.JPG" alt="APL" width="178" height="53"></a>&nbsp;<a href="http://apl.aip.org/features/videos_podcasts/author_podcast_prof_alexander_a_balandin">Listen to the Applied Physics Letters podcast of Prof. Alexander Balandin describing his groundbreaking research on 1/f noise.</a></p> 
+      <p><a href="http://www.youtube.com/watch?v=9WycpEwdEA0&amp;feature=youtu.be"><img src="/images/spotlight_lawnmower.JPG" alt="lawnmower" width="178" height="53">&nbsp;</a><a href="http://www.youtube.com/watch?v=9WycpEwdEA0&amp;feature=youtu.be">Watch&nbsp;the video about BCOE students who developed a&nbsp;"Greener" lawnmower</a></p> 
+      <p><a href="http://vimeo.com/64176494"><img src="/images/BCOE_spotlight_4_17_2013.jpg" alt="BCoE Student Perspective 2013" width="178" height="53"></a>&nbsp;<a href="http://vimeo.com/64176494">Thinking about studying engineering at BCOE? Hear what our students say about the experience.</a></p> 
+      <p><a href="http://www.youtube.com/watch?v=Zbe9b9Ola5M&amp;feature=youtu.be"><img src="/images/BCOE_in_the_spotlight_videos415.jpg" alt="video invitation from Associate Professor Sharon Walker " width="178" height="53"></a>&nbsp;<a href="http://www.youtube.com/watch?v=Zbe9b9Ola5M&amp;feature=youtu.be">A video invitation from Associate Professor Sharon Walker to attend the 87th Annual Colloid &amp; Surface Science Symposium of the ACS June 23-26, 2013</a></p> 
+      <p><a href="http://www.flickr.com/photos/bournscollege/sets/72157632912884813/"><img src="/images/BCOE_in_the_spotlight_photos_v2.jpg" alt="Alumni vs. Faculty Basketball Game 2012" width="178" height="53"></a><a href="http://www.flickr.com/photos/bournscollege/sets/72157632912884813/">&nbsp;View the photos from the 2013 BCOE Homecoming Faculty vs. Alumni Basketball Game</a></p> 
+      <p><img src="/images/BCOE_in_the_spotlight_videos.jpg" alt="Science Behind the News" width="178" height="53">&nbsp;<a href="http://www.nbclearn.com/sciencenews/cuecard/63288">See the video about Prof. David Kisailus' research on NBC's "Science Behind the News"</a></p> 
+      <p><a href="http://youtu.be/0qxTmzXF3hQ"><img title="MSE video" src="/images/MSE_spotlight.jpg" alt="MSE video" width="178" height="53"></a>&nbsp;<a href="http://youtu.be/0qxTmzXF3hQ">View the video about our unique interdisciplinary Materials Science and Engineering Program</a></p> 
+      <p><a href="http://www.youtube.com/watch?v=aXxuT6sk5CE&amp;feature=youtu.be"><img title="Chen In the Spotlight" src="/images/Chen_in_the_spotlight.jpg" alt="Chen In the Spotlight" width="178" height="53"></a>&nbsp;<a href="http://www.youtube.com/watch?v=aXxuT6sk5CE&amp;feature=youtu.be">View the video about Steve Chen's Young Alumnus Award</a><br><br><img title="Commencement 2012" src="/images/Spotlight_Commencement2012.jpg" alt="Commencement 2012" width="178" height="53">&nbsp;<a href="http://www.flickr.com/photos/bournscollege/sets/72157630199250404/show/">View the slide show of photos from Commencement 2012</a></p> 
+      <p><img title="IEC lab dedication" src="/images/Spotlight_IEC.jpg" alt="IEC lab dedication" width="178" height="53">&nbsp;<a href="http://youtu.be/TY_0WZqwugE">View the video of the dedication of the Innovation Economy Corporation Laboratory&nbsp;at BCOE</a></p> 
+      <p><img title="Science as Art image of giraffe" src="/images/giraffespotlight.jpg" alt="Science as Art image of giraffe" width="178" height="53">&nbsp;<a href="http://ucrtoday.ucr.edu/6536">See how Ph.D. student Shaahin Amini created his award-winning Science as Art image</a></p> 
+      <p><a href="http://www.flickr.com/photos/bournscollege/sets/72157629523583697"><img title="" src="/images/alumni_faculty.jpg" alt="" width="178" height="53"> View photos from the inaugural alumni-faculty basketball game at homecoming 2012</a></p> 
+      <p><a href="http://www.youtube.com/watch?v=ZPP8hGx2FXI"><img src="/images/dean_batteries.JPG" alt="564" width="178" height="53"> Dean Abbaschian Featured in Arts and Innovation Video</a></p> 
+      <p><a href="http://www.flickr.com/photos/bournscollege/sets/72157628027937353/show/"><img src="/images/ChungHallSpotlight.jpg" alt="" width="178" height="53"> View the Slide Show of the Winston Chung Hall Naming Ceremony</a></p> 
+      <p><a href="http://magazine.ucr.edu/2011/fall/"><img src="/images/unlocking.PNG" alt="" width="178" height="53"> BCOE Faculty Featured in UCR Magazine Story, "Unlocking the Mysteries of the Brain" </a></p> 
+      <p><a href="http://news.discovery.com/earth/mythbusters-motorcycles-vs-cars-which-is-better-for-the-environment-110928.html"><img src="/images/mythbusters.jpg" alt="" width="178" height="53"> </a><a href="http://wheels.blogs.nytimes.com/2011/09/30/mythbusters-on-cars-vs-motorcycles-which-is-greener/?_r=0">BCOE Researcher Kent Johnson Featured on Discovery Channel's Mythbusters</a></p> 
+      <p><a href="http://www.youtube.com/UCRiverside#p/u/2/wqJrNpyR-P0"><img src="/images/chartercable.jpg" alt="" width="178" height="53">&nbsp;Assistant Professor Elaine Haberer on Teaching About Solar Energy</a></p> 
+      <p><a href="http://www.youtube.com/watch?v=8V7qRn2Auoc"><img src="/images/nanogassensor.jpg" alt="" width="178" height="53"> Smartphone Tablet Integrated Nano Gas Sensor</a></p> 
+      <p><a href="http://www.youtube.com/BournsCollege#p/u/2/9Tr-tjlhd1g"><img src="/images/spotlights/ihub.jpg" alt="" width="178" height="53">&nbsp;Video of Innovation Hub Press Conference</a></p> 
+      <p><a href="http://www.youtube.com/ucriverside#p/u/38/I4CbTuNwfcw"><img src="/images/spotlights/chung.jpg" alt="" width="178" height="53"> Winston Chung Commits to $10M Gift to BCOE</a></p> 
+      <p><a href="http://www.youtube.com/user/BournsCollege#p/u/1/tAl5udsQE6o"><img src="/images/spotlights/difference.jpg" alt="" width="178" height="53"> Learn About the Bourns Difference</a></p> 
+      <p><a href="http://www.youtube.com/watch?v=sBpusZSzpyI&amp;feature=channel_video_title"><img src="/images/spotlights/biomimesis.jpg" alt="" width="178" height="53"> From Biomimesis to Bioinspiration</a></p> 
+      <p><a href="http://www.youtube.com/watch?v=2YQ0rR3zu10&amp;feature=channel_video_title"><img src="/images/spotlights/malaria.jpg" alt="" width="178" height="53">&nbsp;What Can Computer Science Do For Malaria Research?</a></p> 
+      <p><a href="http://www.youtube.com/UCRiverside#p/u/69/YrY7TlCTlzY"><img src="/images/spotlights/kilsailus.jpg" alt="" width="178" height="53"> David Kisailus on Building Materials that Mimic Nature</a></p> 
+      <p><a href="http://youtu.be/JSbXFdu5vTE"><img title="Reza Abbaschian" src="/images/spotlight_reza_localedition.jpg" alt="Reza Abbaschian" width="178" height="53"></a>&nbsp;<a href="http://youtu.be/JSbXFdu5vTE">Dean Reza Abbachian discusses the college's partnership with the City of Riverside and other examples of engineering excellence with Local Edition TV host Brad Pomerance.&nbsp;</a></p> 
+     </div> 
+     <!-- End Content Area --> 
+     <div class="clear"></div> 
+    </div> 
+    <!-- End Content --> 
+   </div>
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column3"> 
+      <h3>College Information</h3> 
+      <address><strong>Bourns College of Engineering</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">446 Winston Chung Hall</a><br> <br> Tel: (951) 827-5190<br> Fax: (951) 827-3188<br> E-mail: <a href="mailto:collegeinfo@engr.ucr.edu?subject=Website%20Inquiry">collegeinfo@engr.ucr.edu</a></address> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/research/licensing.html">License Bourns Technology</a></li> 
+       <li><a href="http://www.ucr.edu/giving/">Give to Bourns</a></li> 
+       <li><a href="/intranet/">Intranet</a></li> 
+       <li><a href="/inventthefuture.html">Invent the Future</a></li> 
+       <li><a href="http://systems.engr.ucr.edu">Systems</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/images/design6/footer_building.jpg" alt="" width="120" height="87"> <strong>Engineering Times Newsletter</strong><br> <br> <a href="/news/e-newsletter.html">Sign up to receive the college's e-newsletter <em>Engineering Times</em></a>. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.engr.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01002&amp;site=cmsengr&amp;path=%2Fnews%2Fspotlight.html">Last modified: 2014-Jun-11</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.006301 seconds using 1.25 MiB of memory. -->   
+ </body>
+</html>

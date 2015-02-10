@@ -1,70 +1,79 @@
-<!DOCTYPE html>
 <html>
- <head> 
-  <title> Samuel Villarreal ,Computer Science and Engineering</title> 
-  <style type="text/css">
-h1 {color:Black;text-align:center;}
-p {color:#000033;}
-ul li{ margin:0 250px;}
-h2{ margin:0 250px; }
-nav {background-color:#cFDFFF;  height:30px;}
-img {
-	display:block;
-	background-color:#b2f4ff;
-	padding: 5px 10px 5px 10px;
-	margin:10px 0px 0px 0px;
-	}
-img:hover, img:active{
-	display:block;
-	padding: 5px 5px 5px 15px;
-}
-nav a {
-	display:block;
-	float:left;
-	positon:relative;
-  font-family: Arial, Verdana;
-  font-size: 20px;
-  margin: 0;
-  padding: 5px 10px 5px 10px;
-  text-decoration: none;
- 
-}
-nav a:hover, nav a:active{ background-color:#FFFFCC;}
-</style> 
- </head> 
- <body style="background-color:#c0c0c0;"> 
-  <h1> Samuel Villarreal , Undergraduate in Computer Science and Engineering </h1> 
-  <h2 align="center"> <a href="https://ucr.edu/">University of California Riverside </a> ,<a href="http://www.engr.ucr.edu"> Bourns College of Engineering</a></h2> 
-  <nav> 
-   <center>
-    <a href="./projects.html">Projects</a> 
-    <a href="./engra.html">Engineering Affiliations</a> 
-    <a href="./ran.html">Random</a> 
-    <a href="./res.html">Resume</a>
-   </center> 
-  </nav> 
-  <br> 
-  <img src="temp.jpg" alt="temp photo" width="220" height="300" align="left" style="margin:20px"> 
+ <head>
+  <title> Connie To's Homepage </title> 
+ </head>
+ <body bgcolor="FFFFFF" background="blue.jpg">  
+  <center> 
+   <div style="color: 8A2BE2"> 
+    <img src="me.jpg" alt="me" width="200" height="200" align="left"> 
+    <br>
+    <br>
+    <br>
+    <br> 
+    <font size="12" face="Georgia,Arial" color="DA70D6">Connie To</font> 
+    <p></p>
+    <h2> Undergraduate, Computer Science </h2>
+    <p></p> 
+   </div> 
+  </center> 
+  <hr>   
+  <p> </p>
+  <div style="color: 8A2BE2"> 
+   <h3>Skills</h3> 
+  </div> 
+  <ul> 
+   <li>Languanges: C/C++, basic Chinese</li> 
+   <li>Softwares: Latex, Scilab, Microsoft Offices</li> 
+   <li>OS: Linux, Macintosh</li> 
+  </ul> 
+  <p></p> 
+  <p> </p>
+  <div style="color: 8A2BE2"> 
+   <h3>GPA</h3> 
+  </div> 
+  <ul> 
+   <li>2.9</li> 
+  </ul> 
+  <p></p> 
+  <div style="color: 8A2BE2"> 
+   <h3> Courses </h3> 
+  </div> 
+  <ul> 
+   <li><u>CS 100 Software Construction </u></li> System programming 
+   <br> GDB debugger
+   <br> Implementation strategies 
+   <p> </p>
+   <li><u>CS 111 Discrete Structures</u></li> asymptotic notation 
+   <br> graph theory 
+   <br> number theory 
+   <p></p> 
+   <p> </p>
+   <li><u>CS 120A Logic Design </u></li> Digital systems Design 
+   <p></p> 
+   <p> </p>
+   <li><u>CS 120B Introduction to Embedded Systems</u></li> embedded processor programming 
+   <p></p> 
+  </ul> 
   <hr> 
-  <h2> About Me </h2> 
-  <script>
-	if(confirm("Do you want to give your name?"))
-	{
-		var name = prompt("Whats your name?");
-		if( name != "null" )
-		{
-			document.write("<p> Hi " + name)
-			if( name == "")
-			{
-				document.write("Mr. Blank")
-			}	
-		}
-		else{
-			document.write("<p> Hi anonymous trickster")
-		}	
-	}
-	else{
-		document.write("<p> Hi anonymous")
+  <p> </p>
+  <div style="color: 8A2BE2"> 
+   <h3>Interests</h3>
+   <p></p> 
+  </div> 
+  <ul> 
+   <li>Drawing</li> 
+   <li>Animation</li> 
+   <li>Reading</li> 
+  </ul> 
+  <hr> 
+  <p> </p>
+  <div style="color: 8A2BE2"> 
+   <h3>Contact</h3> 
+  </div> 
+  <p></p> 
+  <p> cto002@ucr.edu </p>   
+ </body>
+</html>document.write("<p> Hi anonymous")
 	}
 </script> , I am Samuel Villarreal and this is my University of California Riverside homepage.
   <br> This is my fourth and expected final year as an undergraduate working towards B.S. in Computer Science. 

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>Industry News</title> 
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css"> 
+  <script src="http://code.jquery.com/jquery-1.6.4.min.js"></script> 
+  <script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script> 
+  <script type="text/javascript" language="javascript" charset="utf-8">
+	// <![CDATA[
+		function boom() {
+			var now = new Date();
+			var expiresDate = new Date();
+			expiresDate.setDate(now.getDate() + 30);
+			$.cookie('Mobile', 2, { expires: expiresDate, path: '/', domain: '.powerpulse.net' });
+		}
+	// ]]>
+	</script> 
+  <link rel="stylesheet" href="css/mobile.css" type="text/css" media="screen" charset="utf-8"> 
+  <script language="JavaScript" type="text/javascript" src="http://adserver.darnell.com/adx.js"></script> 
+  <script type="text/javascript" src="includes/ajax-banner.js"></script> 
+ </head> 
+ <body onload="nextAd()"> 
+  <div data-role="page" data-theme="b"> 
+   <div data-role="header" data-theme="b" data-backbtn="false"> 
+    <h1><a href="http://m.powerpulse.net"><img src="images/PowerPulseLogo.png" alt="PowerPulse.Net" width="300"></a></h1> 
+    <p id="subhead">The Web’s Leading Power Electronics News Publication</p> 
+   </div> 
+   <div data-role="content" data-theme="d"> 
+    <div align="center" class="ajax-banner-23"></div> 
+    <h3>Integrating Electric Vehicles, Solar Energy and Batteries</h3> 
+    <p>May 14, 2014</p> 
+    <!-- PowerChannels --> 
+    <!--
+		<div class="powerChannels">
+			<b>Power Channels:</b> <a href="PortablePower">Batteries and Portable Power</a>, <a href="EnergyEfficiency">Energy Efficiency</a>, <a href="PowerQuality">Power Quality Protection</a>, <a href="Renewable">Renewable Energy</a>, <a href="SmartGrid">Smart Grid Power</a>		</div>
+--> 
+    <img src="http://www.powerpulse.net/images/news/29981__.jpg" class="featureImage" alt="" width="150"> 
+    <p>At 10 a.m. May 21st, the <b>University of California, Riverside</b> will host a ceremony open to the public to launch its <b>Sustainable Integrated Grid Initiative</b>. The purpose of the initiative is to research the integration of: intermittent renewable energy, such as photovoltaic solar panels; energy storage, such as batteries; and all types of electric and hybrid electric vehicles. It is the largest renewable energy project of its kind in California. The first two years of operation is supported by a $2 million contract from the <b>South Coast Air Quality Management District</b>. Construction of the initial testbed platform is also supported by an additional $10 million in contributions from UC Riverside and private partners. </p> 
+    <p>Private partners include <b>Bourns Inc., Balqon Corporation, SolarMax Technology</b> and <b>Winston Battery Limited</b>. Public partners include the city of Riverside, Riverside Transit Agency, Riverside Public Utilities, UC Riverside, the Bourns College of Engineering, the Southern California Research Initiative for Solar Energy and the Winston Chung Global Energy Center. The last two are located at UC Riverside’s Bourns College of Engineering Center for Environmental Research and Technology (CE-CERT). “This project puts UC Riverside at the forefront of smart grid and electric vehicle research, providing a unique platform for engineers and utilities to identify and solve potential problems at scale,” said Matthew Barth, lead investigator of the initiative and the director of CE-CERT. </p> 
+    <p>The testbed, which is located at CE-CERT, includes: Four megawatts of solar photovoltaic panels. Three-and-a-half megawatts will be at UC Riverside’s main campus. The remaining half megawatt is at CE-CERT about two miles from campus. Two megawatt-hours of battery energy storage. The batteries will store energy for distribution during periods when there is insufficient solar power generation. One megawatt is at CE-CERT and the additional megawatt is located in Winston Chung Hall on UC Riverside’s main campus. </p> 
+    <p>And twenty-seven electric vehicle charging stations. Eight chargers, with level two capabilities, which are suitable for cars, are in parking lots on UC Riverside’s main campus. Four level two chargers and one level three charger, which is suitable for larger vehicles, are located at CE-CERT. In addition, 14 level two chargers are located throughout the city of Riverside. A UCR-owned and RTA-operated trolley bus that has been converted from diesel combustion to battery electric operation. Plus energy monitoring, management and control tools developed by UC Riverside engineering students to ensure energy grid stability, reliability and efficiency. </p> 
+    <p>On average California derives two-thirds of its electricity from fossil fuels such as coal and natural gas, and the majority of vehicles in the state are powered by imported oil. Introducing renewable electricity generation and electric vehicle technologies such as plug-in hybrids are two key priorities in California’s strategy to move toward domestic energy diversity and to meet air quality and greenhouse gas goals. </p> 
+    <p>To meet these priorities utility providers need to ensure that bringing a significant number of fast charging electric vehicles onto the existing grid system will not impact the local electricity demand and reliability. A key component of the UC Riverside project is to demonstrate that electric vehicles can be seamlessly introduced into the existing grid system through “smart integration” of renewable energy, storage and advanced dispatch controls. </p> 
+    <p>The first years of operation will be focused on several goals: providing a real-world smart grid test bed platform for emerging technologies; providing electric vehicle charging demand without increased grid loads; evaluating the efficiency of different energy storage systems for long and short term renewable generation load leveling and peak shaving use. </p> 
+    <p>Also, demonstrating efficiency and performance of various forms of electric and hybrid electric transportation operating in the Riverside community; demonstrating the functionality of smart grid protocols; evaluating power quality issues; and demonstrating battery electric bus transit. </p> 
+    <p>A research consortium is being developed to build upon these and other research goals as new technologies and challenges develop. The consortium will include technology companies, utility companies, energy agencies, investors and venture capital firms. </p> 
+    <p></p> 
+    <!-- Start Boombox Ad --> 
+    <div class="ad"> 
+    </div> 
+    <!-- End Boombox Ad --> 
+    <ul data-role="listview" data-inset="true" data-theme="c" data-dividertheme="b"> 
+     <li data-role="list-divider">On the Web</li> 
+     <li><a href="redirect.php?storyID=29981&amp;url=http%3A%2F%2Fwww.engr.ucr.edu%2F" target="blank">UCR Bourns College of Engineering</a></li> 
+    </ul> 
+    <ul data-role="listview" data-inset="true" data-theme="c" data-dividertheme="b"> 
+     <li data-role="list-divider">Related Stories</li> 
+     <li><a href="story.php?storyID=30353">Using Texas Sand to Improve Li-ion Battery Performance</a></li> 
+     <li><a href="story.php?storyID=29645">Creating a Graphene-Metal Sandwich to Improve Electronics</a></li> 
+    </ul> 
+    <p style="text-align: center;"><a href="http://m.powerpulse.net/">Home</a> | <a href="news.php">News</a> | <a href="powerViews.php">PowerViews</a> | <a href="http://www.powerpulse.net/story.php?storyID=29981&amp;m=1" onclick="boom()">View in Full Site</a></p> 
+   </div>
+   <!-- /content --> 
+   <div data-role="footer" data-theme="b"> 
+    <h4>© 2014 Darnell Group Inc.</h4> 
+   </div>
+   <!-- /footer --> 
+  </div>
+  <!-- /page --> 
+  <script type="text/javascript">
+//	 function refresh()
+//	 {
+//		document.getElementById('iframe1').contentWindow.location.reload(); 
+//	 }
+//	 window.setInterval("refresh()",40000);
+</script>   
+ </body>
+</html>

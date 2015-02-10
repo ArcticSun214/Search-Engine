@@ -1,0 +1,388 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Center for Environmental Research &amp; Technology: Home</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2014-11-20"> 
+  <meta name="version" content="2.64 2.138 "> 
+  <!-- 02/09/15 21:41:05 02/09/15 22:02:58 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" media="all"> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="//www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to CE-CERT News via RSS" href="http://www.cert.ucr.edu/rss/news.xml"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.cert.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/design6/masthead.jpg);"> 
+   <h1><a href="http://www.cert.ucr.edu/"><span class="printonly">Center for Environmental Research &amp; Technology</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li> 
+    <li class="lastitem">Center for Environmental Research &amp; Technology</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li><a href="/welcome.html" title="Welcome from the Director">Welcome from the Director</a></li>
+       <li><a href="/research/" title="Research Agenda and Areas">Research Agenda and Areas</a></li>
+       <li><a href="/services/" title="Laboratory Services">Laboratory Services</a></li>
+       <li><a href="/people/" title="People">People</a></li>
+       <li><a href="/contact.html" title="Contact Information and Directions">Contact Information and Directions</a></li>
+       <li><a href="/news" title="News Archive">News Archive<br><span></span></a></li> 
+      </ul> 
+     </div> 
+     <h4 class="news_sidebar_topper"><img src="/images/design6/news_events_topper.png" alt="News &amp; Events"></h4> 
+     <div class="news_sidebar"> 
+      <h5><a href="http://www.cert.ucr.edu/events/pems/">2015 PEMS Conference</a></h5> 
+      <h5><a href="/events/boa2014/annualreport.pdf">2013 Annual Report</a></h5> 
+      <h5><a href="http://www.cert.ucr.edu/opportunities/employment.html">Employment Opportunities</a></h5> 
+      <h5><a href="http://www.cert.ucr.edu/newgrid/">New Grid Testbed</a></h5> 
+      <h5><a href="http://www.cert.ucr.edu/events/solar2014/">2014 Solar Energy Conference</a></h5> 
+      <h5><a href="http://www.scrise.ucr.edu/">Southern California Research Initiative for Solar Energy</a></h5> 
+     </div> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <script type="text/javascript">// <![CDATA[
+$LAB.script('//www.ucr.edu/js/jquery.min.js').wait().
+	 
+script('//www.ucr.edu/js/jquery.tools.scrollable.min.js').wait(function() {
+			jQuery(document).ready(function($) {
+				// interval = (# of seconds on each slide) * 1000, speed = (# of seconds for transition) * 1000
+				$("#l_carousel_scroller").scrollable({
+					circular: true, mousewheel: true, speed: 1000
+				}).navigator({
+					// ul#l_carousel_controls now functions as our navigator
+					navi:'ul#l_carousel_controls li'
+				}).autoscroll({
+					interval: 4000
+				});
+			});
+		});
+// ]]></script> 
+     <div id="l_carousel_scroller" class="l_scrollable"> 
+      <div class="l_carousel_content"> 
+       <div id="l_slide-1" class="l_slide">
+        <img src="/images/carousel/slide1.jpg" alt=" " width="700" height="200">
+       </div> 
+       <div id="l_slide-2" class="l_slide">
+        <a style="font-size: 0.75em; line-height: 1.5; color: #f1ab00; border-bottom-color: #f1ab00;" href="/events/pems/" target="_blank"><img src="/events/pems/savethedate.jpg" alt="PEMS" width="700" height="253"></a>
+       </div> 
+       <div id="l_slide-4" class="l_slide">
+        <a style="font-size: 0.75em; line-height: 1.5; color: #f1ab00; border-bottom-color: #f1ab00;" href="/newgrid/"><img src="/images/carousel/sigilaunched.jpg" alt="New Grid Opening Celebration" width="700" height="200"></a>
+        <img src="/images/carousel/2014graduates.jpg" alt="graduates" width="700" height="200">
+       </div> 
+       <div id="l_slide-5" class="l_slide">
+        <img src="/images/carousel/slide4.jpg" alt=" " width="700" height="200">
+       </div> 
+      </div> 
+     </div> 
+     <ul id="l_carousel_controls"> 
+      <li><a id="l_slide-1_ctrl" class="l_carousel_jumper active" title="Slide 1" href="#l_slide-1" rel="l_slide-1"><span class="accessibility">Slide 1</span></a></li> 
+      <li><a id="l_slide-2_ctrl" class="l_carousel_jumper" title="Slide 2" href="#l_slide-2" rel="l_slide-2"><span class="accessibility">Slide 2</span></a></li> 
+      <li><a id="l_slide-3_ctrl" class="l_carousel_jumper" title="Slide 3" href="#l_slide-3" rel="l_slide-3"><span class="accessibility">Slide 3</span></a></li> 
+      <li><a id="l_slide-4_ctrl" class="l_carousel_jumper" title="Slide 4" href="#l_slide-4" rel="l_slide-4"><span class="accessibility">Slide 4</span></a></li> 
+      <li><a id="l_slide-5_ctrl" class="l_carousel_jumper" title="Slide 5" href="#l_slide-5" rel="l_slide-5"><span class="accessibility">Slide 5</span></a></li> 
+     </ul> 
+     <ul class="texttab-control"> 
+      <li><a href="#news">In the News</a></li> 
+      <li><a href="#livingthepromise">Living the Promise</a></li> 
+      <li><a href="#videos">Videos</a></li> 
+     </ul> 
+     <div id="news"> 
+      <div class="texttab-column"> 
+       <!-- Feed accessed 2015-02-09T21:41:06-08:00--> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.cert.ucr.edu/news/2015/2015-01-29.html"><img alt="JillLuo" src="http://www.cert.ucr.edu/images/news/2015-01-29.jpg">Jill Luo wins $5000 Helene Overly Memorial Scholarship</a></h4> 
+        <p>Jill Luo received a $5000 Helene Overly Memorial Scholarship at the 10th Annual Scholarship and Awards benefit dinner</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.cert.ucr.edu/news/2014/201-12-15.html"><img alt="CE-CERT" src="http://www.cert.ucr.edu/images/news/2014-12-15.jpg">Caterpillar, Inc. donates Diesel Particulate Filters for CE-CERT Research</a></h4> 
+        <p>Officials from UC Riverside's Bourns College of Engineering-Center for Environmental Research and Technology (CE-CERT) today announced an in-kind donation by Caterpillar, Inc. of Diesel Particulate Filters (DPF) to be used for CE-CERT's research purposes.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.cert.ucr.edu/news/2014/2014-11-20.html"><img alt="SolarPanels" src="http://www.cert.ucr.edu/images/news/2014-11-20.jpg">UC Riverside's Solar Array: From Zero to Sixty</a></h4> 
+        <p>UCR is lauded for its 3 megawatt solar farm, currently the largest in the University of California system</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.cert.ucr.edu/news/2014/2014-11-14.html"><img alt="EV" src="http://www.cert.ucr.edu/images/news/2014-11-14.jpg">UCR/CE-CERT to Host Electric Vehicle Test Drive Event</a></h4> 
+        <p>The Riverside Electric Vehicle Day event will allow participants to test drive various electric cars and learn better sustainability practices.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.cert.ucr.edu/news/2014/2014-11-05.html"><img alt="STEP Conference" src="http://www.cert.ucr.edu/images/news/2014-11-5.gif">3rd Annual STEP Conference - October 14th, 2014</a></h4> 
+        <p>As part of the University of California, Riverside, CE-CERT is committed to furthering education and research for the next generation of engineers. On October 8th, 2013 CE-CERT hosted the 2nd annual Science and Technology Education Partnership (STEP) Conference for high schools throughout the Riverside County District. 340 students were able to engage in a more hands-on experience focusing on either Atmospheric Transportation Engineering or Sustainable Energy Engineering.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.cert.ucr.edu/news/2014/2014-10-21.html"><img alt="Roof Top" src="http://www.cert.ucr.edu/images/news/2014-10-21.jpg">Coachella Valley at forefront of energy storage</a></h4> 
+        <p>Long seen as the "next big thing" in renewable energy, affordable battery storage is on the verge of becoming a reality -- and several businesses and research groups with a footprint in the Coachella Valley are helping lead the charge.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.cert.ucr.edu/news/2014/2014-09-08.html"><img alt="Wu" src="http://www.cert.ucr.edu/images/news/2014-09-08.jpg">Cutting Electric Vehicle Energy Use 51 Percent</a></h4> 
+        <p>UC Riverside created tool that takes into account real-time traffic information, road grade and road type cuts down on energy use</p> 
+       </div> 
+       <ul class="more_links"> 
+        <li><a href="/news/">More News</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="livingthepromise"> 
+      <div class="texttab-column"> 
+       <h3>Living the Promise</h3> 
+       <p align="justify">The University of California, Riverside (UCR) is helping to create better world though important research and education in the fields of health, sustainability and technology through innovative thinking, breakthrough research and real-world solutions.</p> 
+       <p align="justify">Find out more about <a href="http://promise.ucr.edu/">Living the Promise</a> at UCR.</p> 
+       <h3>Sustainability</h3> 
+       <p align="justify">Whether pioneering sustainable agriculture, mitigating air pollution, converting biowaste into energy or exploring environmental issues on a molecular level, UCR is discovering new answers to many of the 21st century’s greatest questions.</p> 
+       <p align="justify">We develop flood-and-drought-resistant crops. We engineer solar cars and eco-friendly buildings. We partner with industry to tap the potential of biofuels, renewable energy and alternative transportation systems. We educate next-generation environmental scientists, conservationists, agricultural specialists and urban planners.</p> 
+       <p align="justify">Because climate change isn’t just something we research, it is something we empower everyone to achieve.</p> 
+       <p><img class="img_L" src="/images/sustainability-overview-thumb.jpg" alt="Sustainability @ UCR" width="120" height="68"></p>
+       <div class="jwbox"> 
+        <p></p> 
+        <h5>Video: Sustainability at the University of California Riverside</h5> 
+        <p style="text-align: justify;"> </p>
+        <div class="jwbox_hidden"> 
+         <div class="jwbox_content"> 
+          <img class="jwbox_close" src="http://www.ucr.edu/images/design6/close.png" alt="Close" width="38" height="39"> 
+          <div class="flashcontent"> 
+           <div id="x142354817884cbb41157f"> 
+            <p>Loading the player…</p> 
+           </div> 
+          </div> 
+          <script type="text/javascript">
+// <![CDATA[
+	$LAB.script('http://www.ucr.edu/js/lib/jwplayer.js').wait(function() {
+		jwplayer('x142354817884cbb41157f').setup({
+			flashplayer: 'http://www.ucr.edu/player.swf',
+			controlbar: { margin: 0, position: 'over' },
+			skin: 'http://www.ucr.edu/js/lib/skin/newtubedark/newtubedark.xml',
+			file: 'http://youtu.be/MLl7HR6JthA',
+			height: 360,
+			width: 480,
+			plugins: {
+				'gapro-2': {},
+				'hd-2': {}
+			}
+		});
+	});
+// ]]>
+</script> 
+         </div> 
+        </div> 
+        <script type="text/javascript">
+	// <![CDATA[
+		$LAB.script('http://www.ucr.edu/js/jquery.min.js').wait().script('http://www.ucr.edu/min/f=js/jlib/jwbox.js');
+	// ]]>
+	</script> 
+       </div> Featuring UCR faculty Mikeal Roose, Chair and Professor of Genetics &amp; Geneticist, Akua Asa-Awuku, Assistant Professor of Chemical &amp; Environmental Engineering, and Hideaki Tsutsui, Assistant Professor of Mechanical Engineering.
+       <p></p> 
+       <p><img class="img_L" src="/images/asa-awuku-thumb.jpg" alt="Akua Asa-Awuku: Improving Air Quality" width="120" height="68"></p>
+       <div class="jwbox"> 
+        <p></p> 
+        <h5>Video: Akua Asa-Awuku: Improving Air Quality</h5> 
+        <p style="text-align: justify;"> </p>
+        <div class="jwbox_hidden"> 
+         <div class="jwbox_content"> 
+          <img class="jwbox_close" src="http://www.ucr.edu/images/design6/close.png" alt="Close" width="38" height="39"> 
+          <div class="flashcontent"> 
+           <div id="x142354817802976"> 
+            <p>Loading the player…</p> 
+           </div> 
+          </div> 
+          <script type="text/javascript">
+// <![CDATA[
+	$LAB.script('http://www.ucr.edu/js/lib/jwplayer.js').wait(function() {
+		jwplayer('x142354817802976').setup({
+			flashplayer: 'http://www.ucr.edu/player.swf',
+			controlbar: { margin: 0, position: 'over' },
+			skin: 'http://www.ucr.edu/js/lib/skin/newtubedark/newtubedark.xml',
+			file: 'http://youtu.be/P2lbrz2BuKM',
+			height: 360,
+			width: 480,
+			plugins: {
+				'gapro-2': {},
+				'hd-2': {}
+			}
+		});
+	});
+// ]]>
+</script> 
+         </div> 
+        </div> 
+        <script type="text/javascript">
+	// <![CDATA[
+		$LAB.script('http://www.ucr.edu/js/jquery.min.js').wait().script('http://www.ucr.edu/min/f=js/jlib/jwbox.js');
+	// ]]>
+	</script> 
+       </div> Working in the world's largest indoor air quality chamber, Akua Asa-Awuku looks at particle formation in the atmosphere and how it interacts with water, affecting cloud formation and global climate change.
+       <p></p> 
+       <h4>Featured Faculty:</h4> 
+       <div class="figure_L" style="width: 78px;">
+        <img src="/images/profile-Matt-Barth-thumb.jpg" alt="Matthew Barth" width="74" height="74"> 
+        <p>Director, College of Engineering – Center for Environmental Research &amp; Technology (CE-CERT)</p> 
+       </div> 
+       <h5>MATTHEW BARTH</h5> 
+       <h6>Solar Energy:</h6> 
+       <p align="justify">UCR's Southern California Research Initiative for Solar Energy (SC-RISE) is a partnership of the Bourns College of Engineering, industry affiliates government agencies, public and private utilities, trade organizations and other academic institutions. The center is developing materials for solar energy, solar energy systems, new photovoltaic devices and solar-thermal technologies. Also, the center will serve as an "honest broker" to provide reliable and unbiased information and advice on getting energy from the sun.</p> 
+       <p align="justify"><a href="http://promise.ucr.edu/profile-sustainability-barth.html">View Profile</a></p> 
+       <div class="clear">
+        &nbsp;
+       </div> 
+       <div class="figure_L" style="width: 78px;">
+        <img src="/images/profile-Akua-Asa-Awuku-thumb.jpg" alt="Akua Asa-Awuku" width="74" height="74"> 
+        <p>Assistant Professor of Chemical &amp; Environmental Engineering</p> 
+       </div> 
+       <h5>AKUA ASA-AWUKU</h5> 
+       <h6>Improving Air Quality:</h6> 
+       <p align="justify">Working in the world’s largest indoor air quality chamber, Akua Asa-Awuku looks at particle formation in the atmosphere and how it interacts with water, affecting cloud formation and global climate change.</p> 
+       <p align="justify"><a href="http://promise.ucr.edu/profile-sustainability-asa-awuku.html">View Profile</a></p> 
+       <p align="justify">&nbsp;</p> 
+      </div> 
+     </div> 
+     <div id="videos"> 
+      <div class="texttab-column">
+       <center> 
+        <h3>2014 Overview</h3> 
+        <h4>Center for Environmental Research and Technology (CE-CERT)</h4> 
+        <br> 
+        <iframe src="http://www.youtube.com/embed/q23XYd0t-YI" frameborder="0" width="560" height="315">&amp;nbsp;</iframe>
+       </center>
+      </div> 
+     </div> 
+     <meta name="google-site-verification" content="kqsOyIRxmazQPjphyjhKPrc2kbdKh8_c3_eZ3_E9E3o"> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links footer-links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Flibrary.ucr.edu%2F');">UCR Library</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstatus.ucr.edu%2F');">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstore.ucr.edu%2F');">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Femployment.html');">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fdiversity.ucr.edu%2F');">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Fabout%2Fdirections.html');">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fadmissions.ucr.edu%2FVisitUCR');">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.145631 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column3"> 
+      <h3>Center Information</h3> 
+      <address><strong>Center for Environmental Research &amp; Technology</strong><br> 1084 Columbia Avenue<br> Riverside, CA 92507<br> <a href="/contact.html">Directions to CERT</a><br> <br> Tel: (951) 781-5791<br> Fax: (951) 781-5790<br> E-mail: <a href="mailto:certinfo@cert.ucr.edu?subject=Website%20Inquiry">certinfo@cert.ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://www.cert.ucr.edu/rss/news.xml">Subscribe to CE-CERT News via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a title="CE-CERT Intranet" href="http://cichlid.cert.ucr.edu/intranet/" target="_blank">CE-CERT Intranet</a></li> 
+       <li><a class="external" title="External site: CARB" href="http://www.arb.ca.gov/homepage.htm" target="_blank">California Air Resources Board</a></li> 
+       <li><a class="external" title="External site: California Energy Commission" href="http://www.energy.ca.gov/" target="_blank">California Energy Commission</a></li> 
+       <li><a class="external" title="External site: PATH" href="http://www-path.eecs.berkeley.edu/" target="_blank">Partnership for Advanced Technology for the Highway (PATH)</a></li> 
+       <li><a class="external" title="External site: SCAQMD" href="http://www.aqmd.gov/" target="_blank">South Coast Air Quality Management District</a></li>
+      </ul> 
+      <p class="footer_info"> <img src="/images/ce-cert_footer.png" alt="" width="120" height="66"> In 1992, the <a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> established the Center for Environmental Research &amp; Technology (CE-CERT) as a model for partnerships among industry, government, and academia. CE-CERT's goals were to become a recognized leader in environmental education, a collaborator with industry and government to improve the technical basis for regulations and policy, a creative source of new technology, and a contributor to a better understanding of the environment. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.cert.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01002&amp;site=cmscert&amp;path=%2Findex.html">Last modified: 2014-Nov-20</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.028011 seconds using 1.25 MiB of memory. -->   
+ </body>
+</html>

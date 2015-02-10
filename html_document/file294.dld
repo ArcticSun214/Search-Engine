@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+ <head>
+  <meta charset="utf-8"> 
+  <!-- TeamCity deployment test --> 
+  <title>
+	Find Housing at UCR | Live on Campus | UCR Housing Services
+</title>
+  <link rel="stylesheet" type="text/css" href="Content/css/960Framwork/reset.css">
+  <link rel="stylesheet" type="text/css" href="Content/css/960Framwork/typographyBluePrint.css">
+  <link rel="stylesheet" type="text/css" href="Content/css/960Framwork/960_16_col.css">
+  <link rel="stylesheet" type="text/css" href="Content/css/local.css">
+  <link rel="stylesheet" type="text/css" href="Content/css/footer.css">
+  <link rel="stylesheet" type="text/css" href="Content/css/nav.css">
+  <link rel="stylesheet" type="text/css" href="http://fast.fonts.com/cssapi/c4ee863e-2c76-4806-9962-29c6d10c9ab6.css">
+  <link rel="stylesheet" type="text/css" href="Content/css/colorbox.css">
+  <link rel="stylesheet" type="text/css" href="Content/css/new.css"> 
+  <!--[if lte IE 8]>
+        <link rel="stylesheet" href="~/Content/css/ie7_8.css")" />
+    <![endif]--> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script> 
+  <script type="text/javascript" src="http://fast.fonts.com/jsapi/20ceda85-c2c9-4121-b9b3-ac43775c8a50.js"></script> 
+  <!--[if lt IE 9]>
+        <script src="~/Scripts/Custom_New/html5shiv.js"></script>
+    <![endif]--> 
+  <!--Google Analytics Tracking Code --> 
+  <script type="text/javascript">
+
+    </script> 
+  <script src="Scripts/modernizr-2.5.3.js" type="text/javascript"></script> 
+  <script src="Scripts/Custom_New/functionCalls.js" type="text/javascript"></script> 
+  <style type="text/css">
+        /* Wellness Partners */
+        .wellpartners {
+            position: relative;
+        }
+
+        .callout {
+            font-weight: bold;
+            left: 10px;
+            position: absolute;
+            text-align: right;
+            top: 141px;
+        }
+
+            .callout ul, ol, dl {
+                font-size: 0.96em;
+                line-height: 1.2em;
+                margin: 1em;
+            }
+
+                .callout ul > li {
+                    margin: 1.1em 0 0 26px;
+                }
+
+            .callout a, .callout a:link {
+                border-bottom: 0 none;
+                color: #FFFFFF !important;
+            }
+        /* Accordion Tweeks*/
+
+        #homePageSideBar.accordionA div.outerAccordion {
+            height: 273px;
+            overflow-y: auto;
+            padding: 10px;
+        }
+
+        div.outerAccordion::-webkit-scrollbar-track {
+        /*-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);*/
+        background-color: #F5F5F5;
+        }
+
+        div.outerAccordion::-webkit-scrollbar {
+            width: 3px;
+            background-color: #F5F5F5;
+        }
+
+        div.outerAccordion::-webkit-scrollbar-thumb {
+            /*background-color: #000000;*/
+            background-color: #737373
+        }
+
+        #homePageSideBar.accordionA li div {
+            background-color: #ffffff;
+        }
+
+            #homePageSideBar.accordionA li div p {
+                font-size: 1em;
+                border-bottom: 1px solid #c9c9c9;
+                margin-bottom: 11px;
+                padding-bottom: 5px;
+            }
+
+                #homePageSideBar.accordionA li div p:last-of-type {
+                    border-bottom: none;
+                    margin: 0;
+                    padding: 0;
+                }
+
+                #homePageSideBar.accordionA li div p span, #homePageSideBar.accordionA li div p strong {
+                    margin-bottom: 5px;
+                    display: block;
+                }
+
+        span.overlay {
+            display: block;
+            position: absolute;
+            top: 40px;
+            right: 0px;
+            height: 46px;
+            line-height: 23px;
+            font-size: 1.4em;
+            color: #ffffff;
+            background: rgba(22,82,162,0.79);
+            font-family: "BrandonGrotW01-BoldItal";
+            padding: 9px;
+            text-align: right;
+        }
+
+        accordianSpace {
+            padding: 10px 10px 10px 10px;
+        }
+
+        span.communitySliderTop {
+            display: block;
+            margin: 25px 179px 15px 189px;
+            padding: 0 0 10px 0;
+            border-bottom: 1px solid #d8d7d7;
+        }
+
+        h3.communitySliderHeading {
+            font-family: "BrandonGrotW01-BoldItal"; /* BrandonGortesque Medium Italic*/
+            color: #ef632c;
+            font-size: 1.5em;
+            text-transform: uppercase;
+            text-align: center;
+            border-bottom: 1px solid #d8d7d7;
+            padding-bottom: 13px;
+            margin-bottom: 35px;
+        }
+
+        div.bottomCallouts {
+        }
+
+            div.bottomCallouts img {
+                display: block;
+                margin: 0 auto 20px auto;
+            }
+
+            div.bottomCallouts p {
+                line-height: 2;
+            }
+
+        /* Second BX Slider Styles */
+        div#bxsliderWrapper2, div#bxsliderWrapper2 .bx-wrapper {
+            position: relative;
+            /*width: 916px;*/
+            width: 700px;
+        }
+
+            div#bxsliderWrapper2 .bx-wrapper .bx-viewport {
+                background: none;
+                border: none;
+                box-shadow: none;
+                margin-left: 18px;
+            }
+
+            div#bxsliderWrapper2 .bx-wrapper img {
+                width: auto;
+            }
+
+
+            div#bxsliderWrapper2 div.bx-pager.bx-default-pager {
+                bottom: 24px;
+                left: 54px;
+            }
+
+            div#bxsliderWrapper2 div.sliderControls {
+                position: absolute;
+                top: 80px;
+                left: -16px;
+                height: 45px;
+                width: 760px;
+                z-index: 1000;
+            }
+
+                div#bxsliderWrapper2 div.sliderControls span {
+                    height: 45px;
+                    width: 24px;
+                    display: block;
+                }
+
+                    div#bxsliderWrapper2 div.sliderControls span#slider-prev {
+                        float: left;
+                    }
+
+                    div#bxsliderWrapper2 div.sliderControls span#slider-next {
+                        float: right;
+                    }
+
+                    div#bxsliderWrapper2 div.sliderControls span#slider-prev a, div.sliderControls span#slider-next a {
+                        height: 45px;
+                        width: 24px;
+                        text-indent: -9999px;
+                        display: block;
+                    }
+
+                    div#bxsliderWrapper2 div.sliderControls span#slider-prev {
+                        background: url(Content/css/images/leftArrowLarge.png) no-repeat 0 0;
+                    }
+
+                    div#bxsliderWrapper2 div.sliderControls span#slider-next {
+                        background: url(Content/css/images/rightArrowLarge.png) no-repeat 0 0;
+                    }
+
+        a.pricingContainer span.descriptionOverlay {
+            left: 10px;
+            width: 185px;
+            /*font-family: "BrandonGrotW01-MediumIt";*/
+        }
+
+            a.pricingContainer span.descriptionOverlay span {
+                /*margin-top: -5px;*/
+                padding-top: 0;
+                height: 40px;
+            }
+
+            a.pricingContainer span.descriptionOverlay.pink span {
+                color: #FF5265;
+            }
+
+        .accordionA li li, .accordionA li div {
+            padding: 0px;
+        }
+
+        /** Calendar Plugin Overrides**/
+        table.ed-container {
+            border: solid 1px #d7d7d7;
+        }
+
+        .ed-monthNav {
+            background-color: #fff;
+            text-align: center;
+            color: #2d66c0 !important;
+            margin-top: 0px;
+            margin-bottom: 0;
+            border: none !important;
+            box-shadow: none !important;
+        }
+
+            .ed-monthNav .ed-monthName {
+                font-family: "Trade Gothic W02 Cn 18","Arial Narrow",Arial,"Helvetica Neue",Helvetica,"Liberation Sans",sans-serif;
+                font-size: 1.5em;
+                width: 30%;
+                margin-left: -20px;
+            }
+
+            .ed-monthNav .ed-monthPrev {
+                float: left;
+                height: 20px;
+                background: url('images/thinGreyArrowLeft.png') no-repeat !important;
+                margin-top: -10px;
+                margin-left: 15px;
+            }
+
+            .ed-monthNav .ed-monthNext {
+                float: right;
+                /*width: 15%;*/
+                height: 20px;
+                background: url('images/thinGreyArrowRight.png') no-repeat !important;
+                margin-top: -10px;
+            }
+
+        span.ed-monthName-date {
+            display: none;
+        }
+
+        td.ed-date-area span.month {
+            font-weight: 900;
+            color: #0074BC;
+        }
+
+        td.ed-date-area span.date {
+            font-size: 1.75em;
+            color: #0074BC;
+        }
+
+        td.ed-date-area span.day {
+            font-weight: 700;
+            color: #888;
+        }
+        /** End Overrides for Calendar **/
+    </style> 
+  <link href="Content/css/plugins/jquery.bxslider.css" rel="stylesheet"> 
+  <link href="Content/css/plugins/CalendarEvents.css" rel="stylesheet"> 
+  <script src="Scripts/Custom_New/jquery.bxslider.min.js"></script> 
+  <script src="Scripts/Custom_new/jquery-ui-1.8.11.js" type="text/javascript"></script> 
+  <script src="Scripts/calendarEvents/CalendarEvents.js"></script> 
+  <script type="text/javascript">
+        $(document).ready(function () {
+            // set empty string title on image elements in bxSlider
+            $('ul.bxslider img').attr('title', '');
+            $('.bxslider').bxSlider({
+                mode: 'fade',
+                speed: 1000,
+                captions: true,
+                auto: true,
+                autoHover: true,
+                pause: 10000
+            });
+
+            // Second implementation of bx slider here!!
+            $('.bxslider2').bxSlider({
+                mode: 'horizontal',
+                speed: 1000,
+                adaptiveHeight: true,
+                nextSelector: '#slider-next',
+                prevSelector: '#slider-prev',
+                nextText: 'Next',
+                prevText: 'Previous',
+                pause: 5000,
+                //minSlides: 2,
+                //maxSlides: 4,
+                //moveSlides: 2,
+                minSlides: 3,
+                maxSlides: 3,
+                moveSlides: 1,
+                slideWidth: 200,
+                slideMargin: 20,
+                pager: false,
+                touchEnabled: true,
+                auto: false
+            });
+            // initialize accordion
+            $('.accordionA > li > ul, .accordionA > li > div')
+            .click(function (e) {
+                e.stopPropagation();
+            })
+            .parent().filter(':first').addClass('activeAccordion').end()
+            .find('> ul, > div').filter(':not(:first)')
+            .hide();
+            $('.accordionA > li').click(function () {
+                var accordionListItem = $('.accordionA > li');
+                var selfCheck = $(this).find('div:first, ul:first').is(':visible');
+                if (selfCheck) {
+                    return;
+                }
+                accordionListItem.removeClass();
+                $(this).addClass('activeAccordion');
+                $(this).parent().find(' > li > div:visible, > li > ul:visible').slideToggle();
+                $(this).find('> ul:first, > div:first').stop(true, true).slideToggle();
+            });
+            $('.accordionA > li > a').click(function (e) {
+                //alert($(this).text() + ' accordion clicked');
+                loadCalendar($(this).text());
+                e.preventDefault();
+            });
+
+            // Initialize the calendar on the default 1st accordion
+            $('.accordionA > li > a:first').click();
+        });
+        loadCalendar = function (control) {
+            var userAcct = "ucrhousingservices@gmail.com";
+            var acctApiKey = "AIzaSyCrPnmIYNcnG3taiMW49KnIYwb6m-hgtuI";
+
+            // Check which control
+            switch (control) {
+                case "Announcements":
+                    //$("#calAnnouncements").html("");
+                    $("#calAnnouncements").CalendarEvents({
+                        user: userAcct
+                        , apiKey: acctApiKey
+                        , displayType: "perMonth"
+                        , searchCriteria: "#housingannouncement"
+                        , searchCondition: "in"
+                        , searchPath: "description"
+                        , height: "225"
+                        , addLinkType: "link"
+                        , setContainer: false
+
+                    })
+                    break;
+
+                case "Upcoming Events":
+                    //$("#calUpcomingEvents").html("");
+                    $("#calUpcomingEvents").CalendarEvents({
+                        user: userAcct
+                        , apiKey: acctApiKey
+                        , displayType: "perMonth"
+                        , searchCriteria: "#housingevent"
+                        , searchCondition: "in"
+                        , searchPath: "description"
+                        , height: "225"
+                        , addLinkType: "link"
+                        , setContainer: false
+                    })
+                    break;
+            }
+            
+        }
+    </script> 
+  <meta name="description" content="UCR Housing Services offers affordable, on-campus housing for freshman, current, transfer and family students. Find Residence Halls, UCR Campus Apartments and Family Housing that offer great amenities and a secure living environment. Housing communities are close to 215, 60, and 91 freeways, and Downtown Riverside. Apply now."> 
+  <meta name="keywords" content="Find affordable housing at UCR, lease apartments on campus, residence halls, apply for student housing"> 
+  <meta id="MetaCopyright" name="COPYRIGHT" content="Copyright Regents of the University of California"> 
+  <meta id="MetaAuthor" name="AUTHOR" content="UCR Housing Services"> 
+  <style type="text/css">
+         /*  Google Watermark Styles */
+        .GoogleWatermark
+        {
+            background: url(http://www.ucr.edu/images/design6/google_search_watermark.gif) no-repeat scroll 10px 10px #FFFFFF;
+        }
+    </style> 
+  <!-- Google Analytics Code --> 
+  <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-503078-2', 'auto');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+
+    </script> 
+  <!-- Custom Search Code --> 
+  <script type="text/javascript">
+        var $SearchBox = $("#SearchText");
+        var $value = $SearchBox.val();
+        $(document).ready(function () {
+            $("#SearchText").addClass('GoogleWatermark');
+
+            $("#SearchText").on('click blur change', function () {
+                $(this).toggleClass('GoogleWatermark');
+            });
+
+            $SearchBox.bind("enterKey", function (e) {
+                window.location = "search.aspx?q=" + $value;
+            });
+            $SearchBox.keyup(function (e) {
+                if (e.keyCode == 13) {
+                    e.preventDefault();
+                    $(this).trigger("enterKey");
+                }
+            });
+            
+        });
+    </script> 
+ </head> 
+ <body> 
+  <form method="post" action="" id="form1" style="width: 100%;"> 
+   <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzUzNTIwODIwD2QWAmYPZBYCAgMPZBYEAgMPDxYCHghJbWFnZVVybAUjfi9JbWFnZXMvbWFzdGhlYWQvaG9tZV9hdWRpZW5jZS5wbmdkZAIjD2QWAgIBDw8WAh4EVGV4dAXdBTx1bCBjbGFzcz0iYnhzbGlkZXIiPjxsaT48YSBocmVmPSJodHRwczovL3d3dy52cGl4Lm5ldC9pbmRleC5waHA/dG91cj0xMDM5MjMiPjxpbWcgYWx0PSJTbGlkZXIiIHNyYz0iaHR0cDovL2hvdXNpbmcudWNyLmVkdS9SZXNvdXJjZS5hc2h4P05hbWU9UmV0dXJuaW5nUmVzaWRlbnRzU2xpZGVyLTAxMzAyMDE1LTA2MzAyMy5qcGciIC8+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vYXV0aC51Y3IuZWR1L2Nhcy9sb2dpbj9zZXJ2aWNlPWh0dHBzOi8vc3R1ZGVudDA4LnVjci5lZHUvc3R1ZGVudC9ob3VzaW5nQ29udHJhY3QvQWNjb3VudENoZWNrLmFzcHgiPjxpbWcgYWx0PSJTbGlkZXIiIHNyYz0iaHR0cDovL2hvdXNpbmcudWNyLmVkdS9SZXNvdXJjZS5hc2h4P05hbWU9V2ludGVyQWRtaXRzMjAxNC0xNS0xMTE2MjAxNC0wMzE1NTQuanBlZyIgLz48L2E+PC9saT48bGk+PHNwYW4gc3R5bGU9Im1hcmdpbi10b3A6IDEzMHB4OyIgY2xhc3M9Im92ZXJsYXkiPkNvbXBhcmUgVUMgUml2ZXJzaWRlJ3MgMTAgcmVzaWRlbnRpYWwgY29tbXVuaXRpZXM8YnIgLz5ieSB0YWtpbmcgYSAzNjDCsCBWaXJ0dWFsIFRvdXIuPC9zcGFuPjxhIGhyZWY9Imh0dHA6Ly93d3cudnBpeC5uZXQvaW5kZXgucGhwP3RvdXI9MTAzOTI1Ij48aW1nIGFsdD0iU2xpZGVyIiBzcmM9Imh0dHA6Ly9ob3VzaW5nLnVjci5lZHUvaW1hZ2VzL2luZGV4L2hvbWVwYWdlU2xpZGVyMi5qcGciIC8+PC9hPjwvbGk+PC91bD5kZGSpNKdXUuvczSuno7zOYlLCSzUWuf/Q2e7NQNSp+AwWvQ=="> 
+   <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAANbussLWMFGkOgEhkfLNousGVvMKWnPzyxhwWqgIBydkTYN6WHK3Gd9rmGa0sJgQFezHCLisW2rJN5pAHnPaR7Ze1CO+As2QblHW6KAPTnI7g=="> 
+   <!-- Testing Team City auto deploy --> 
+   <header id="top"> 
+    <div id="brandingbar"> 
+     <div class="container_16 clearfix"> 
+      <div class="grid_5 prefix_11 omega"> 
+       <h1 class="caps"><a href="http://ucr.edu">University of California, Riverside</a></h1> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="masthead"> 
+     <div class="container_16"> 
+      <div class="grid_4" style="z-index: 100; position: relative;"> 
+       <h2> <a href="./" class=""> <img src="Images/ucrLogo.png" id="Img1" alt="UCR Logo" width="179" height="78"> <span class="accessibility">University of California</span> </a> </h2> 
+      </div> 
+      <img id="imgHeaderImage" class="masthead_houses" src="Images/masthead/home_audience.png" alt="Header Image"> 
+     </div> 
+    </div> 
+   </header> 
+   <nav id="breadcrumbs"> 
+    <div class="container_16 clearfix"> 
+     <div class="grid_16"> 
+      <p> <a href="http://ucr.edu">UCR Home</a> &gt; <a href="http://vcsa.ucr.edu">VCSA</a> &gt; <a href="default.aspx" id="BreadCrumbs_A1">Housing Services</a> </p> 
+     </div> 
+    </div> 
+   </nav> 
+   <div id="body" style="padding-bottom: 90px;"> 
+    <div class="wrapper container_16"> 
+     <div id="navUtility" class="clearfix"> 
+      <div class="grid_4"> 
+       <ul class="socNetIcons"> 
+        <li><a href="./" class="homePage"> <span class="accessibility">Homepage</span> </a></li> 
+        <li><a class="emailUs" href="mailto:housinginfo@ucr.edu"> <span class="accessibility">Contact Housing Services</span> </a></li> 
+       </ul> 
+      </div> 
+      <div class="grid_3 alpha" style="position: relative;margin-left:5px;"> 
+       <div style="visibility: hidden;">
+        Quicklinks dropdown menu
+       </div> 
+       <div id="button"> 
+        <img src="Images/buttons/quickLinks.png" alt="access quicklinks" class="menu_classQl"> 
+        <ul class="the_menuQl" style="display: none;"> 
+         <li> <a href="help-desk/parking-transportation.aspx">Bikes, Parking &amp; Transportation</a></li> 
+         <li> <a href="get-housing/default.aspx">How to Apply for UCR Housing</a></li> 
+         <li> <a href="liveUCR/special-interest-housing.aspx">Living-Learning Communities/Theme Halls</a></li> 
+         <li> <a href="help-desk/pay-bill.aspx">Make a Payment</a></li> 
+         <li> <a href="help-desk/offcampus-housing.aspx">Off-Campus Housing</a></li> 
+         <li> <a href="get-housing/rates-billing.aspx">Rates &amp; Billing</a></li> 
+         <li> <a href="help-desk/movein-moveout.aspx">Renter's Insurance</a></li> 
+         <li> <a href="help-desk/request-repair.aspx">Request a Repair</a></li> 
+         <li> <a href="under-roof/resident-services.aspx">Resident Services Office&nbsp;</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="grid_9 omega searchUtility clearfix"> 
+       <p style="float:right;"> </p>
+       <div id="SearchPanel"> 
+        <a id="go" class="go" href="javascript:__doPostBack('ctl00$go','')"></a> 
+        <input name="ctl00$SearchText" type="text" id="SearchText" title="Custom Google Search - UCR Housing" class="searchBox"> 
+       </div> 
+       <p></p> 
+      </div> 
+     </div> 
+     <br> 
+     <div> 
+      <div class="grid_4"> 
+       <nav class="audience"> 
+        <ul class="navSectionTitle"> 
+         <li>Who Are You</li> 
+        </ul> 
+        <ul class="audienceNav navWrapper"> 
+         <li><a href="prospective-students.aspx">Prospective Student</a></li> 
+         <li><a href="current-students.aspx">Current Student</a></li> 
+         <li><a href="international-students.aspx">International Student</a></li> 
+         <li><a href="student-families.aspx">Student With Family</a></li> 
+         <li><a href="parents.aspx">Parent/Guardian</a></li> 
+         <li><a href="faculty-staff.aspx">Faculty/Staff</a></li> 
+        </ul> 
+       </nav> 
+       <nav class="main"> 
+        <ul class="navSectionTitle"> 
+         <li>Services</li> 
+        </ul> 
+        <ul class="mainNav navWrapper"> 
+         <li><a href="liveUCR/default.aspx">Live @ UCR</a> 
+          <ul> 
+           <li><a href="liveUCR/academic-success.aspx">Academic Success</a></li> 
+           <li><a href="liveUCR/campus-safety.aspx">Campus Safety</a></li> 
+           <li><a href="liveUCR/dining-options.aspx">Dining Options</a></li> 
+           <li><a href="liveUCR/special-interest-housing.aspx">Special Interest Housing</a></li> 
+           <li><a href="liveUCR/green-your-scene.aspx">Green Your Scene</a></li> 
+          </ul> </li> 
+         <li><a href="housing-options/default.aspx">UCR Housing Options</a> 
+          <ul> 
+           <li><a href="housing-options/residence-halls/default.aspx">UCR Residence Halls</a> 
+            <ul> 
+             <li><a href="housing-options/residence-halls/ai.aspx">Aberdeen-Inverness</a></li> 
+             <li><a href="housing-options/residence-halls/lothian.aspx">Lothian</a></li> 
+             <li><a href="housing-options/residence-halls/pentland-hills.aspx">Pentland Hills</a></li> 
+            </ul> </li> 
+           <li><a href="housing-options/campus-apartments/default.aspx">UCR Campus Apartments</a> 
+            <ul> 
+             <li><a href="housing-options/campus-apartments/bannockburn.aspx">Bannockburn Village</a></li> 
+             <li><a href="housing-options/campus-apartments/falkirk.aspx">Falkirk</a></li> 
+             <li><a href="housing-options/campus-apartments/glen-mor.aspx">Glen Mor</a></li> 
+             <li><a href="housing-options/campus-apartments/oban.aspx">Oban</a></li> 
+             <li><a href="housing-options/campus-apartments/plaza.aspx">The Plaza</a></li> 
+             <li><a href="housing-options/campus-apartments/stonehaven.aspx">Stonehaven</a></li> 
+            </ul> </li>
+           <li><a href="housing-options/family-student-housing.aspx">UCR Family Housing</a> </li>
+           <li><a href="housing-options/short-term-summer.aspx">UCR Summer Housing</a> </li> 
+          </ul> </li> 
+         <li><a href="get-housing/default.aspx">Get Housing</a> 
+          <ul> 
+           <li><a href="get-housing/applications-contracts.aspx">Applications &amp; Contracts</a></li> 
+           <li><a href="get-housing/important-deadlines.aspx">Important Deadlines</a></li> 
+           <li><a href="get-housing/rates-billing.aspx">Rates &amp; Billing</a></li> 
+           <li><a href="get-housing/tour-overnight.aspx">Schedule a Tour </a></li> 
+          </ul> </li> 
+         <li><a href="residential-life/default.aspx">Residential Life</a> 
+          <ul> 
+           <li><a href="residential-life/menu-diningdollars.aspx">Today's Menu &amp; Dining Dollars</a></li> 
+           <li><a href="residential-life/programs-activities.aspx">Programs &amp; Activities</a></li> 
+           <li><a href="residential-life/health-wellness.aspx">Health &amp; Wellness</a></li> 
+           <li><a href="residential-life/roommates.aspx">Roommates</a></li> 
+           <li><a href="residential-life/handbooks-policies.aspx">Handbooks, Policies &amp; Newsletters</a></li> 
+           <li><a href="residential-life/resident-associations.aspx">Resident Associations</a></li> 
+           <li><a href="residential-life/computers-gaming.aspx">Computers &amp; Gaming</a></li> 
+          </ul> </li> 
+         <li><a href="help-desk/default.aspx">Help Desk</a> 
+          <ul> 
+           <li><a href="help-desk/pay-bill.aspx">Pay a Bill</a></li> 
+           <li><a href="help-desk/request-repair.aspx">Request a Repair</a></li> 
+           <li><a href="help-desk/resolve-conflict.aspx">Resolve a Conflict</a></li> 
+           <li><a href="help-desk/parking-transportation.aspx">Bikes, Parking &amp; Transportation</a></li> 
+           <li><a href="help-desk/movein-moveout.aspx">Move In/Out</a></li> 
+           <li><a href="help-desk/offcampus-housing.aspx">Off-Campus Housing</a></li> 
+          </ul> </li> 
+         <li><a href="employment/default.aspx">Employment</a> 
+          <ul> 
+           <li><a href="employment/student-jobs.aspx">Student Jobs</a></li> 
+           <li><a href="employment/career-opportunities.aspx">Career Opportunities</a></li> 
+          </ul> </li> 
+         <li><a href="under-roof/default.aspx">Under the Roof</a> 
+          <ul> 
+           <li><a href="under-roof/administrative-services.aspx">Administrative Services</a></li> 
+           <li><a href="under-roof/resident-services.aspx">Resident Services Offices</a></li> 
+           <li><a href="under-roof/meet-team.aspx">Meet the Residence Life Team</a></li> 
+          </ul> </li> 
+         <li><a href="faqs/default.aspx">Frequently Asked Questions</a> </li> 
+        </ul> 
+       </nav> 
+       <div class="wellpartners"> 
+        <img src="Images/wellnessPartners/wellness-partners-banner-2.png" id="leftHandSideBar_Img15" alt="Student Wellness Partners"> 
+        <div class="callout"> 
+         <ul> 
+          <li><a target="_blank" title="Campus Health" href="http://campushealth.ucr.edu">Campus Health Center</a></li> 
+          <li><a target="_blank" title="Counseling" href="http://counseling.ucr.edu">Counseling Center</a></li> 
+          <li><a target="_blank" title="Dean of Students" href="http://deanofstudents.ucr.edu">Dean of Students</a></li> 
+          <li><a target="_blank" title="Housing" href="http://housing.ucr.edu">Housing, Dining &amp;<br> Residential Services</a></li> 
+          <li><a target="_blank" title="International Center" href="http://internationalcenter.ucr.edu">International Student Resource Center</a></li> 
+          <li><a target="_blank" title="Recreation" href="http://recreation.ucr.edu">Student Recreation Center</a></li> 
+          <li><a target="_blank" title="Well" href="http://well.ucr.edu/">The Well</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <section class=""> 
+      <div class="grid_12"> 
+       <div> 
+        <span id="MainContentPlaceholder_lblSlider">
+         <ul class="bxslider">
+          <li><a href="https://www.vpix.net/index.php?tour=103923"><img alt="Slider" src="http://housing.ucr.edu/Resource.ashx?Name=ReturningResidentsSlider-01302015-063023.jpg"></a></li>
+          <li><a href="https://auth.ucr.edu/cas/login?service=https://student08.ucr.edu/student/housingContract/AccountCheck.aspx"><img alt="Slider" src="http://housing.ucr.edu/Resource.ashx?Name=WinterAdmits2014-15-11162014-031554.jpeg"></a></li>
+          <li><span style="margin-top: 130px;" class="overlay">Compare UC Riverside's 10 residential communities<br>by taking a 360° Virtual Tour.</span><a href="http://www.vpix.net/index.php?tour=103925"><img alt="Slider" src="http://housing.ucr.edu/images/index/homepageSlider2.jpg"></a></li>
+         </ul></span> 
+       </div> 
+       <div class="clearfix"> 
+        <div class="grid_6 alpha"> 
+         <h4>Find UCR Campus Housing</h4> 
+         <p>Our three housing options – <a href="housing-options/residence-halls/default.aspx">Residence Halls</a>, <a href="housing-options/campus-apartments/default.aspx">UCR Campus Apartments</a> and <a href="housing-options/family-student-housing.aspx">Family Housing</a> – provide you with a convenient, student-centered environment to complement university education. </p> 
+         <p>With zero commute, friends next door and plenty of recreational activities happening down the hall or in the next building over, you are in the center of the action. </p> 
+         <p>When it’s time to buckle down and study for a big exam, you'll find computer labs, study buddies and plenty of academic resources.</p> 
+         <p>Plus, UCR Police and on-duty Residence Life staff provide 24-hour assistance and are committed to delivering a safe and secure environment.</p> 
+         <p>When the campus is at your doorstep, the only thing you need to do is step outside.</p> 
+         <div style="float: right">
+          <a href="liveUCR/default.aspx" class="button med arrow1">Live @ UCR</a>
+         </div> 
+        </div> 
+        <div class="grid_6 omega"> 
+         <ul id="homePageSideBar" class="accordionA"> 
+          <li> <a href="#" class="active">Announcements</a> 
+           <div class="outerAccordion"> 
+            <table id="calAnnouncements"></table> 
+           </div> </li> 
+          <li> <a href="#">Upcoming Events</a> 
+           <div class="outerAccordion"> 
+            <table id="calUpcomingEvents"></table> 
+           </div> </li> 
+          <li> <a href="#">Today's Menu</a> 
+           <div class="outerAccordion"> 
+            <strong>Residential Restaurants</strong>
+            <br> 
+            <a href="http://housing.ucr.edu/residential-life/menu-diningdollars.aspx">» Aberdeen-Inverness Residential Restaurant</a>
+            <br> 
+            <a href="http://housing.ucr.edu/residential-life/menu-diningdollars.aspx">» Lothian Residential Restaurant</a>
+            <br> 
+            <br> 
+           </div> </li> 
+          <li> <a href="#">Gaming Availability</a> 
+           <div class="outerAccordion"> 
+            <p> <b>The Escape</b> <br> Pentland Hills E112 <br> Featuring 20 computers and more than two dozen game titles, The Escape is our full-time gaming lounge. Access is available 24/7 to the residents of Aberdeen-Inverness, Lothian, Pentland Hills and Glen Mor. <a href="residential-life/computers-gaming.aspx">View computer availability.</a> </p> 
+           </div> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="clearfix" style="margin-top: 60px;"> 
+        <div class="grid_3 prefix_1 alpha"> 
+         <a href="help-desk/pay-bill.aspx" class="button reserveHousing" style="margin-bottom: 20px; margin-left: -60px;"> <span class="btnOverlay"> <span class="ribbonContainer"> <span class="leftRibbon" style="width: 45px;">&nbsp;</span><span class="ribbonInnerText">MAKE A</span><span class="rightRibbon" style="width: 45px;">&nbsp;</span></span> <br> HOUSING PAYMENT </span> </a> 
+        </div> 
+        <div class="grid_3 prefix_1 omega"> 
+         <a href="http://www.vpix.net/index.php?tour=103925" target="_blank" class="button Virtual360" style="margin-bottom: 20px; margin-left: -60px;"> <span class="btnOverlay"> <span class="ribbonContainer"> <span class="leftRibbon" style="width: 45px;">&nbsp;</span><span class="ribbonInnerText">TAKE A</span><span class="rightRibbon" style="width: 45px;">&nbsp;</span></span> <br> 360° VIRTUAL TOUR </span> </a> 
+        </div> 
+        <div class="grid_3 prefix_1 alpha"> 
+         <a href="help-desk/request-repair.aspx" class="button reserveHousing" style="margin-bottom: 20px; margin-left: -40px;"> <span class="btnOverlay"> <span class="ribbonContainer"> <span class="leftRibbon" style="width: 45px;">&nbsp;</span><span class="ribbonInnerText">SUBMIT A</span><span class="rightRibbon" style="width: 45px;">&nbsp;</span></span> <br> SERVICE REQUEST </span> </a> 
+        </div> 
+       </div> 
+       <span class="communitySliderTop">&nbsp;</span> 
+       <h3 class="communitySliderHeading">Choose a community To view amenities, features, floor plans and pricing.</h3> 
+       <div id="bxsliderWrapper2" style="margin-left: -14px;"> 
+        <ul class="bxslider2"> 
+         <li> <a href="housing-options/residence-halls/ai.aspx" id="MainContentPlaceholder_A10" class="pricingContainer"> <img src="Images/index/A-IThumb.jpg" id="MainContentPlaceholder_Img13" alt="AI"> <span class="descriptionOverlay green">Aberdeen-Inverness<span>&gt;&gt; Residence Hall</span></span> </a> </li> 
+         <li> <a href="housing-options/residence-halls/pentland-hills.aspx" id="MainContentPlaceholder_A4" class="pricingContainer"> <img src="Images/index/pentlandThumb.jpg" id="MainContentPlaceholder_Img7" alt="Pentland"> <span class="descriptionOverlay blue">Pentland Hills<span>&gt;&gt; Residence Hall</span></span> </a> </li> 
+         <li> <a href="housing-options/residence-halls/lothian.aspx" id="MainContentPlaceholder_A5" class="pricingContainer"> <img src="Images/index/lothianThumb.jpg" id="MainContentPlaceholder_Img8" alt="Lothian"> <span class="descriptionOverlay orange">Lothian<span>&gt;&gt; Residence Hall</span></span> </a> </li> 
+         <li> <a href="housing-options/campus-apartments/bannockburn.aspx" id="MainContentPlaceholder_A7" class="pricingContainer"> <img src="Images/index/BannockburnThumb.jpg" id="MainContentPlaceholder_Img10" alt="Bannockburn"> <span class="descriptionOverlay orange">Bannockburn Village<span>&gt;&gt; UCR Campus Apartment</span></span> </a> </li> 
+         <li> <a href="housing-options/campus-apartments/falkirk.aspx" id="MainContentPlaceholder_A6" class="pricingContainer"> <img src="Images/index/FalkirkThumb.jpg" id="MainContentPlaceholder_Img9" alt="Falkirk"> <span class="descriptionOverlay blue">Falkirk<span>&gt;&gt; UCR Campus Apartment</span></span> </a> </li> 
+         <li> <a href="housing-options/campus-apartments/glen-mor.aspx" id="MainContentPlaceholder_A9" class="pricingContainer"> <img src="Images/index/GlenmorThumb.jpg" id="MainContentPlaceholder_Img12" alt="Glenmor"> <span class="descriptionOverlay pink">Glen Mor<span>&gt;&gt; UCR Campus Apartment</span></span> </a> </li> 
+         <li> <a href="housing-options/campus-apartments/oban.aspx" id="MainContentPlaceholder_A2" class="pricingContainer"> <img src="Images/index/obanThumb.jpg" id="MainContentPlaceholder_Img5" alt="Oban"> <span class="descriptionOverlay pink">Oban<span>&gt;&gt; UCR Campus Apartment</span></span> </a> </li> 
+         <li> <a href="housing-options/campus-apartments/plaza.aspx" id="MainContentPlaceholder_A3" class="pricingContainer"> <img src="Images/index/plazaThumb.jpg" id="MainContentPlaceholder_Img6" alt="Plaza"> <span class="descriptionOverlay blue">The Plaza<span>&gt;&gt; UCR Campus Apartment</span></span> </a> </li> 
+         <li> <a href="housing-options/campus-apartments/stonehaven.aspx" id="MainContentPlaceholder_A11" class="pricingContainer"> <img src="Images/index/stonehaventhumb2.jpg" id="MainContentPlaceholder_Img1" alt="Stonehaven"> <span class="descriptionOverlay orange">Stonehaven<span>&gt;&gt; UCR Campus Apartment</span></span> </a> </li> 
+         <li> <a href="housing-options/family-student-housing.aspx" id="MainContentPlaceholder_A8" class="pricingContainer"> <img src="Images/index/familythumb.jpg" id="MainContentPlaceholder_Img11" alt="Family Housing"> <span class="descriptionOverlay pink">Canyon Crest<span>&gt;&gt; Family Housing</span></span> </a> </li> 
+        </ul> 
+        <div class="sliderControls"> 
+         <span id="slider-prev"></span> 
+         <span id="slider-next"></span> 
+        </div> 
+       </div> 
+       <div class="bottomCallouts" style="position: relative;"> 
+        <div class="grid_4 alpha"> 
+         <img src="Images/index/738KGallons.png" id="MainContentPlaceholder_Img2" alt="738k Gallons"> 
+         <p>We save more than 738,000 gallons annually through retrofitted appliances and 9,000 gallons a week with low-flow toilets. <a href="liveUCR/green-your-scene.aspx" id="MainContentPlaceholder_A12">Explore our initiatives for sustainable living.</a></p> 
+        </div> 
+        <div class="grid_4"> 
+         <img src="Images/index/24_7Assistance.png" id="MainContentPlaceholder_Img3" alt="24 Hour Assistance"> 
+         <p>For emergency assistance, Residence Life staff is available 24 hours a day, seven days a week. <a href="liveUCR/campus-safety.aspx" id="MainContentPlaceholder_A13">See more safety services available to residents.</a></p> 
+        </div> 
+        <div class="grid_omega"> 
+         <img src="Images/index/65Percent.png" id="MainContentPlaceholder_Img4" alt="65 Percent"> 
+         <p>Students who live on campus have a 65% better chance to complete a degree in four years than students who live off campus. <a href="liveUCR/academic-success.aspx" id="MainContentPlaceholder_A14">See how our Residence Halls promote academic success.</a></p> 
+        </div> 
+        <p>&nbsp;</p> 
+        <div> 
+         <p><b>Annual Security Report and Annual Fire Report</b></p> 
+         <p> <a href="http://police.ucr.edu/clery/clery.html">The Jeanne CLERY Disclosure of Campus Security Policy and Campus Crime Statistics Act of 1998</a>, commonly referred to as the "CLERY Act," requires institutions of higher education receiving federal financial aid to report specified crime statistics on college campuses and to provide other safety and crime information to members of the campus community. These reports are available on the UC Riverside <a href="http://police.ucr.edu/clery/clery.html">Police Department website</a> and on the <a href="http://ehs.ucr.edu/fire/#annualfiresafetyreport">Fire Safety website.</a> </p> 
+         <p> If you would like a printout containing this information, you can contact a representative of the UC Riverside Police Department at 3500 Canyon Crest Drive, Riverside, CA 92522, or by phone at (951)827-5222. </p> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+     <section class=""> 
+      <div class="grid_16"> 
+      </div> 
+     </section> 
+    </div> 
+   </div> 
+   <footer class="footerwrapper"> 
+    <div class="container_16"> 
+     <div class="prefooter alt-1-1-3 clearfix"> 
+      <div class="grid_5"> 
+       <h3>General Campus Information</h3> 
+       <address> <span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"><span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span>Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+       <ul class="footer_links"> 
+        <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+        <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+        <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+        <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+        <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+        <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+        <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+       </ul> 
+      </div> 
+      <div class="grid_5"> 
+       <h3>Department Information</h3> 
+       <address> <strong>Housing, Dining &amp; Residential Services</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HSAD" title="Campus Map">3595 Canyon Crest Drive</a><br> Riverside, CA, 92507<br> <br> Tel: (951) 827-6350<br> Fax: (951) 827-3807<br> E-mail: <a href="mailto:housinginfo@ucr.edu?subject=Website%20Inquiry">housinginfo@ucr.edu</a> </address> 
+      </div> 
+      <div class="grid_6"> 
+       <h3>Related Links</h3> 
+       <ul class="relatedLinks"> 
+        <li><a href="http://dining.ucr.edu/Pages/default.aspx">Dining Services </a></li> 
+        <li><a href="http://conferences.ucr.edu/Pages/default.aspx">Conference, Events &amp; Catering Services</a></li> 
+        <li><a href="http://cdc.ucr.edu">Child Development Center </a></li> 
+        <li><a href="help-desk/offcampus-housing.aspx">Off-Campus Housing </a></li> 
+        <li><a href="http://admissions.ucr.edu/">Apply to UC Riverside</a></li> 
+        <li><a href="http://financialaid.ucr.edu/">Financial Aid</a></li> 
+        <li><a href="http://sustainability.ucr.edu">Sustainability</a></li> 
+        <li><a href="http://parking.ucr.edu">Transportation &amp; Parking Services</a></li> 
+        <li><a href="http://registrar.ucr.edu/registrar/academic-calendar/default.aspx">UCR Academic Calendar</a></li> 
+       </ul> 
+       <p class="footer_info"> <img src="Images/footer.jpg" alt="img" width="120" height="103" style="margin-bottom: 0px; bottom: 100px; clear: both; float: left; border-bottom-width: 0px; border-right-width: 0px; border-top-width: 0px; border-left-width: 0px;">The mission of <strong>UCR Housing, Dining &amp; Residential Services</strong> is to provide a safe, inclusive and diverse living experience that supports academic success and personal development. </p> 
+      </div> 
+     </div> 
+     <div id="nav_footer" class="clearfix"> 
+      <ul> 
+       <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li> 
+       <li> <a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li> 
+       <li> <a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li> 
+       <li> <a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li> 
+       <li> <a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li> 
+       <li> <a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li> 
+       <li> <a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li> 
+       <li> <a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li> 
+      </ul> 
+     </div> 
+     <div id="footer"> 
+      <ul> 
+       <li><a href="forms/feedback.aspx">Feedback</a></li> 
+       <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+       <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+       <li>© 2013 Regents of the University of California</li> 
+      </ul> 
+     </div> 
+    </div> 
+   </footer> 
+  </form>   
+ </body>
+</html>

@@ -14,17 +14,17 @@ public class MyThread implements Runnable {
 	}
 	public void run() {
 
-	    while(apples.useFrontier(2,null) != null) {
-			System.out.println("I AM THREAD " + name); //CHange happening between these two?//ERRRRRROROORORR// I can't make these two atomic
-            Tuple<String, Integer> temp = apples.useFrontier(0,null);//Pop
-			if(temp.y < 0) {//THIS METHOD IS CHEAP/////////////////////////////////////////////////////////////////////////
+	    while(crawler.useFrontier(2,null) != null && usefileNum(0) <= crawler.numPages) {
+			System.out.println("I AM THREAD " + name); 
+            Tuple<String, Integer> temp = crawler.useFrontier(0,null);//Pop
+			if(temp.y < 0) {
 					break; //Frontier became empty
 			}
             try {
-                apples.downloadFile(temp.x, usefileNum(0));
-				if (temp.y < apples.hopsAway)
+                crawler.downloadFile(temp.x, usefileNum(0));
+				if (temp.y < crawler.hopsAway)
 				{
-					apples.getLinks(temp.x,temp.y);
+					crawler.getLinks(temp.x,temp.y);
 				}
 
             } catch (IOException e) {

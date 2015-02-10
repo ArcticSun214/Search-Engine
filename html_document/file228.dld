@@ -1,0 +1,1031 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head id="head">
+  <title>
+	Discovery - Video Hub
+</title>
+  <meta name="description" content="Discovery Video Hub"> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+  <meta http-equiv="pragma" content="no-cache"> 
+  <meta http-equiv="content-style-type" content="text/css"> 
+  <meta http-equiv="content-script-type" content="text/javascript"> 
+  <meta name="keywords" content="Discovery,Science,wildlife shows, nature"> 
+  <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
+  <link href="/favicon.ico" type="image/x-icon" rel="icon"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"b9eb19ad24","applicationID":"6620079","transactionName":"YAQBMkUECxIEVE0NDFlOIjVnSgYMFkdYAwZEThMJRREEDRFSVBQPVhUGSFYWFRk=","queueTime":0,"applicationTime":45,"ttGuid":"7E108EFCA5AB6820","agent":"js-agent.newrelic.com/nr-515.min.js"}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,t,e){function r(e){if(!t[e]){var o=t[e]={exports:{}};n[e][0].call(o.exports,function(t){var o=n[e][1][t];return r(o?o:t)},o,o.exports)}return t[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({QJf3ax:[function(n,t){function e(n){function t(t,e,a){n&&n(t,e,a),a||(a={});for(var u=c(t),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,e);return s}function a(n,t){f[n]=c(n).concat(t)}function c(n){return f[n]||[]}function u(){return e(t)}var f={};return{on:a,emit:t,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");t.exports=e()},{gos:"7eSDFh"}],ee:[function(n,t){t.exports=n("QJf3ax")},{}],gos:[function(n,t){t.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,t){function e(n,t,e){if(r.call(n,t))return n[t];var o=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,t,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[t]=o,o}var r=Object.prototype.hasOwnProperty;t.exports=e},{}],D5DuLP:[function(n,t){function e(n,t,e){return r.listeners(n).length?r.emit(n,t,e):(o[n]||(o[n]=[]),void o[n].push(t))}var r=n("ee").create(),o={};t.exports=e,e.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,t){t.exports=n("D5DuLP")},{}],XL7HBI:[function(n,t){function e(n){var t=typeof n;return!n||"object"!==t&&"function"!==t?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");t.exports=e},{gos:"7eSDFh"}],id:[function(n,t){t.exports=n("XL7HBI")},{}],loader:[function(n,t){t.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,t){function e(){var n=v.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(d,function(t,e){t in n||(n[t]=e)}),v.proto="https"===l.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var t=f.createElement("script");t.src=v.proto+n.agent,f.body.appendChild(t)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=window,f=u.document,s="addEventListener",p="attachEvent",l=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},v=t.exports={offset:i(),origin:l,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(f[p]("onreadystatechange",r),u[p]("onload",e)),a("mark",["firstbyte",i()])},{1:11,handle:"D5DuLP"}],11:[function(n,t){function e(n,t){var e=[],o="",i=0;for(o in n)r.call(n,o)&&(e[i]=t(o,n[o]),i+=1);return e}var r=Object.prototype.hasOwnProperty;t.exports=e},{}]},{},["G9z0Bl"]);</script>
+  <meta name="bm-title" content="Video Hub">
+  <meta name="bm-description" content="Discovery Video Hub">
+  <meta name="bm-thumbnail" content="http://www.discovery.ca/custom/Global/assets/img/DiscoveryLogo.jpg">
+  <meta name="bm-url" content="http://www.discovery.ca/Video">
+  <meta name="bm-lang" content="EN">
+  <meta name="bm-brand" content="Discovery">
+  <meta name="bm-type" content="video">
+  <meta property="og:title" content="Video Hub">
+  <meta property="og:image" content="http://www.discovery.ca/custom/Global/assets/img/DiscoveryLogo.jpg">
+  <meta property="og:type" content="video">
+  <meta property="og:site_name" content="Discovery">
+  <link rel="icon" type="image/png" href="/custom/discovery/assets/img/favicon/96x96-GoogleTV.png"> 
+  <link rel="icon" type="image/png" href="/custom/discovery/assets/img/favicon/128x128-ChromeWebStore.png"> 
+  <link rel="icon" type="image/png" href="/custom/discovery/assets/img/favicon/195x195-OperaSpeedDial.png"> 
+  <link rel="icon" href="/custom/discovery/assets/img/favicon/favicon.ico" type="image/x-icon"> 
+  <link rel="shortcut icon" href="/custom/discovery/assets/img/favicon/favicon.ico" type="image/x-icon"> 
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/custom/discovery/assets/img/favicon/apple-touch-icon-144x144-precomposed.png"> 
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/custom/discovery/assets/img/favicon/apple-touch-icon-114x114-precomposed.png"> 
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/custom/discovery/assets/img/favicon/apple-touch-icon-72x72-precomposed.png"> 
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/custom/discovery/assets/img/favicon/apple-touch-icon-57x57-precomposed.png"> 
+  <script>
+                       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                       ga('create', 'UA-18953349-1', 'discoverychannel.ca');
+                       ga('send', 'pageview');
+
+                     </script> 
+  <link href="/custom/discovery/assets/css-prod/discovery.css" rel="Stylesheet" media="screen"> 
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> 
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --> 
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// --> 
+  <!--[if IE 8]>
+                    <html lang='en-us' class='ie8'>
+                <![endif]--> 
+  <!--[if lt IE 9]>
+                    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+                    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+                <![endif]-->
+  <script type="text/javascript" src="/custom/discovery/assets/js/site-wide-11DB2EC385D1E1932B73339857EA3DD9.js"></script> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+                    <script type="text/javascript" src="/custom/global/assets/js/selectivizr-min.js"></script>
+                <![endif]--> 
+  <script src="http://cdn.gigya.com/js/socialize.js?apikey=3_kztRZThiOjOK8rnUmAgbhTgxtokECitSTGNmYQ6vuzjXg1X3zgTrel9W4xabgvsg" type="text/javascript">
+                    {
+                        regSource: 'www.discovery.ca';
+                    }
+                </script> 
+  <script type="text/javascript">
+                    var vhBrand = { destinationCode: 'discovery_web', preloadAIS: true } </script>
+  <script type="text/javascript">window.axisAuthApi_pageCfg = {destinationCode: 'discovery_web'};</script> 
+  <script src="http://esi2.ctv.ca/auth9/axisAuthApi.js" type="text/javascript"></script> 
+  <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+ </head> 
+ <body class="LTR ENUS ContentBody" data-site="site.discovery"> 
+  <form method="post" action="/video.aspx?vid=507434" id="form"> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value=""> 
+    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjQ0ODg4MjczDxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgEWAgIBDxYCHgZhY3Rpb24FFi92aWRlby5hc3B4P3ZpZD01MDc0MzQWAgIFD2QWAmYPDxYEHghDc3NDbGFzcwUPUGFnZVBsYWNlaG9sZGVyHgRfIVNCAgJkFgJmD2QWAgIFD2QWAmYPZBYCAgIPZBYCZg8PFgQfAgUPUGFnZVBsYWNlaG9sZGVyHwMCAmRkZKCdRuG+J2l/OIDk3jIGVIax9ye206qxK+41pwZjhtGD"> 
+   </div> 
+   <input type="hidden" name="lng" id="lng" value="en-US"> 
+   <script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script> 
+   <script src="/ScriptResource.axd?d=cE1HLLbziQhdRQLDaJdNmJjza3CgjNVxGiWb_yimN1R8OrmnKx3krfpardvOOH7hR-fp2YnmL6OncVoSZMiuDfYBKIvKf_Yhdfa67xeuLQ2LORsIIoNiRZ_HbDyo-dh40&amp;t=7c776dc1" type="text/javascript"></script> 
+   <script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185"> 
+   </div> 
+   <div id="ctxM"> 
+   </div> 
+   <div class="container"> 
+    <div class="row"> 
+     <div class="top-ad-container"> 
+      <div id="bm-ad-1"> 
+      </div> 
+      <div id="bm-ad-1-oop"> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="container main"> 
+    <div class="row"> 
+     <div class="col-xs-12"> 
+      <div id="nav-container" class="nav-gradient-shadow row"> 
+       <div id="disco-logo-container" class="pull-left"> 
+        <div id="disco-logo"> 
+         <a href="/"> <img id="p_lt_ctl01_BellMediaNavigation_Logo" src="/Custom/discovery/assets/img/brand-logo.png" alt="Discovery"> 
+          <!-- <img src="/Custom/Global/assets/img/brand-logo.png" alt="discovery-logo" /> --> </a> 
+        </div> 
+       </div> 
+       <div class="pull-right"> 
+        <div id="menu-icon-container" class="pull-right"> 
+         <!-- the pull-right bootstrap class keeps the icon menu items hugging the right side of black bar --> 
+         <div id="hamburger-menu-btn"> 
+          <div id="hamburger-menu-img" class="hamburger-default"></div> 
+          <!--<img id="hamburger-menu-img" src="images/HamburgerMenu.png" alt="" />--> 
+         </div> 
+         <!-- GOOGLE SEACRH APPLIANCE GOES HERE - DESKTOP --> 
+         <div id="search-box-container"> 
+          <input name="txtWord" type="text" maxlength="1000" id="txtWord" class="search-box-bg search-box-default-text" placeholder="Search..."> 
+         </div> 
+         <div id="search-icon-btn"> 
+          <div id="search-icon-img" class="search-default"></div> 
+         </div> 
+         <div id="signin-icon-btn" class="selected"> 
+          <a href="#"> <img src="/custom/global/images/signinicon.png" alt=""></a> 
+         </div> 
+        </div> 
+        <ul id="menuElem" class="menu-items-container CMSListMenuUL"> 
+         <li class="shows-btn"> <a class="menu-items-container CMSListMenuLink" href="/Shows">Shows</a> </li> 
+         <li class="video-btn"> <a class="menu-items-container CMSListMenuLinkHighlighted" href="/Video">Video</a> </li> 
+         <li class="schedule-btn"> <a class="menu-items-container CMSListMenuLink" href="/Schedule">Schedule</a> </li> 
+         <li class="social-btn"> <a class="menu-items-container CMSListMenuLink" href="/Social">Social</a> </li> 
+         <li class="blog-btn"> <a class="menu-items-container CMSListMenuLink" href="/Blogs">Blogs</a> </li> 
+         <li class="sites-btn"> <span class="menu-items-container CMSListMenuLink">Sites</span> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div id="showsdropmenu"> 
+       <div class="clearfix row"> 
+        <div id="featured-list-display" class="col-md-2">
+         <!-- had style="padding:10px;"--> 
+         <div id="featured-items-container"> 
+          <div class="featured-box-title"> 
+           <p class="featured-text-style">FEATURED</p> 
+          </div> 
+          <div class="featured-item first last"> 
+           <a href="/Shows/AlaskaTheLastFrontier"><img alt="" src="/getattachment/9ec50b3d-baa7-4f90-ad34-7a84689739d3/.aspx?maxsidesize=119"></a> 
+           <div class="title"> 
+            <a href="/Shows/AlaskaTheLastFrontier">Alaska: The Last Frontier</a> 
+           </div> 
+           <div class="show-flag New-Episode">
+             New Episode 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="show-list-display" class="col-md-10 col-sm-9"> 
+         <div id="showpanel" class="clearfix"> 
+          <div class="col-md-3">
+           <ul class="show-list"> 
+            <li class="list-style"> <a href="/Shows/Airshow"><span class="right-angle-quote">›</span> Airshow</a> </li> 
+            <li class="list-style"> <a href="/Shows/AlaskaTheLastFrontier"><span class="right-angle-quote">›</span> Alaska: The Last Frontier</a> </li> 
+            <li class="list-style"> <a href="/Shows/Alaskan-Bush-People"><span class="right-angle-quote">›</span> Alaskan Bush People</a> </li> 
+            <li class="list-style"> <a href="/Shows/Canada-s-Worst-Driver"><span class="right-angle-quote">›</span> Canada's Worst Driver</a> </li> 
+            <li class="list-style"> <a href="/Shows/Close-Encounters"><span class="right-angle-quote">›</span> Close Encounters</a> </li> 
+            <li class="list-style"> <a href="/Shows/Daily-Planet"><span class="right-angle-quote">›</span> Daily Planet</a> </li> 
+            <li class="list-style"> <a href="/Shows/Deadliest-Catch"><span class="right-angle-quote">›</span> Deadliest Catch</a> </li> 
+            <li class="list-style"> <a href="/Shows/Discovery-Presents"><span class="right-angle-quote">›</span> Discovery Presents</a> </li> 
+           </ul>
+          </div>
+          <div class="col-md-3">
+           <ul class="show-list"> 
+            <li class="list-style"> <a href="/Shows/Dude-You-re-Screwed"><span class="right-angle-quote">›</span> Dude, You're Screwed</a> </li> 
+            <li class="list-style"> <a href="/Shows/Dukes-of-Haggle"><span class="right-angle-quote">›</span> Dukes of Haggle</a> </li> 
+            <li class="list-style"> <a href="/Shows/Edge-of-Alaska"><span class="right-angle-quote">›</span> Edge of Alaska</a> </li> 
+            <li class="list-style"> <a href="/Shows/Fast-N-Loud"><span class="right-angle-quote">›</span> Fast N' Loud</a> </li> 
+            <li class="list-style"> <a href="/Shows/Gold-Rush"><span class="right-angle-quote">›</span> Gold Rush</a> </li> 
+            <li class="list-style"> <a href="/Shows/Gunslingers"><span class="right-angle-quote">›</span> Gunslingers</a> </li> 
+            <li class="list-style"> <a href="/Shows/Highway-Thru-Hell"><span class="right-angle-quote">›</span> Highway Thru Hell</a> </li> 
+            <li class="list-style"> <a href="/Shows/Highway-to-Sell"><span class="right-angle-quote">›</span> Highway to Sell</a> </li> 
+           </ul>
+          </div>
+          <div class="col-md-3">
+           <ul class="show-list"> 
+            <li class="list-style"> <a href="/Shows/Holiday-Bash"><span class="right-angle-quote">›</span> Holiday Bash </a> </li> 
+            <li class="list-style"> <a href="/Shows/How-It-s-Made"><span class="right-angle-quote">›</span> How It's Made</a> </li> 
+            <li class="list-style"> <a href="/Shows/Ice-Lake-Rebels"><span class="right-angle-quote">›</span> Ice Lake Rebels</a> </li> 
+            <li class="list-style"> <a href="/Shows/Mayday"><span class="right-angle-quote">›</span> Mayday</a> </li> 
+            <li class="list-style"> <a href="/Shows/MegaSpeed"><span class="right-angle-quote">›</span> MegaSpeed</a> </li> 
+            <li class="list-style"> <a href="/Shows/Mighty-Cruise-Ships"><span class="right-angle-quote">›</span> Mighty Cruise Ships</a> </li> 
+            <li class="list-style"> <a href="/Shows/Mighty-Planes-Heroic-Hercules"><span class="right-angle-quote">›</span> Mighty Planes: Heroic Hercules</a> </li> 
+            <li class="list-style"> <a href="/Shows/Misfit-Garage"><span class="right-angle-quote">›</span> Misfit Garage</a> </li> 
+           </ul>
+          </div>
+          <div class="col-md-3">
+           <ul class="show-list"> 
+            <li class="list-style"> <a href="/Shows/Moonshiners"><span class="right-angle-quote">›</span> Moonshiners</a> </li> 
+            <li class="list-style"> <a href="/Shows/Mythbusters"><span class="right-angle-quote">›</span> Mythbusters</a> </li> 
+            <li class="list-style"> <a href="/Shows/Naked-and-Afraid"><span class="right-angle-quote">›</span> Naked and Afraid</a> </li> 
+            <li class="list-style"> <a href="/Shows/River-Monsters"><span class="right-angle-quote">›</span> River Monsters</a> </li> 
+            <li class="list-style"> <a href="/Shows/Shackleton-Death-or-Glory"><span class="right-angle-quote">›</span> Shackleton: Death or Glory</a> </li> 
+            <li class="list-style"> <a href="/Shows/Shark-Week"><span class="right-angle-quote">›</span> Shark Week</a> </li> 
+            <li class="list-style"> <a href="/Shows/Tethered"><span class="right-angle-quote">›</span> Tethered</a> </li> 
+            <li class="list-style"> <a href="/Shows/Yukon-Men"><span class="right-angle-quote">›</span> Yukon Men</a> </li> 
+           </ul>
+          </div> 
+          <div id="show-more-button-container"> 
+           <a id="show-more-btn" href="/shows.aspx" class="showmore-btn-gradient">SHOWS PAGE</a> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="sites-dropmenu"> 
+       <div id="discovery-world-feature" class="col-lg-3 col-md-3 col-sm-3"> 
+        <div class="featured-box-title"> 
+         <p class="featured-text-style"><a id="p_lt_ctl01_BellMediaNavigation_SiteUrl1" target="_blank">Discovery World</a> ›</p> 
+        </div> 
+        <ul class="digi-container"> 
+         <li class="site-img-container"><a href="http://www.discoveryworld.ca/Shows/Waterfront-Cities-of-the-World" target="_blank"><img alt="" src="/getattachment/2de0ce0c-2c53-4755-8621-8dbb4dcb1730/Test-1.aspx?maxsidesize=60"></a></li> 
+         <li class="site-title"><a href="http://www.discoveryworld.ca/Shows/Waterfront-Cities-of-the-World" target="_blank">Waterfront Cities of the World </a></li> 
+         <li class="site-tag"><a href="http://www.discoveryworld.ca/Shows/Waterfront-Cities-of-the-World" target="_blank">New Episode</a></li> 
+         <li class="clearfix site-image-break"></li> 
+         <li class="site-img-container"><a href="http://www.discoveryworld.ca/Shows/Dallas-Car-Sharks " target="_blank"><img alt="" src="/getattachment/1aa7a95a-04c7-4a0d-baff-ed814c2367ca/Test-1-(1).aspx?maxsidesize=60"></a></li> 
+         <li class="site-title"><a href="http://www.discoveryworld.ca/Shows/Dallas-Car-Sharks " target="_blank">Dallas Car Charks</a></li> 
+         <li class="site-tag"><a href="http://www.discoveryworld.ca/Shows/Dallas-Car-Sharks " target="_blank">New Episode</a></li> 
+         <li class="clearfix site-image-break"></li> 
+        </ul> 
+       </div> 
+       <div id="investigation-discovery-feature" class="col-lg-3 col-md-3 col-sm-3"> 
+        <div class="featured-box-title"> 
+         <p class="featured-text-style"><a id="p_lt_ctl01_BellMediaNavigation_SiteUrl2" target="_blank">Investigation Discovery</a> ›</p> 
+        </div> 
+        <ul class="digi-container"> 
+         <li class="site-img-container"><a href="http://www.investigationdiscovery.ca/Shows/Homicide-Hunter-Lt-Joe-Kenda " target="_blank"><img alt="" src="/getattachment/6465916f-cca8-46cf-94b8-bfa9f3ae58e3/Test-1.aspx?maxsidesize=60"></a></li> 
+         <li class="site-title"><a href="http://www.investigationdiscovery.ca/Shows/Homicide-Hunter-Lt-Joe-Kenda " target="_blank">Homicide Hunter: Lt. Joe Kenda </a></li> 
+         <li class="site-tag"><a href="http://www.investigationdiscovery.ca/Shows/Homicide-Hunter-Lt-Joe-Kenda " target="_blank">New Episode</a></li> 
+         <li class="clearfix site-image-break"></li> 
+         <li class="site-img-container"><a href="http://www.investigationdiscovery.ca/Shows/Deadline-Crime-with-Tameron-Hall " target="_blank"><img alt="" src="/getattachment/6be5eb08-2666-4543-857c-37f95db18f39/Test-1-(1).aspx?maxsidesize=60"></a></li> 
+         <li class="site-title"><a href="http://www.investigationdiscovery.ca/Shows/Deadline-Crime-with-Tameron-Hall " target="_blank">Deadline: Crime With Tameron Hall </a></li> 
+         <li class="site-tag"><a href="http://www.investigationdiscovery.ca/Shows/Deadline-Crime-with-Tameron-Hall " target="_blank">Premiere</a></li> 
+         <li class="clearfix site-image-break"></li> 
+        </ul> 
+       </div> 
+       <div id="discovery-science-feature" class="col-lg-3 col-md-3 col-sm-3"> 
+        <div class="featured-box-title"> 
+         <p class="featured-text-style"><a id="p_lt_ctl01_BellMediaNavigation_SiteUrl3" target="_blank">Discovery Science</a> ›</p> 
+        </div> 
+        <ul class="digi-container"> 
+         <li class="site-img-container"><a href="http://www.sciencechannel.ca/Shows/How-The-Universe-Works" target="_blank"><img alt="" src="/getattachment/993811ae-974e-4b4c-b11d-52554405d2d0/Test-1.aspx?maxsidesize=60"></a></li> 
+         <li class="site-title"><a href="http://www.sciencechannel.ca/Shows/How-The-Universe-Works" target="_blank">How The Universe Works</a></li> 
+         <li class="site-tag"><a href="http://www.sciencechannel.ca/Shows/How-The-Universe-Works" target="_blank">New Episode</a></li> 
+         <li class="clearfix site-image-break"></li> 
+         <li class="site-img-container"><a href="http://www.sciencechannel.ca/Shows/airplane-repo" target="_blank"><img alt="" src="/getattachment/00e83a12-9b4e-430b-8923-bbd90e7dff0d/Test-1-(1).aspx?maxsidesize=60"></a></li> 
+         <li class="site-title"><a href="http://www.sciencechannel.ca/Shows/airplane-repo" target="_blank">Futurescape With James Woods</a></li> 
+         <li class="site-tag"><a href="http://www.sciencechannel.ca/Shows/airplane-repo" target="_blank">Finale</a></li> 
+         <li class="clearfix site-image-break"></li> 
+        </ul> 
+       </div> 
+       <div id="animal-planet-feature" class="col-lg-3 col-md-3 col-sm-3"> 
+        <div class="featured-box-title"> 
+         <p class="featured-text-style"><a id="p_lt_ctl01_BellMediaNavigation_SiteUrl4" target="_blank">Animal Planet</a> ›</p> 
+        </div> 
+        <ul class="digi-container"> 
+         <li class="site-img-container"><a href="http://www.animalplanet.ca/Shows/Biggest-and-Baddest" target="_blank"><img alt="" src="/getattachment/8ee81d9e-f2a8-408a-9337-c5d56ffb9e04/Test-1.aspx?maxsidesize=60"></a></li> 
+         <li class="site-title"><a href="http://www.animalplanet.ca/Shows/Biggest-and-Baddest" target="_blank">Biggest and Baddest</a></li> 
+         <li class="site-tag"><a href="http://www.animalplanet.ca/Shows/Biggest-and-Baddest" target="_blank">Premiere</a></li> 
+         <li class="clearfix site-image-break"></li> 
+         <li class="site-img-container"><a href="http://www.animalplanet.ca/Shows/Hillbilly-Handfishin" target="_blank"><img alt="" src="/getattachment/ca575bf4-fd73-40fb-8638-efddebc50d5f/Test-1-(1).aspx?maxsidesize=60"></a></li> 
+         <li class="site-title"><a href="http://www.animalplanet.ca/Shows/Hillbilly-Handfishin" target="_blank">Hillbilly Handfishin</a></li> 
+         <li class="site-tag"><a href="http://www.animalplanet.ca/Shows/Hillbilly-Handfishin" target="_blank">Finale</a></li> 
+         <li class="clearfix site-image-break"></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div id="shows-menu-responsive" class="col-xs-12"> 
+       <!-- shows menu responsive--> 
+       <ul id="NavigationMenuResponsive" class="shows-menu-responsive-list CMSListMenuUL"> 
+        <li class="shows-btn"> <a class="shows-menu-responsive-list CMSListMenuLink" href="/Shows">Shows</a> </li> 
+        <li class="video-btn"> <a class="shows-menu-responsive-list CMSListMenuLinkHighlighted" href="/Video">Video</a> </li> 
+        <li class="schedule-btn"> <a class="shows-menu-responsive-list CMSListMenuLink" href="/Schedule">Schedule</a> </li> 
+        <li class="social-btn"> <a class="shows-menu-responsive-list CMSListMenuLink" href="/Social">Social</a> </li> 
+        <li class="blog-btn"> <a class="shows-menu-responsive-list CMSListMenuLink" href="/Blogs">Blogs</a> </li> 
+        <li class="sites-btn"> <span class="shows-menu-responsive-list CMSListMenuLink">Sites</span> </li> 
+       </ul> 
+       <ul id="NavigationSiteMenuResponsive" class="sites-menu-responsive-list CMSListMenuUL"> 
+        <li class="animal-planet"> <a id="p_lt_ctl01_BellMediaNavigation_SiteUrlMobile4" target="_blank">Animal Planet</a> </li> 
+        <li class="investigation-discovery"> <a id="p_lt_ctl01_BellMediaNavigation_SiteUrlMobile2" target="_blank">Investigation Discovery</a> </li> 
+        <li class="discovery-science"> <a id="p_lt_ctl01_BellMediaNavigation_SiteUrlMobile3" target="_blank">Discovery Science</a> </li> 
+        <li class="discovery-world"> <a id="p_lt_ctl01_BellMediaNavigation_SiteUrlMobile1" target="_blank">Discovery World</a> </li> 
+       </ul> 
+      </div> 
+      <div id="search-box-container-mobile" class="col-xs-12"> 
+       <input name="txtWord" type="text" maxlength="1000" id="txtWord" class="search-box-bg-mobile form-control" placeholder="Search..."> 
+      </div> 
+     </div> 
+     <!-- /col-xs-12 --> 
+    </div> 
+    <main> 
+     <div class="row Bellmedia-Discovery-Videohub"> 
+      <div id="video-hub-wrapper"> 
+       <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore.js" type="text/javascript"></script> 
+       <script type="text/javascript">
+    var url = document.URL;
+    var destinationCode = "";
+    var brandName = "";
+    var siteAccount = "ctvgmtvediscoverydesktop";
+
+    if (url.indexOf("discovery.") >= 0 | url.indexOf("discoverysites.") >= 0) {
+        destinationCode = "discovery_web";
+        brandName = "discovery";
+        siteAccount = "ctvgmtvediscoverydesktop";
+    }
+    if (url.indexOf("animalplanet.") >= 0) {
+        destinationCode = "aniplan_web";
+        brandName = "animalplanet";
+        siteAccount = "ctvgmtveanimalplanetdesktop";
+    }
+    if (url.indexOf("sciencechannel.") >= 0) {
+        destinationCode = "discsci_web";
+        brandName = "discoveryscience";
+        siteAccount = "ctvgmtvediscoverysciencedesktop";
+    }
+    if (url.indexOf("discoveryworld.") >= 0) {
+        destinationCode = "discworld_web";
+        brandName = "discoveryworld";
+        siteAccount = "ctvgmtvediscoveryworlddesktop";
+    }
+    if (url.indexOf("investigationdiscovery.") >= 0) {
+        destinationCode = "invdisc_web";
+        brandName = "investigationdiscovery";
+        siteAccount = "ctvgmtveinvestigationdiscoverydesktop";
+    }
+    if (url.indexOf("velocity.") >= 0) { //NEEDS TO BE CHANGED ONCE VELOCITY DESTINATION CODES CREATED
+        destinationCode = "discvel_web"; //change to discvel_web when there is content
+        brandName = "discoveryvelocity"; //change to discoveryvelocity when there is content
+        siteAccount = "ctvgmtvediscoveryvelocitydesktop";
+    }
+
+
+    var vhBrand = {};
+    vhBrand.id = brandName;//'discovery';
+    vhBrand.displayName = brandName.toUpperCase() + ' GO'; //'DISCOVERY GO';
+    vhBrand.AkamaiResource = brandName.toUpperCase(); //'DISCOVERY';
+    vhBrand.trackingName = brandName; //'discovery';
+    vhBrand.destinationCode = destinationCode; //'discovery_web';
+</script> 
+       <script src="http://components.bellmedia.ca/tracking/Include"></script> 
+       <script type="text/javascript">
+        Tracking.setSiteAccount(siteAccount);
+        Tracking.setSiteId(brandName);
+        Tracking.setSiteSection("video");
+        Tracking.setSubSections("", "", "");
+        Tracking.track();
+</script> 
+       <script type="text/javascript">
+
+
+        var require = {
+            config: {
+                "bellmedia.videohub.config": {
+                    brand: vhBrand,
+                    //carouselId: null,
+                    carouselContainerId: "#carousel",
+                    destination: destinationCode,//"discovery_web",
+                    videoHubContainerId: "#video-hub",
+                    grid: {
+                        cols: 5,
+                        rows: 5
+                    },
+                    env: "prod",
+                    errorMessages: {
+                        apiError: "<div class='error-message'><p><em>An error occurred when trying to load this content.</em></p><p><em>Please refresh the page to try again.</em></p></div>",
+                        noSearchResults: "<div class='error-message'><p><em>Your search did not return any results.</em></p><p><em>Please check your search and try again.</em></p></div>"
+                    },
+                    expiringIn: "4",
+                    errorThumbnail: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAABPCAYAAAA5vC0kAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAP9JREFUeNrs3EsKhDAQQEEV739Ol4IgiN8ss0wvIlGqYC7QPFqTGaafkg4KDUaAYBAMbejTK8xqDESCuY0BwSAYBINgEAxkwZzGgGCoFsxuDESC2YyBSDC+GiAUzGIMRIKZjYFSY/ocxoBgqBbMZQxEgnFxRygY3yUhGLzDIBgEw++DcQ+DDUO9YNzDYMMgGASDdxgEA3kw7mGwYfDSi2DwSMKGARsGx2oEg0cSgsEpCWwYBINgaDwYf4qIDYNgcKxGMHgkgWAQDO8E4x4GGwbBIBi+GIx7GGwY6gXjR+AIBsHgHQbB4FgNgsEjCcHgWI0Ng2DAKQkbBhuGhj0CDABerHTDrlYbZQAAAABJRU5ErkJggg==",
+                    tracking: Tracking,
+                    searchContainerId: "#video-hub-search",
+                    platform: "desktop",
+                    playerPageName: "/Video"
+                }
+            }
+        };
+  
+</script> 
+       <script src="http://components.bellmedia.ca/videohub/include"></script> 
+       <div id="video-hub-container" class="container"> 
+        <div class="page vh container_12"> 
+         <div class="vh-player-area"> 
+          <!-- Hub player code begins --> 
+          <div> 
+           <script type="text/javascript">
+                var contentId;
+                var globalDestination = destinationCode; //"discovery_web"; //PAGE IS RESPONSIBLE TO PASS TO PLAYER & 42 CLIENT API
+                var globalPlatform = "desktop"; //PAGE IS RESPONSIBLE IN PASSING TO PLAYER & 42 CLIENT API 
+                GetQuerystring = function (key, default_) {
+                    if (default_ == null) default_ = "";
+                    key = key.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+                    var regex = new RegExp("[\\?&]" + key + "=([^&#]*)");
+                    var qs = regex.exec(window.location.href);
+                    if (qs == null)
+                        return default_;
+                    else
+                        return qs[1];
+                };
+                function getUrlVars() {
+                    var vars = [], hash;
+                    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+                    for (var i = 0; i < hashes.length; i++) {
+                        hash = hashes[i].split('=');
+                        vars.push(hash[0]);
+                        vars[hash[0]] = hash[1];
+                    }
+                    return vars;
+                }
+
+                var contentIdQuery = getUrlVars()['vid'];
+
+                if (contentIdQuery == "" | contentIdQuery == null) {
+                    contentId = parseInt(GetQuerystring("contentId", '541879')); //"openingClip" being passed in through the back end code via the web part in the editor field
+                    //alert(contentId);
+                } else {
+                    contentId = parseInt(GetQuerystring("contentId", contentIdQuery)); //322164
+                }
+
+                if (!/MSIE (\d+\.\d+);/.test(navigator.userAgent)) { //test for MSIE x.x;
+                    //adding querystring and paramater to IE browser not possible yet, so catch history.pushstate in this IF statement for all NON IE browsers
+                    history.pushState("", "", "/" + window.location.pathname.substr(1) + "?vid=" + contentId + "");
+                }
+                //window.location.assign(window.location.href += '?vid=' + contentId + '');
+                //History.pushState(null, null, "?vid=" + contentId + "");
+
+                initPlayer = function () {
+                    player.embedPlayer();
+                };
+                var player = {};
+                player.playerObjList = {};
+
+                player.PlayerReady = function () {
+                    player.initParms = { destinationCode: globalDestination, platformCode: globalPlatform, autoPlay: 1, isAuthenticationRequired: false };
+                    var item = { id: contentId };
+                    player.playerObjList['vplayer'].playMediaItem(item, player.initParms);
+                };
+                player.onPlayerReady = function () {
+                    //_log("player ready");
+                    player.PlayerReady();
+                };
+                player.onVideoEnded = function (infoObj) {
+                    //_log("player ended");
+                };
+                player.onContentComplete = function (infoObj) {
+                    //_log("content complete");
+                    //alert('contentComplete');
+                    var nextVid = jQuery('.vh-video-item .play').parent().parent().parent().find('a').attr('href');
+                    if (nextVid.length > 0) {
+                        var clipId = nextVid.replace(/[^0-9]/g, '');
+                        var url = window.location.href;
+                        url = url.substring(0, url.indexOf('?')); //this keeps urls from appending more and more ?vid=123456
+                        var parameter = "?vid=" + clipId + "";
+                        //alert(url);
+                        window.location = url + parameter;
+                    }
+                };
+                player.onVideoStarted = function (infoObj) {
+                    //_log("player started");
+                };
+                player.onVideoError = function (infoObj) {
+                    //_error("player error");
+                };
+                player.ajaxCrossDomainCors = function (serviceURL) {
+                    try {
+                        player.JqueryCallBack = function () {
+                            _log("api loading success ");
+                            return;
+                        };
+                        var ajaxPars = {
+                            url: serviceURL,
+                            cache: true,
+                            contentType: "application/json",
+                            jsonpCallback: "player.JqueryCallBack",
+                            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                                if (textStatus == "parsererror") return;
+                                //_error("loading error: " + info + " " + textStatus);
+                            }
+                        };
+                        ajaxPars.type = "GET";
+                        ajaxPars.dataType = "jsonp";
+                        ajaxPars.jsonp = "callback";
+                        $.ajax(ajaxPars);
+
+                    } catch (err) {
+                        throw (err);
+                    }
+                };
+
+                player.embedPlayer = function () {
+                    var adrule = GetQuerystring("adrule", "generic");
+                    var mainApp;
+                    var playlistObj;
+
+                    var mpFlashVars = {};
+                    mpFlashVars.enablelog = 1;
+                    mpFlashVars.loginterval = 1;
+                    mpFlashVars.cms = "fortytwo";
+
+                    mainApp = etsapi.embedPlayer('vplayer', 'mediaplayerdiv', 620, 348, globalDestination, '', { flashVars: mpFlashVars, adRule: adrule });
+                    mainApp.registerEvent(MediaPlayerControllerEvent.PLAYER_READY, this, player.onPlayerReady);
+                    mainApp.registerEvent(MediaPlayerControllerEvent.VIDEO_STARTED, this, player.onVideoStarted);
+                    mainApp.registerEvent(MediaPlayerControllerEvent.VIDEO_ENDED, this, player.onVideoEnded);
+                    mainApp.registerEvent(MediaPlayerControllerEvent.ERROR, this, player.onVideoError);
+                    mainApp.registerEvent(MediaPlayerControllerEvent.CONTENT_COMPLETE, this, player.onContentComplete);
+
+                    player.playerObjList['vplayer'] = mainApp;
+                    //etsapi.setAdZone("vplayer", "suits-videohub");
+                    etsapi.setAdCustomParams("vplayer", "envr=prod");
+                    etsapi.setAdSite("vplayer", "ctv.discoverychannel.ca");
+                    etsapi.setAdZone("vplayer", "discovery/daily-planet/video");
+
+                };
+
+                $(document).ready(function () {
+                    $(document).on('onready.etsapi', player.embedPlayer);
+                    player.ajaxCrossDomainCors("http://player.9c9media.com/channels/" + destinationCode + "/apiInterface.js");
+                    //player.ajaxCrossDomainCors("/Custom/Global/assets/js/etsAxisApi.js");
+                });
+        </script> 
+          </div>
+          <!-- end wrapping div for script tag, so asp.net code behind variable "openingClip" works --> 
+          <!-- player html --> 
+          <div id="videoPlayer"> 
+           <div id="mediaplayerdiv"></div> 
+          </div> 
+          <script type="text/javascript">
+            $(document).ready(function () {
+                $('#copyLink').val(document.URL);
+            });
+        </script> 
+          <!-- ADS --> 
+          <div id="video-ads"> 
+           <div id="big-box-ad"> 
+            <div id="bm-ad-2"> 
+            </div> 
+           </div> 
+           <div id="rectangle-ad"> 
+            <a href="https://itunes.apple.com/ca/app/discovery-canada/id328082344?mt=8" target="_blank"><img src="/Custom/Global/assets/img/video-hub/DiscoveryApp-300x100.jpg" alt="discovery-app"></a> 
+           </div> 
+          </div> 
+          <div class="clearfix"></div> 
+          <div class="vh-video-footer"> 
+           <!-- fb like button --> 
+           <div class="vh-facebook" id="fb-like"> 
+            <div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div> 
+           </div> 
+           <!-- BEGIN: Facebook clicks on like button --> 
+           <script language="JavaScript" type="text/javascript">
+                window.fbAsyncInit = function () {
+                    FB.init({
+                        appId: '1489736571241468',
+                        status: true
+                    });
+
+                    FB.Event.subscribe("edge.create", function (response) {
+                        Tracking.trackSocial('facebook_like_btn_click');
+                    });
+
+
+                    // BEGIN: Facebook clicks on unlike button
+                    FB.Event.subscribe("edge.remove", function (response) {
+                        Tracking.GetSocialButtonClickAndPageReference('facebook_unlike_btn_click');
+                    });
+                }
+            </script> 
+           <div id="fb-root"></div> 
+           <script>
+                (function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) { return; }
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+            </script> 
+           <div class="vh-twitter twitter-follow"> 
+            <div class="twitter_share"> 
+             <a id="twitter_vhclick" href="https://twitter.com/share" class="twitter-share-button">Tweet</a> 
+            </div> 
+           </div> 
+           <div id="copy-link-container"> 
+            <span class="vh-copy-link-btn">Copy Link:</span> 
+            <input type="text" id="copyLink" readonly onclick="jQuery(this).select().focus();"> 
+           </div> 
+          </div>
+          <!-- vh video hub footer close --> 
+         </div> 
+         <!-- vh player area --> 
+         <!-- related carousel area --> 
+         <div id="carousel"></div> 
+         <!-- END CAROUSEL RELATED --> 
+         <div class="vh-search-wrapper"> 
+          <div class="vh-search-container"> 
+           <div class="row"> 
+            <div class="span4"> 
+             <h2>Browse videos</h2> 
+            </div> 
+            <div class="span4 offset4"> 
+             <div id="video-hub-search"> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <!-- Hub section --> 
+         <!-- html for video hub --> 
+         <div id="video-hub"></div> 
+        </div>
+        <!-- end .page which is the opening tag after show_mast_head --> 
+       </div>
+       <!-- main container --> 
+       <script type="text/javascript">
+        //fix for line height issue in footer on VIDEO hubs pages. video hub plugin code was interfering with the footer list line height on Video hub page only
+        jQuery(document).ready(function () {
+            if (document.URL.indexOf("Video") >= 0) {
+                jQuery('body.ContentBody li p.column-text-line-height').css('line-height', '27px');
+                //for non responsive behaviour of the video hub, if you put this in css, it will break responsiveness of the site
+                jQuery('body.ContentBody .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container').css({'width': '960px','max-width':'none !important'});
+            }
+            
+            setTimeout(function () { expandCollectionListStyle(); fixContainerWidth(); videoLibraryDropdown(); changeViewByShowNameText(); }, 3000);
+            
+            //this function is required otherwise the drop menu for the other brands does not get the open class applied
+            function videoLibraryDropdown() {
+                jQuery('.vh-vid-libs-selector div.btn-group').click(function () {
+                    jQuery('.vh-vid-libs-selector div.btn-group').addClass('open');
+                });
+            }
+            function fixContainerWidth() {
+                jQuery('body.ContentBody li p.column-text-line-height').css('line-height', '27px');
+                jQuery('body.ContentBody .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container').css({ 'width': '960px', 'max-width': 'none !important' });
+                //two lines below reset ALL SHOWS if it is expanded
+                jQuery('span.expand-collection-title').removeClass('selected');
+                jQuery('.vh-expand-collection-list ul').css('display', 'none');
+            }
+            var allShowsExpanded = false;
+            function expandCollectionListStyle() {
+                //jQuery('.vh-expand-collection-list').removeClass('expandAllShowsStyle');
+                jQuery('div.vh-expand-collection-list').click(function () {
+                    jQuery('.vh-expand-collection-list').addClass('expandAllShowsStyle');
+                    //checks if All Shows has selected class, then removes box shadow. Gets re-added in the click function below once user clicks off of All Shows
+                    if (jQuery('#video-hub-container .expand-collection-title').hasClass('selected')) {
+                        jQuery('#video-hub-container .expand-collection-title').css({ 'box-shadow': 'none', '-webkit-box-shadow': 'none', '-moz-box-shadow': 'none' });
+                    }
+                });
+                jQuery('div.vh-collection-list').click(function () {
+                    jQuery('#video-hub-container .expand-collection-title').css({'box-shadow': 'inset 0px 1px 5px 0px rgba(0, 0, 0, 0.9)','-webkit-box-shadow':'inset 0px 1px 5px 0px rgba(0, 0, 0, 0.9)','-moz-box-shadow':'inset 0px 1px 5px 0px rgba(0, 0, 0, 0.9)'});
+                    jQuery('.vh-expand-collection-list').removeClass('expandAllShowsStyle');
+                });
+                jQuery('div.vh-featured-collection-list').click(function () {
+                    jQuery('#video-hub-container .expand-collection-title').css({'box-shadow': 'inset 0px 1px 5px 0px rgba(0, 0, 0, 0.9)','-webkit-box-shadow':'inset 0px 1px 5px 0px rgba(0, 0, 0, 0.9)','-moz-box-shadow':'inset 0px 1px 5px 0px rgba(0, 0, 0, 0.9)'});
+                    jQuery('.vh-expand-collection-list').removeClass('expandAllShowsStyle');
+                });
+            }
+            function changeViewByShowNameText() {
+                var linkText = jQuery('#video-hub-container li.expand-collection-list-item:first-child').text();
+                var newLinkText = linkText.replace("View by Show Name", "View by Name");
+                jQuery('#video-hub-container li.expand-collection-list-item:first-child').text(newLinkText);
+            }
+        });
+    </script> 
+       <!-- Begin comScore Tag --> 
+       <script>
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "3005664" });
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script> 
+       <noscript> 
+        <img alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3005664&amp;cv=2.0&amp;cj=1"> 
+       </noscript> 
+       <!-- End comScore Tag --> 
+      </div> 
+     </div> 
+    </main> 
+    <div class="row"> 
+     <footer> 
+      <div id="footer-wrapper"> 
+       <div id="footer-discovery-column" class="col-md-2 col-sm-4 col-xs-3 column-select"> 
+        <div class="footer-column-title">
+          Discovery 
+        </div> 
+        <div id="footer-discovery-caret" class="caret visible-sm visible-xs cursor"></div> 
+        <div class="clearfix"></div> 
+        <ul id="footer-discovery" class="column-list hidden-sm hidden-xs"> 
+         <li> <p class="column-text-line-height">› <a href="/default.aspx">Home</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/Shows">Shows</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/Video">Video</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/Schedule">Schedule</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/Social">Social</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/Blogs">Blogs</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="http://store.discovery.com" target="_blank">Store</a></p> </li> 
+        </ul> 
+        <div class="clearfix"></div> 
+       </div> 
+       <div id="footer-sites-column" class="col-md-2 col-sm-4 col-xs-3 column-select"> 
+        <div class="footer-column-title">
+         SITES
+        </div> 
+        <div id="footer-sites-caret" class="caret visible-sm visible-xs cursor"></div> 
+        <div class="clearfix"></div> 
+        <ul id="footer-sites" class="column-list hidden-sm hidden-xs"> 
+         <li> <p class="column-text-line-height">› <a href="http://www.discovery.ca" target="_blank">Discovery</a></p> </li> 
+         <li> <p class="column-text-line-height">› <a href="http://www.discoveryworld.ca" target="_blank">Discovery World</a></p> </li> 
+         <li> <p class="column-text-line-height">› <a href="http://www.sciencechannel.ca" target="_blank">Discovery Science</a></p> </li> 
+         <li> <p class="column-text-line-height">› <a href="http://investigationdiscovery.ca" target="_blank">Investigation Discovery</a></p> </li> 
+         <li> <p class="column-text-line-height">› <a href="http://www.animalplanet.ca" target="_blank">Animal Planet</a></p> </li> 
+        </ul> 
+        <div class="clearfix"></div> 
+       </div> 
+       <div id="" class="clearfix  visible-xs"></div> 
+       <div id="footer-discover-more-column" class="col-md-2 col-sm-4 col-xs-3 column-select"> 
+        <div class="footer-column-title">
+          DISCOVER MORE 
+        </div> 
+        <div id="footer-discover-more-caret" class="caret visible-sm visible-xs cursor"></div> 
+        <div class="clearfix"></div> 
+        <ul id="footer-discover-more" class="column-list hidden-sm hidden-xs"> 
+         <li> <p class="column-text-line-height">› <a href="/about">About Discovery</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/contact">Contact</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/feedback">Feedback</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/faq">FAQ</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="http://adsales.bellmedia.ca" target="_blank">Advertise</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/internships">Internships</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="/producer-guidelines">Producer Guidelines</a></p> </li> 
+        </ul> 
+        <div class="clearfix"></div> 
+       </div> 
+       <div class="clearfix visible-sm"></div> 
+       <div id="footer-corporate-column" class="col-md-2 col-sm-4 col-xs-3 column-select"> 
+        <div class="footer-column-title">
+          CORPORATE 
+        </div> 
+        <div id="footer-corporate-caret" class="caret visible-sm visible-xs cursor"></div> 
+        <div class="clearfix"></div> 
+        <ul id="footer-corporate" class="column-list hidden-sm hidden-xs"> 
+         <li> <p class="column-text-line-height">› <a href="http://www.bellmedia.ca/en/about.html" target="_blank">About Bell Media</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="http://jobs.bce.ca/go/jobs-with-bell-media/357957/" target="_blank">Careers at Bell Media</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="http://www.bellmedia.ca/en/toc.html" target="_blank">Terms &amp; Conditions</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="http://www.bellmedia.ca/en/privacy.html" target="_blank">Privacy Policy</a></p> </li> 
+        </ul> 
+        <div class="clearfix"></div> 
+       </div> 
+       <div id="" class="clearfix  visible-xs"></div> 
+       <div id="footer-follow-us-column" class="col-md-2 col-sm-4 col-xs-3 column-select"> 
+        <div class="footer-column-title">
+          FOLLOW US 
+        </div> 
+        <div id="footer-follow-us-caret" class="caret visible-sm visible-xs cursor"></div> 
+        <div class="clearfix"></div> 
+        <ul id="footer-follow-us" class="column-list hidden-sm hidden-xs"> 
+         <li> <p class="column-text-line-height">› <a href="http://www.facebook.com/discoverycanada" target="_blank">Facebook</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="http://www.twitter.com/discoverycanada" target="_blank">Twitter</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="http://plus.google.com/+discoverycanada" target="_blank">Google</a></p> </li> 
+        </ul> 
+        <div class="clearfix"></div> 
+       </div> 
+       <div id="footer-mobile-apps-column" class="col-md-2 col-sm-4 col-xs-3 column-select"> 
+        <div class="footer-column-title">
+          MOBILE APPS 
+        </div> 
+        <div id="footer-mobile-apps-caret" class="caret visible-sm visible-xs cursor"></div> 
+        <div class="clearfix"></div> 
+        <ul id="footer-mobile-apps" class="column-list hidden-sm hidden-xs"> 
+         <li> <p class="column-text-line-height">› <a href="https://itunes.apple.com/ca/app/discovery-canada/id328082344?mt=8" target="_blank">iPad</a></p> </li>
+         <li> <p class="column-text-line-height">› <a href="https://itunes.apple.com/ca/app/discovery-canada/id328082344?mt=8" target="_blank">iPhone</a></p> </li> 
+        </ul> 
+        <!--
+                    <div class="footer-column-title hidden-xs">DRIVERS</div>
+                    <ul id="footer-drivers-list-desktop" class="column-list hidden-xs">
+                        <li>&rsaquo; <a href="http://www.discovery.ca/account/">Login</a></li>
+                    </ul>--> 
+       </div> 
+       <!-- Google Code for Remarketing Tag --> 
+       <!--
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+---------------------------------------------------> 
+       <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 964459285;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script> 
+       <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script> 
+       <noscript> 
+        <div style="display:inline;"> 
+         <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964459285/?value=0&amp;guid=ON&amp;script=0"> 
+        </div> 
+       </noscript> 
+      </div> 
+      <!-- closing wrapper --> 
+      <div id="sub-footer-wrapper"> 
+       <div id="footer-logos">
+        <div class="footer-content">
+         © 
+         <script>document.write(new Date().getFullYear())</script>&nbsp;&nbsp;&nbsp;
+         <a href="http://www.bellmedia.ca" target="_blank">
+          <div id="footer-logo-bellmedia"></div>
+          <!--<img id="footer-logo-bellmedia" src="/Custom/Global/assets/img/footer/bell-media-logo.png" alt="" border="0" />--></a>&nbsp;&nbsp;&nbsp;All rights reserved.&nbsp;&nbsp;&nbsp;
+         <img class="footer-divider-a" src="/Custom/Global/assets/img/footer/Footer-Divider-A.png" alt="">&nbsp;&nbsp;&nbsp;
+         <a href="http://www.discovery.ca" target="_blank">
+          <div id="footer-logo-discovery"></div>
+          <!--<img id="footer-logo-discovery" src="/Custom/Global/assets/img/footer/Footer-DiscoveryLogo.png" alt="discovery-logo" border="0" />--></a>
+        </div>
+       </div> 
+       <div id="footer-links">
+        <p class="footer-credits">Image credits: Discovery Communications</p>&nbsp;&nbsp;&nbsp;
+        <img class="footer-divider-b" src="/Custom/Global/assets/img/footer/Footer-Divider-B.png" alt="">&nbsp;&nbsp;&nbsp;
+        <p class="footer-company">Bell Media Television</p>
+       </div> 
+      </div> 
+     </footer> 
+    </div>
+    <!-- end row --> 
+   </div>
+   <!--/container test--> 
+   <script type="text/javascript">
+    $(document).ready(function () {
+        var siteAccount = "ctvgmtvediscoverydesktop";
+        var siteId = "discovery";
+        var url = document.URL.toLowerCase();
+
+        if (url.indexOf("animalplanet.") >= 0) {
+            siteAccount = "ctvgmtveanimalplanetdesktop";
+            siteId = "animalplanet";
+        }
+        if (url.indexOf("sciencechannel.") >= 0) {
+            siteAccount = "ctvgmtvediscoverysciencedesktop";
+            siteId = "sciencechannel";
+        }
+        if (url.indexOf("discoveryworld.") >= 0) {
+            siteAccount = "ctvgmtvediscoveryworlddesktop";
+            siteId = "discoveryworld";
+        }
+        if (url.indexOf("investigationdiscovery.") >= 0) {
+            siteAccount = "ctvgmtveinvestigationdiscoverydesktop";
+            siteId = "investigationdiscovery";
+        }
+        if (url.indexOf("discoveryvelocity.") >= 0) {
+            siteAccount = "ctvgmtvediscoveryvelocitydesktop";
+            siteId = "discoveryvelocity";
+        }
+
+        //don't put this tracking on video hub page, already built into the hub
+        if (url.indexOf("video") >= 0) {
+            //do nothing
+        } else {
+
+            Tracking.setSiteAccount(siteAccount);
+            Tracking.setSiteId(siteId);
+
+            Tracking.setSiteSection('Video');
+            Tracking.setSubSections();
+            
+
+            Tracking.track();
+        }
+    });
+</script> 
+   <script type="application/javascript" src="/custom/Global/assets/js/AdManager.js">
+
+</script>
+   <script type="text/javascript">
+           var googletag = googletag || {};
+           googletag.cmd = googletag.cmd || [];
+
+           (function () {
+               var gads = document.createElement('script');
+               gads.async = true;
+               gads.type = 'text/javascript';
+               var useSSL = 'https:' == document.location.protocol;
+               gads.src = (useSSL ? 'https:' : 'http:') +
+                   '//www.googletagservices.com/tag/js/gpt.js';
+               var node = document.getElementsByTagName('script')[0];
+               node.parentNode.insertBefore(gads, node);
+           })();
+    </script> 
+   <script class="kxct" data-id="IjHlhuIT" data-timing="async" data-version="1.9" type="text/javascript">
+    window.Krux || ((Krux = function () { Krux.q.push(arguments) }).q = []);
+    (function () {
+        var k = document.createElement('script'); k.type = 'text/javascript'; k.async = true;
+        var m, src = (m = location.href.match(/\bkxsrc=([^&]+)/)) && decodeURIComponent(m[1]);
+        k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+            (location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag?confid=IjHlhuIT";
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(k, s);
+    }());
+</script> 
+   <!-- Krux interchange tag --> 
+   <script>
+    window.Krux || ((Krux = function () { Krux.q.push(arguments); }).q = []);
+    (function () {
+        function retrieve(n) {
+            var m, k = 'kx' + n;
+            if (window.localStorage) {
+                return window.localStorage[k] || "";
+            } else if (navigator.cookieEnabled) {
+                m = document.cookie.match(k + '=([^;]*)');
+                return (m && unescape(m[1])) || "";
+            } else {
+                return '';
+            }
+        }
+        Krux.user = retrieve('user');
+        Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+    })();
+</script> 
+   <!-- END Krux interchange tag --> 
+   <script>
+		var bmAdManager = null;
+		googletag.cmd.push(function () {
+			var gtag = googletag;
+			var gpubs = googletag.pubads();
+
+			bmAdManager = new BmAdManager({
+				gtag: gtag,
+				gpubs: gpubs,
+				envr:'prod',
+				firstAdLevel:'ctv.discoverychannel.ca',
+				krux: {
+					confid:'IjHlhuIT'
+				}
+			});
+			var resizeTimer;
+
+function resizer() {
+    bmAdManager.refresh(['bm-ad-1']);
+}
+
+window.addEventListener("resize", function(){
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(resizer, 250);
+});
+
+			var adMapping = googletag.sizeMapping().
+				addSize([1024, 200],[[728, 90],[960, 90]]).
+				addSize([760, 200], [728, 90]).
+				addSize([320, 400], [[300, 50], [320, 50]]).
+				addSize([0, 0], [[300, 50], [320, 50]]).
+				build();
+
+			bmAdManager.addSlot({
+				id:'bm-ad-1',
+				adLevels:['discovery','daily-planet','video'],
+				sizes:[[970,90],[728,90]],
+				outOfPageId:'bm-ad-1-oop',
+				mapping:adMapping
+
+			});
+
+			bmAdManager.addSlot({
+				id:'bm-ad-2',
+				adLevels:['discovery','daily-planet','video'],
+				sizes:[[300,250]]
+			});
+
+			//krux targets
+			googletag.pubads().setTargeting('ksgmnt', Krux.segments);
+			googletag.pubads().setTargeting('u', Krux.user);
+			//END krux targets
+
+			googletag.pubads().enableSingleRequest();
+			googletag.pubads().disableInitialLoad();
+
+			googletag.enableServices();
+		});
+
+		googletag.cmd.push(function () {
+			bmAdManager.display('bm-ad-1')
+			bmAdManager.display('bm-ad-1-oop')
+			bmAdManager.display('bm-ad-2')
+			bmAdManager.refresh(['bm-ad-1','bm-ad-1-oop','bm-ad-2'])
+		});
+
+	</script> 
+   <script type="text/javascript">
+    function LoadScripts() {
+        BellMedia.Ctv.init(function () {
+            for (var i in script_queue) {
+                script_queue[i]();
+            };
+        });
+    }
+
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "3005664" });
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script> 
+   <noscript> 
+    <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3005664&amp;cv=2.0&amp;cj=1"> 
+   </noscript> 
+   <script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script> 
+  </form>   
+ </body>
+</html>

@@ -1,0 +1,264 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Bourns College of Engineering: Support Bourns</title> 
+  <meta http-equiv="last-modified" content="2014-03-18"> 
+  <meta name="version" content="2.62 2.123 "> 
+  <!-- 02/09/15 19:41:54 02/09/15 20:36:40 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to BCOE news via RSS" href="http://www.engr.ucr.edu/rss/news.xml"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.engr.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/masthead_overlay.png" alt=""> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="http://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+     </form> 
+     <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="masthead"> 
+   <h1><a href="http://www.engr.ucr.edu/"><span class="printonly">Bourns College of Engineering</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">Social Media Links:</p> 
+   <ul class="l_breadcrumb_links"> 
+    <li><a id="footer_link_flickr" href="http://www.flickr.com/photos/bournscollege/" title="Visit BCOE’s Flickr gallery (external site: Flickr)"><span class="accessibility">Visit BCOE’s Flickr gallery</span></a></li> 
+    <li><a id="footer_link_facebook" href="http://www.facebook.com/pages/Riverside-CA/Bourns-College-of-Engineering/118503574842498" title="Visit BCOE’s Facebook page (external site: Facebook)"><span class="accessibility">Visit BCOE’s Facebook page</span></a></li> 
+    <li><a id="footer_link_twitter" href="http://twitter.com/bournscollege" title="Follow BCOE on Twitter (external site: Twitter)"><span class="accessibility">Follow BCOE on Twitter</span></a></li> 
+    <li><a id="footer_link_youtube" href="http://www.youtube.com/BournsCollege" title="Visit BCOE’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit BCOE’s YouTube channel</span></a></li> 
+    <li><a id="footer_link_linkedin" href="http://www.linkedin.com/groups?gid=3185912" title="Join the Linkedin alumni group (external site: Linkedin)"><span class="accessibility">Join the Linkedin alumni group</span></a></li> 
+    <li><a id="footer_link_rss" href="http://www.engr.ucr.edu/rss/news.xml" title="Subscribe to BCOE news via RSS"><span class="accessibility">Subscribe to BCOE news via RSS</span></a></li> 
+   </ul> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li> 
+    <li class="lastitem">Support Bourns</li> 
+   </ul> 
+  </div> 
+  <div class="l_contentwrapper">
+   <div class="pagewrapper"> 
+    <hr> 
+    <!-- Start Content (Navigation and Content columns) --> 
+    <div id="content"> 
+     <h2>Support Bourns</h2> 
+     <!-- Start Sidebar --> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li><a href="/" title="BCOE Home">BCOE Home<br><span>Bourns College of Engineering</span></a></li>
+        <li><a href="/about/" title="The Bourns Difference">The Bourns Difference</a></li>
+        <li><a href="/academics/" title="Academic Programs">Academic Programs</a></li>
+        <li><a href="/research/" title="Research">Research</a></li>
+        <li><a href="/employment.html" title="Employment">Employment</a></li>
+        <li><a href="/faculty/" title="The Faculty">The Faculty</a></li>
+        <li><a href="/undergrads/" title="Prospective Undergraduate Students">Prospective Undergraduate Students</a></li>
+        <li><a href="http://student.engr.ucr.edu/" title="Current Undergraduate Students">Current Undergraduate Students</a></li>
+        <li><a href="/grad/" title="Graduate Programs">Graduate Programs</a></li>
+        <li><a href="/alumni/" title="Bourns Alumni">Bourns Alumni</a></li>
+        <li class="currentpage"><h3><dfn>Current page is: </dfn>Giving</h3>
+         <ul>
+          <li><a href="http://www.ucr.edu/giving/ucr-fund.html" title="Annual Fund">Annual Fund</a></li>
+          <li><a href="/giving/deans_leadership_society.html" title="Dean's Leadership Society">Dean's Leadership Society</a></li>
+          <li><a href="/giving/department_support.html" title="Department Support">Department Support</a></li>
+          <li><a href="/giving/faculty_support.html" title="Faculty Support">Faculty Support</a></li>
+          <li><a href="http://www.ucr.edu/giving/gift_planning.html" title="Gift Planning">Gift Planning</a></li>
+          <li><a href="/giving/honorary_and_memorial_funds.html" title="Honorary and Memorial Funds">Honorary and Memorial Funds</a></li>
+          <li><a href="http://advancement.ucr.edu/matching.html" title="Matching Gifts">Matching Gifts</a></li>
+          <li><a href="/giving/naming_opportunities.html" title="Naming Opportunities">Naming Opportunities</a></li>
+          <li><a href="/giving/scholarships_fellowships.html" title="Scholarships and Fellowships">Scholarships and Fellowships</a></li>
+         </ul></li>
+        <li><a href="/industry/" title="Corporate Partners Program">Corporate Partners Program</a></li>
+        <li><a href="/news/" title="News">News</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <hr> 
+     <!-- End Sidebar --> 
+     <!-- Start Content Area --> 
+     <div id="main"> 
+      <div class="column23"> 
+       <p><img src="/images/Support2.jpg" alt=" " width="460" height="145"></p> 
+       <p>The state budget provides about one-quarter of the university's annual operating budget. Support from a variety of sources - including grants and gifts from individuals, corporations, and foundations - make the difference in allowing the College to maintain its growth in capabilities and excellence. The importance of the generous support of alumni and friends will continue to increase, providing many ways to impact the College.</p> 
+       <p>Today, philanthropic gifts support capital projects, students, teaching, research, student competitions, and public service activities at Bourns. Gifts can be specifically made to benefit the College.</p> 
+       <p>Undesignated gifts to engineering are used by the College's leadership to provide flexibility in supporting emerging centers of excellence, new initiatives and areas of greatest need.</p> 
+       <p>Visit <a href="https://advancementservices.ucr.edu/AdvanceOnlineGiving/Search?key=200182">University Advancement </a>to earmark a gift for the Bourns College of Engineering.</p> 
+       <h4>Dean's Leadership Society</h4> 
+       <p>This esteemed group of individuals assists the dean in making major strides in advancing BCOE's vision of excellence in engineering. <a href="/giving/deans_leadership_society.html">Dean's Leadership Society </a>members, through their annual gifts, help create innovative, and sometimes historic, changes in this field – from groundbreaking work in biotechnology, information technology and nanotechnology to advances in education, environmental safety, transportation and other technologies currently in development at BCOE.</p> 
+       <h4><img class="img_L" src="/images/fund.jpg" alt="1" width="120" height="85">Engineering Excellence: The BCOE Annual Fund</h4> 
+       <p>Gifts to the<a href="http://www.ucr.edu/giving/ucr-fund.html"> Annual Fund</a>&nbsp;from&nbsp;alumni, parents, and friends can be designated for a specific department or area of interest, or they can be unrestricted to provide flexibility in supporting emerging centers of excellence, new initiatives and areas of greatest needs.</p> 
+       <h4><img class="img_L" src="/images/student_support.PNG" alt=" " width="120" height="85">Student Support</h4> 
+       <p>Financial assistance is key to attracting top undergraduate and graduate students. In order to recruit and retain talented students regardless of economic status, we need <a href="/giving/scholarships_fellowships.html">scholarships and fellowships</a>. High quality students are the lifeblood of the University and the college remains steadfast in enabling the best and the brightest students to come to UCR.</p> 
+       <h4><img class="img_L" src="/images/faculty.jpg" alt=" " width="120" height="85">Faculty Support</h4> 
+       <p>BCOE has coalesced a world-class faculty. Private gifts earmarked for <a href="/giving/faculty_support.html">faculty support </a>give the college a competitive advantage as we attract and retain one of the finest cadre of engineers in the nation.</p> 
+       <h4><img class="img_L" src="/images/Rosemary.jpg" alt=" " width="120" height="85">Honorary and Memorial Funds</h4> 
+       <p><a href="/giving/honorary_and_memorial_funds.html">Honorary and memorial fund</a>s&nbsp;provide an opportunity for you to recognize a person or persons who have had an impact on you, your career, the college, the community, or the world. Your gift ensures that their talents and contributions are recognized in perpetuity through the ongoing success or the college, its students and faculty.</p> 
+       <h4><img class="img_L" src="/images/ee_blue_square.png" alt=" " width="120" height="85">Department Support</h4> 
+       <p>Departments, Programs and Centers are the innovation drivers of the College. It is here that teaching takes place, research flourishes, and interdisciplinary teams explore new ideas. <a href="/giving/department_support.html">Support </a>enables us to stay on the leading-edge of innovation as we prepare the next generation of engineers.</p> 
+       <h4><img class="img_L" src="/images/building.JPG" alt=" " width="120" height="85">Support for Facilities &amp; Equipment</h4> 
+       <p>Facilities and equipment are the tangible drivers of innovation. Well-equipped labs, classrooms and offices are the starting points for training the best engineers and conducting innovative research. BCOE has a variety of <a href="/giving/naming_opportunities.html">naming opportunities where </a>you can create a lasting bond with BCOE and link your name or the name of a loved one with the college.</p> 
+       <h4><img class="img_L" src="/images/matching.jpg" alt=" " width="120" height="85">Matching Gifts</h4> 
+       <p>Hundreds of companies currently <a href="http://advancement.ucr.edu/matching.html">match employees' gifts or volunteer hours</a> to UC Riverside. For purposes of recognition, you receive full credit for these matching fits.<br><br></p> 
+       <h4>Naming Opportunities</h4> 
+       <p>The Bourns College of Engineering is committed to recruiting the best and brightest students from around the world to learn from world-class faculty in state of the art facilities. One of the most important tools for achieving this level of academic excellence is through the personal naming of various locales in the engineering college. <a href="/giving/naming_opportunities.html">Naming opportunities</a>&nbsp;provide a meaningful way to recognize individuals who have an unparalleled passion for the engineering sciences, creating a permanent legacy that honors them for future generations of family and students. The funds connected to these namings create a long-lasting impact upon the learning environment, as the funds are directed to the specific program where the naming is located.&nbsp;</p> 
+       <h4><img class="img_L" src="/images/gift_planning.jpg" alt=" " width="120" height="85">Gift Planning</h4> 
+       <p>Help BCOE students and faculty to fulfill their promise by <a href="http://www.ucr.edu/giving/gift_planning.html">investing in a planned gift</a>. UCR has been served by planned gifts in a variety of ways – from scholarships and program support to preservation of treasured places on campus. Whether you establish a bequest or a life income gift, you will benefit scholars at UCR for generations to come.</p> 
+       <p>For more information about giving opportunities at BCOE, contact Linda Parker, Asst. Dean of Development at (951) 827-6106, or at&nbsp;<a href="mailto:linda.parker@ucr.edu">linda.parker@ucr.edu</a>.</p> 
+      </div> 
+      <div class="column3R on_the_side"> 
+       <h3>Who Gives to BCOE?<br>People Like You!</h3> 
+       <p><img class="img_L" title="Nora Hackett" src="/images/news/thumb_hackett.jpg" alt="Nora Hackett" width="58" height="58">Nora Hackett laughed when asked if it was love at first sight when she first met her late husband Colin Hackett. They were both Ph.D. students at Brown University in the late 1960s – Nora in biology and Colin in mechanical engineering. It was a small graduate program back then and Nora had had enough of the limited social life for graduate students. She was determined to do something about it.<a href="/giving/hackett.html"> Read more...<br><br></a></p> 
+       <p><img class="img_L" title="Bob and Marilyn Masuoka" src="/images/news/Thumb_Masuokas.jpg" alt="Bob and Marilyn Masuoka" width="58" height="58"></p> 
+       <p>Like father like daughter is a concept that the Masuoka family is very familiar with. Bob Masuoka is an engineer with PG &amp; E (Pacific Gas and Electric Company), a gas and electric utility in San Francisco and his daughter Miki is an engineering student at UCR's Bourns College of Engineering (BCOE). <a style="font-size: 1em; line-height: 1.5em;" href="/giving/masuoka.html">Read more...<br><br></a></p> 
+       <p><img class="img_L" title="G. Neal Richter" src="/images/news/thumb_richter.jpg" alt="G. Neal Richter" width="58" height="58">G. Neal Richter knows a thing or two about gasification. In fact, he's been working on variations of it since the 1960s when he was employed, initially for Texaco before it merged into Chevron earlier this century. As a retiree, he continues to have his hand in the energy industry both as a Chevron Fellow Emeritus and in the research program of Professor Joe Norbeck at the Bourns College of Engineering's Center for Environmental Research and Technology (CE-CERT). <a href="/giving/richter.html">Read more...</a></p> 
+      </div> 
+     </div> 
+     <!-- End Content Area --> 
+     <div class="clear"></div> 
+    </div> 
+    <!-- End Content --> 
+   </div>
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column3"> 
+      <h3>College Information</h3> 
+      <address><strong>Bourns College of Engineering</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">446 Winston Chung Hall</a><br> <br> Tel: (951) 827-5190<br> Fax: (951) 827-3188<br> E-mail: <a href="mailto:collegeinfo@engr.ucr.edu?subject=Website%20Inquiry">collegeinfo@engr.ucr.edu</a></address> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/research/licensing.html">License Bourns Technology</a></li> 
+       <li><a href="http://www.ucr.edu/giving/">Give to Bourns</a></li> 
+       <li><a href="/intranet/">Intranet</a></li> 
+       <li><a href="/inventthefuture.html">Invent the Future</a></li> 
+       <li><a href="http://systems.engr.ucr.edu">Systems</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/images/design6/footer_building.jpg" alt="" width="120" height="87"> <strong>Engineering Times Newsletter</strong><br> <br> <a href="/news/e-newsletter.html">Sign up to receive the college's e-newsletter <em>Engineering Times</em></a>. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.engr.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01002&amp;site=cmsengr&amp;path=%2Fgiving%2Findex.html">Last modified: 2014-Mar-18</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.0044390000000001 seconds using 1.25 MiB of memory. -->   
+ </body>
+</html>

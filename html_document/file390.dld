@@ -1,0 +1,253 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>SMI: SMI Home</title> 
+  <meta http-equiv="last-modified" content="2015-02-06"> 
+  <meta name="version" content="1.176 1.190 "> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/narrow6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css" media="all"> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/striper.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/effects.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/xpander.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/control.tabs.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/glider.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._initData();
+pageTracker._trackPageview();
+// ]]>
+</script> 
+  <script type="text/javascript" src="/highslide/highslide.js"></script> 
+  <script type="text/javascript">
+hs.graphicsDir = '/highslide/graphics/';
+Event.observe(window,'load', function () {
+	hs.preloadImages(0);
+});
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://smi.ucr.edu/" accesskey="1">Home Page</a></li> 
+    <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlay.png" alt=""> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://smi.ucr.edu/"><span class="printonly">SMI</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!-- Start Breadcrumbs --> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">SMI</li> 
+   </ul> 
+  </div> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="19" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>SMI Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li class="nav_inline"><h3>About Us</h3>
+        <ul>
+         <li><a href="/mission.html" title="Mission &amp; Goals">Mission &amp; Goals</a></li>
+         <li>&nbsp;| <a href="/people.html" title="Our People">Our People</a></li>
+         <li>&nbsp;| <a href="/hours.html" title="Weekly Hours">Weekly Hours</a></li>
+         <li>&nbsp;| <a href="/handbooks.html" title="Handbooks, Brochures, &amp; Syllabi">Handbooks, Brochures, &amp; Syllabi</a></li>
+        </ul></li>
+       <li class="nav_inline_last"><h3>Getting Started</h3>
+        <ul>
+         <li><a href="/enrolled_students.html" title="Current UCR Students">Current UCR Students</a></li>
+         <li>&nbsp;| <a href="/newly_admitted.html" title="Future UCR Students">Future UCR Students</a></li>
+         <li>&nbsp;| <a href="/ba_degree.html" title="Those with Bachelor's Degrees">Those with Bachelor's Degrees</a></li>
+        </ul></li>
+       <li><a href="/services.html" title="Our Services">Our Services</a></li>
+       <li><a href="/current.html" title="Current Participants">Current Participants</a></li>
+       <li><a href="/calendar.html" title="Calendar">Calendar</a></li>
+       <li><a href="/news.html" title="News">News</a></li>
+       <li><a href="/gsoe.html" title="Teaching Credential Programs">Teaching Credential Programs</a></li>
+       <li><a href="/glossary.html" title="Glossary of Terminologies">Glossary of Terminologies</a></li>
+       <li><a href="/resources.html" title="Other Resources">Other Resources</a></li> 
+      </ul> 
+     </div> 
+     <div align="center"> 
+      <img src="/images/SMI_Logo.jpg" alt="CA Teach-Science/Math Initiative"> 
+     </div> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" --> 
+     <!-- /com.omniupdate.div --> 
+     <div id="omnicontent"> 
+      <p> 
+       <!-- com.omniupdate.div label="home-image" group="Everyone" button="657" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484"/ --></p>
+      <p style="text-align: center;"><img src="/images/smicollage.gif" alt="banner" width="480" height="299"></p> 
+      <div class="spotlight" style="padding-bottom: 0px; background: white;"> 
+       <h3>Inspire the Future, <br>Become a Science or Mathematics Teacher</h3> 
+      </div>
+      <!-- /com.omniupdate.div --> 
+      <p></p> 
+      <div class="column23"> 
+       <!-- com.omniupdate.div label="column2" group="Everyone" button="657" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="315"/ -->
+       <h4><span style="color: #000000;">Why is </span><strong><span style="color: #990000;">NOW</span></strong><span style="color: #000000;"> the time to prepare for a career in teaching science and mathematics?</span></h4> 
+       <p>There is currently a critical shortfall of qualified science and mathematics teachers in California classrooms. Because of this shortage, prospective science and mathematics teachers are extremely competitive in securing positions soon after graduation.</p> 
+       <p>They are able to:</p> 
+       <ul class="star"> 
+        <li>find internship jobs immediately upon graduation at salaries comparable to entry-level credentialed teachers; these intern opportunities often lead to permanent teaching positions</li> 
+        <li>find job openings in the school district of their desire</li> 
+        <li>become emerging leaders in the school districts and communities</li> 
+        <li>benefit from the financial incentives, including loan-forgiveness programs, offered through the government<a href="https://www.facebook.com/ScienceMathInitiativeAtUcr"><img src="/images/facebook.jpg" alt="smi facebook" width="270" height="187"></a></li> 
+       </ul> 
+       <p><a href="http://calteach.universityofcalifornia.edu/"><strong>UCR-SMI is part of the UC-system wide California Teach - Science and mathematics Initiative</strong></a></p> 
+       <p><strong><strong><img src="/images/calteach-logo.gif" alt="uc-smi logo" width="240" height="68"></strong></strong></p> 
+       <p><strong>Read about UC-systemwide SMI/<a href="http://www.universityofcalifornia.edu/news/article/26983">"CalTeach "brings STEM students into K-12 classrooms</a>.</strong></p> 
+       <p>&nbsp;</p>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div class="column3R on_the_side"> 
+       <!-- com.omniupdate.div label="column3R" group="Everyone" button="657" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="145"/ -->
+       <h4><img src="/images/spotlight.jpg" alt="" width="50" height="50"></h4> 
+       <h5><span style="background-color: #ffff66; color: #25558c;">UPCOMING EVENTS</span></h5> 
+       <p>&nbsp;</p> 
+       <p><strong style="font-size: 1em; line-height: 1.5em;">2/2/15:</strong> <a href="/files/ttsmfundraiser1.pdf">TTSM Fundraiser</a></p> 
+       <p><strong style="font-size: 1em; line-height: 1.5em;">2/6/15: </strong><a style="font-size: 1em; line-height: 1.5em;" href="/files/pdgsoeclute.pdf">Educate to Innovate Seminar</a></p> 
+       <p><strong>2/7/15:</strong><a href="/files/pdmathinkconference.pdf"> MaTHink Conference</a></p> 
+       <p><strong>2/9/15:</strong>&nbsp;<a href="/files/ttsmmtg3.pdf">TTSM General Meeting </a></p> 
+       <p><strong style="font-size: 1em; line-height: 1.5em;">2/19/15: </strong><a style="font-size: 1em; line-height: 1.5em;" href="/files/ttsmsocial2.pdf">TTSM Social&nbsp;</a></p> 
+       <p><strong>2/23/15:</strong> <a href="/sites.google.com/site/ttsmatucr">TTSM General Meeting</a></p> 
+       <p><strong>2/26/15:&nbsp;</strong><a href="/guestspeakerseries.html">Peer Workshop CSET Math Subtest I</a></p> 
+       <p><strong>3/7/15:</strong> <a href="/sites.google.com/site/ttsmatucr">TTSM Banquet</a></p> 
+       <p><strong>3/14/15:<strong>&nbsp;</strong><a href="http://www.centerforteacherinnovation.org/teacher_services_professional_learning.php">Common Core Symposium</a></strong></p> 
+       <p><strong>3/14/15:</strong> <a href="/sites.google.com/site/ttsmatucr">TTSM Pi-Day Celebration</a></p> 
+       <p>&nbsp;</p> 
+       <p><a href="/sites.google.com/site/ttsmatucr"><strong style="font-size: 1em; line-height: 1.5em;"><span style="background-color: #ffff66; color: #25558c;">CBEST &amp; CSET-Science Exam Dates (CSET-Math varies, check online)</span></strong></a></p> 
+       <p><strong style="font-size: 1em; line-height: 1.5em;">* 1/10/15 </strong>(register by 12/12/14)</p> 
+       <p><strong>* 3/7/15 </strong>(register by 2/6/15)<strong><br></strong></p> 
+       <p><strong> * 5/2/15 </strong>(register by 4/3/15)</p> 
+       <p><strong>* 7/11/15 </strong>(register by 6/12/15)</p> 
+       <p>&nbsp;</p> 
+       <p><strong><span style="background-color: #ffff66; color: #25558c;">Job Opportunities</span></strong></p> 
+       <p><a href="http://cascience.org/csta/conf_registration.asp">EDJOIN&nbsp;is California's premiere online K-12 job search website.</a></p> 
+       <p><a href="http://cascience.org/csta/conf_registration.asp">Education-Jobs&nbsp;provides job seekers the ability to search for jobs locally or internationally.</a></p>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+     <hr> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div>
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span><br><br> </span> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://library.ucr.edu/">UCR Libraries</a><br> <a href="http://campusstatus.ucr.edu/">Campus Status</a> • <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>California Teach Science Mathematics Initiative</strong><br> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=PRC" title="Campus Map">1315 Pierce Hall</a><br><br> Tel: (951) 827-4970<br> Fax: (951) 827-4971<br>E-mail: <a href="mailto:smi@ucr.edu?subject=Web Site Inquiry">smi@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="mailto:leslie.bushong@ucr.edu" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01288&amp;site=smi&amp;path=%2Findex.html">Last modified: 2015-Feb-06</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html>

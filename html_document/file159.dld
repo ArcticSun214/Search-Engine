@@ -1,0 +1,874 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+ <head profile="http://gmpg.org/xfn/11"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Hot Article «  Analytical Methods Blog</title> 
+  <link rel="stylesheet" href="http://blogs.rsc.org/ay/wp-content/themes/default/style.css" type="text/css" media="screen"> 
+  <link rel="pingback" href="http://blogs.rsc.org/ay/xmlrpc.php"> 
+  <!--[if lt IE 7]>
+<link rel="stylesheet" href="http://blogs.rsc.org/ay/wp-content/themes/default/lt-ie7-style.css" type="text/css" media="screen" />
+<![endif]--> 
+  <!--[if IE 7]>
+<link rel="stylesheet" href="http://blogs.rsc.org/ay/wp-content/themes/default/ie7-style.css" type="text/css" media="screen" />
+<![endif]--> 
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
+  <!--[if !IE]>
+<!--<script type="text/javascript" src="http://blogs.rsc.org/ay/wp-content/themes/default/script/jquery.curvycorners.min.js"></script>
+<script type="text/javascript" src="http://blogs.rsc.org/ay/wp-content/themes/default/script/init.js"></script>--> 
+  <!--[endif]----> 
+  <!--[if gte IE 7]>
+<link rel="stylesheet" href="http://blogs.rsc.org/ay/wp-content/themes/default/ie-style.css" type="text/css" media="screen" />
+
+<!--<script type="text/javascript" src="http://blogs.rsc.org/ay/wp-content/themes/default/script/jquery.curvycorners.min.js"></script>--> 
+  <script type="text/javascript">
+
+/*
+$(document).ready(function() {
+
+	$(function(){   
+	  settings = {
+			  tl: { radius: 5 },
+			  tr: { radius: 5 },
+			  bl: { radius: 5 },
+			  br: { radius: 5 },
+			  antiAlias: true,
+			  autoPad: true,
+			  validTags: ["div"]
+		  }
+	 	
+	  $('#sidebar').corner(settings);
+	  $('#header').corner(settings);
+	  $('.post').corner(settings);
+  	  $('.page').corner(settings);
+  	  $('#respond').corner(settings);	  
+	  });
+});
+*/
+</script> 
+  <!--[endif]----> 
+  <link rel="alternate" type="application/rss+xml" title="Analytical Methods Blog » Feed" href="http://blogs.rsc.org/ay/feed/"> 
+  <link rel="alternate" type="application/rss+xml" title="Analytical Methods Blog » Comments Feed" href="http://blogs.rsc.org/ay/comments/feed/"> 
+  <link rel="alternate" type="application/rss+xml" title="Analytical Methods Blog » Hot Article Category Feed" href="http://blogs.rsc.org/ay/category/hot-article/feed/"> 
+  <script type="text/javascript" src="http://blogs.rsc.org/ay/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script> 
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.rsc.org/ay/xmlrpc.php?rsd"> 
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.rsc.org/ay/wp-includes/wlwmanifest.xml"> 
+  <link rel="index" title="Analytical Methods Blog" href="http://blogs.rsc.org/ay"> 
+  <meta name="generator" content="WordPress 2.9.2"> 
+  <script language="javascript" type="text/javascript">
+		<!-- Begin
+		function ddrc_popup(URL,WIDTH,HEIGHT) {
+		day = new Date(); id = day.getTime();
+		eval("ddrcpage" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=' + WIDTH + ',height=' + HEIGHT + '');");
+		}
+		// End -->
+		</script> 
+  <link rel="stylesheet" href="http://blogs.rsc.org/ay/wp-content/plugins/light-social/lightsocial.css" type="text/css" media="screen">
+  <!--[if lt IE 7]><script defer type="text/javascript" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/pngfix.js"></script><![endif]-->
+ </head> 
+ <body class="archive category category-hot-article"> 
+  <div id="page"> 
+   <div id="extlinks"> 
+    <a href="http://www.rsc.org">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://pubs.rsc.org">Publishing</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://www.chemspider.com/">ChemSpider</a>
+    <!-- | <a href="#">Feedback</a>--> 
+   </div> 
+   <div class="header-wrapper"> 
+    <div id="header" role="banner"> 
+     <!-- * Ian Parry Jan 7th 2014 --> 
+     <!--
+        <div id="rscpubsimg" OnClick="window.location='http://pubs.rsc.org/'" style="cursor:pointer;"></div>
+        <div class="homelink" >
+            <h1><a href="/">Publishing</a></h1>
+        </div>
+        <div id="headerimg">
+            <h2><a href="http://blogs.rsc.org/ay/">Analytical Methods Blog</a></h2>
+            <div class="description"></div>
+        </div>
+        --> 
+     <a href="/" title="Publishing Blogs"><img src="http://blogs.rsc.org/ay/wp-content/themes/default/images/header.jpg" width="940" height="100" alt="Publishing blogs"></a> 
+     <div> 
+      <div style="width: 500px; float: left; padding: 4px 10px;"> 
+       <a href="/">Home</a> 
+      </div> 
+      <div style="width: 300px; float: right;"> 
+       <!--[if lt IE 7]>
+					<style>.content-wrapper		{ margin-top: 75px !important; }</style>
+                    <![endif]--> 
+       <!--[if IE 7]>
+					<style>.content-wrapper		{ margin-top: 75px !important; }</style>
+                    <![endif]--> 
+       <a class="rss" href="http://blogs.rsc.org/ay/feed/" name="RSS 2.0"> Analytical Methods Blog RSS <img src="http://blogs.rsc.org/ay/wp-content/themes/default/images/rss.png" height="16" width="16" alt="RSS 2.0"> </a> 
+      </div> 
+     </div> 
+     <div id="headerimg"> 
+      <h1><a href="http://blogs.rsc.org/ay/">Analytical Methods Blog</a></h1> 
+      <div class="description"></div> 
+     </div> 
+     <!-- end  Ian Parry Jan 7th 2014 --> 
+    </div> 
+   </div> 
+   <!-- IP end content wrapper --> 
+   <div class="content-wrapper"> 
+    <div id="content" class="narrowcolumn" role="main"> 
+     <h2 class="pagetitle">Archive for the ‘Hot Article’ Category</h2> 
+     <div class="navigation"> 
+      <div class="alignleft">
+       <a href="http://blogs.rsc.org/ay/category/hot-article/page/2/">« Older Entries</a>
+      </div> 
+      <div class="alignright"></div> 
+     </div> 
+     <div class="post-3189 post hentry category-hot-article category-hot-article-2014 category-news tag-analyticalmethods"> 
+      <h3 id="post-3189"><a href="http://blogs.rsc.org/ay/2014/12/11/hot-articles-in-analytical-methods-31/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">HOT articles in Analytical Methods</a></h3> 
+      <div class="postdate date">
+       11 Dec 2014
+      </div> 
+      <div class="entry"> 
+       <p>Take a look at our recent <strong>HOT <em>Analytical Methods </em>articles,</strong> these are now <strong>free to access</strong> for the next few weeks!</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY02385D">Simultaneous separation and sensitive detection of four ß2-agonists in biological specimen by CE-UV with field-enhanced sample injection method</a><br> Cheng Chen, Lingchen Meng, Meixian Li and Zhiwei Zhu<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<strong><br> DOI</strong>: 10.1039/C4AY02385D<a href="http://xlink.rsc.org/?doi=10.1039/C4AY02518K"></a></p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY02518K"> </a></p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY02518K">Microwave-assisted synthesis of resveratrol imprinted polymers with enhanced selectivity</a><br> Lachlan J. Schwarz, Mahesh K. Potdar, Basil Danylec, Reinhard I. Boysen and Milton T. W. Hearn<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02518K</p> 
+       <p><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY02409E" alt="Graphical Abstract" width="378" height="129"></p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY02409E">High throughput analysis of four Sudan dyes using direct analysis in real time-mass spectrometry</a><br> Ze Li, Yi-Wei Zhang, Yi-Ding Zhang, Yu Bai and Hu-Wei Liu<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02409E</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY02242D">Structural dependency of collagen fibers on ion types revealed by in situ second harmonic generation (SHG) imaging method</a><br> Xuye Lang and Julia G. Lyubovitsky<br> Anal. Methods, 2015, Advance Article<br> DOI: 10.1039/C4AY02242D</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY02599G">Development and Validation of a Quantitative Method for Determination of Retigabine and its N-Acetyl Metabolite; Overcoming Challenges Associated with Circulating Labile N-Glucuronide Metabolites</a><br> Hermes Licea Perez, Sharon L. Boram and Christopher A. Evans<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02599G</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY02218A">HYPHENATION OF SINGLE-DROP MICROEXTRACTION WITH LASER-INDUCED BREAKDOWN SPECTROMETRY FOR TRACE ANALYSIS IN LIQUID SAMPLES: A VIABILITY STUDY</a><br> M. A. Aguirre, H. Nikolova, M. Hidalgo and A. Canals<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02218A</p> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F11%2Fhot-articles-in-analytical-methods-31%2F&amp;title=HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F11%2Fhot-articles-in-analytical-methods-31%2F&amp;title=HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F11%2Fhot-articles-in-analytical-methods-31%2F&amp;title=HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=HOT+articles+in+Analytical+Methods&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F11%2Fhot-articles-in-analytical-methods-31%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=HOT+articles+in+Analytical+Methods&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F11%2Fhot-articles-in-analytical-methods-31%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F11%2Fhot-articles-in-analytical-methods-31%2F&amp;title=HOT+articles+in+Analytical+Methods&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F11%2Fhot-articles-in-analytical-methods-31%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F11%2Fhot-articles-in-analytical-methods-31%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F11%2Fhot-articles-in-analytical-methods-31%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/12/11/hot-articles-in-analytical-methods-31/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analyticalmethods/" rel="tag">AnalyticalMethods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/" title="View all posts in Hot Article" rel="category tag">Hot Article</a>,  <a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts in Hot Article 2014" rel="category tag">Hot Article 2014</a>,  <a href="http://blogs.rsc.org/ay/category/news/" title="View all posts in News" rel="category tag">News</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/12/11/hot-articles-in-analytical-methods-31/#comments" title="Comment on HOT articles in Analytical Methods">1 Comment »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="post-3180 post hentry category-hot-article category-news tag-analytical-methods"> 
+      <h3 id="post-3180"><a href="http://blogs.rsc.org/ay/2014/12/01/hot-articles-in-analytical-methods-30/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">HOT articles in Analytical Methods</a></h3> 
+      <div class="postdate date">
+       01 Dec 2014
+      </div> 
+      <div class="entry"> 
+       <p>Take a look at our recent <strong>HOT <em>Analytical Methods </em>articles,</strong> these are now <strong>free to access</strong> for the next few weeks!</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY02081B"><br> Screening and Structural Characterization of Potential a-Glucosidase Inhibitors from Radix Astragali Flavonoids Extract by Ultrafiltration LC-DAD-ESI-MSn</a><br> Wenyue Jiang, Hong Kan, Pengdong Li, Shu Liu and Zhongying Liu<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02081B<br> <a href="http://xlink.rsc.org/?doi=10.1039/C4AY02094D"><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY02094D" alt="Graphical Abstract" width="376" height="189"><br> Surface Plasmon Resonance Imaging (SPRi) for Multiplexed Evaluation of Bacterial Adhesion onto Surface Coatings</a><br> Pegah N. Abadian and Edgar D. Goluch<br> <em><strong>Anal. Method</strong></em>s, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02094D<br> <a href="http://xlink.rsc.org/?doi=10.1039/C4AY01997K"><br> A rapid DNA lateral flow test for the detection of transgenic maize by isothermal amplification of the 35S promoter</a><br> Claudia Kolm, Robert L. Mach, Rudolf Krska and Kurt Brunner<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01997K<br> <a href="http://xlink.rsc.org/?doi=10.1039/C4AY02172J"><br> Double carboxyl silicane modified graphene oxide coated silica composite as sorbent for solid-phase extraction of quarternary alkaloids</a><br> Houmei Liu, Yong Guo, Xusheng Wang, Yikun Li, Xiaojing Liang and Xia Liu<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02172J<br> <a href="http://xlink.rsc.org/?doi=10.1039/C4AY01766H"><br> Proteomic identification of organic additives in the mortars of ancient Chinese wooden buildings</a><br> Huiyun Rao, Bo Li, Yimin Yang, Qinglin Ma and Changsui Wang<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01766H<br> <a href="http://xlink.rsc.org/?doi=10.1039/C4AY01312C"><br> Chromatographic characteristics of water-soluble vitamins with irradiation processing and its application</a><br> Ying Li, Changyin Lv, Qiang Sun, Ying Zhao and Yunjing Li<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01312C<br> <a href="http://xlink.rsc.org/?doi=10.1039/C4AY02461C"><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY02461C" alt="Graphical Abstract" width="316" height="189"><br> A new colorimetric protocol for selective detection of phosphate based on the inhibition of peroxidase-like activity of magnetite nanoparticles</a><br> Chuanxia Chen, Lixia Lu, Yu Zheng, Dan Zhao, Fan Yang and Xiurong Yang<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02461C<br> <a href="http://xlink.rsc.org/?doi=10.1039/C4AY02342K"></a><a href="http://xlink.rsc.org/?doi=10.1039/C4AY02342K"><br> Sequential Detection of Fe3+ and As3+ Ions by Naked Eye through Aggregation and Dis-Aggregation of Biogenic Gold Nanoparticles</a><br> Somasundaram Kaviya and Edamana Prasad<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02342K<br> <a href="http://xlink.rsc.org/?doi=10.1039/C4AY02286F"><br> Synthesis and evaluation of a silica-bonded concanavalin A material for lectin affinity enrichment of N-linked glycoproteins and glycopeptides</a><br> Yujie Liu, Dongmei Fu, Yuansheng Xiao, Zhimou Guo, Long Yu and Xinmiao Liang<br> <em><strong>Anal. Methods</strong></em>, 2015, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY02286F</p> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F01%2Fhot-articles-in-analytical-methods-30%2F&amp;title=HOT+articles+in+Analytical+Methods+"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F01%2Fhot-articles-in-analytical-methods-30%2F&amp;title=HOT+articles+in+Analytical+Methods+"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F01%2Fhot-articles-in-analytical-methods-30%2F&amp;title=HOT+articles+in+Analytical+Methods+"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=HOT+articles+in+Analytical+Methods+&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F01%2Fhot-articles-in-analytical-methods-30%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=HOT+articles+in+Analytical+Methods+&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F01%2Fhot-articles-in-analytical-methods-30%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F01%2Fhot-articles-in-analytical-methods-30%2F&amp;title=HOT+articles+in+Analytical+Methods+&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F01%2Fhot-articles-in-analytical-methods-30%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F01%2Fhot-articles-in-analytical-methods-30%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F12%2F01%2Fhot-articles-in-analytical-methods-30%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/12/01/hot-articles-in-analytical-methods-30/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analytical-methods/" rel="tag">Analytical Methods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/" title="View all posts in Hot Article" rel="category tag">Hot Article</a>,  <a href="http://blogs.rsc.org/ay/category/news/" title="View all posts in News" rel="category tag">News</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/12/01/hot-articles-in-analytical-methods-30/#comments" title="Comment on HOT articles in Analytical Methods">1 Comment »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="post-3164 post hentry category-hot-article category-hot-article-2014 category-news tag-analytical-methods"> 
+      <h3 id="post-3164"><a href="http://blogs.rsc.org/ay/2014/11/03/hot-articles-in-analytical-methods-28/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">HOT articles in Analytical Methods</a></h3> 
+      <div class="postdate date">
+       03 Nov 2014
+      </div> 
+      <div class="entry"> 
+       <p>Take a look at our recent <strong>HOT <em>Analytical Methods </em>articles,</strong> these are now <strong>free to access</strong> for the next few weeks!</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01509F">Historical textile dyeing with Genista tinctoria L.: a comprehensive study by UPLC-MS/MS analysis</a><br> Lore G. Troalen,Ashley S. Phillips, David A. Peggie, Perdita E. Barranac and Alison N. Hulme<br> <em><strong>Anal. Methods</strong></em>, 2014, <strong>6</strong>, 8915-8923<br> <strong>DOI</strong>: 10.1039/C4AY01509F</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01052C">Separation of Carbon Quantum Dots on a C18 Column by a binary gradient elution via HPLC</a><br> Yan Lu,Jun Wang,Hongyan Yuanb and Dan Xiao<br> <em><strong>Anal. Methods</strong></em>, 2014, <strong>6</strong>, 8124-8128<br> <strong>DOI</strong>: 10.1039/C4AY01052C</p> 
+       <p><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY01677G" alt="Graphical Abstract " width="378" height="138"></p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01677G">Simultaneous Colorimetric Detection of Improvised Explosive Compounds using Microfluidic Paper-Based Analytical Devices</a><br> Kelley L. Peters,Inge Corbin,Lindsay M. Kaufman,Kyle Zreibe,Lucas Blanesb and Bruce R. McCord<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01677G</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01845A">Microfluidic Devices for Label-Free and Non-Instrumented Quantitation of Unamplified Nucleic Acids by Flow Distance Measurement</a><br> Debolina Chatterjee, Danielle S. Mansfielda and Adam T. Woolley<br> <strong><em>Anal. Methods</em></strong>, 2014, <strong>6</strong>, 8173-8179<br> <strong>DOI</strong>: 10.1039/C4AY01845A</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01359J">The development of an autonomous sensing platform for the monitoring of ammonia in water using a simplified Berthelot method</a><br> Deirdre Cogan,John Cleary,Cormac Fay,Aoife Rickard,Kamil Jankowski,Thomas Phelan, Mark Bowkettb and Dermot Diamonda<br> <em><strong>Anal. Methods</strong></em>, 2014, <strong>6</strong>, 7606-7614<br> <strong>DOI</strong>: 10.1039/C4AY01359J</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01479K">Fatty acid profile reveals toxic response in adipose tissue of C57BL/6J mice exposed to 2,3,7,8-tetrachlorodibenzo-p-dioxin</a><br> Chuanqin Hu,Shuhai Lina and Zongwei Cai<br> <em><strong>Anal. Methods</strong></em>, 2014, <strong>6</strong>, 8207-8211<br> <strong>DOI</strong>: 10.1039/C4AY01479K</p> 
+       <p><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY01860E" alt="Graphical Abstract" width="228" height="189"></p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01860E">Direct determination of niobium at the low nanogram level in mineral waters and freshwaters</a><br> Montserrat Filella,David-Julien Magnenatb and Michaël Bensimonb<br> <em><strong>Anal. Methods</strong></em>, 2014, <strong>6</strong>, 8090-8093<br> <strong>DOI</strong>: 10.1039/C4AY01860E</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01962H">Paper-based electrochemical immunoassay for rapid, inexpensive cancer biomarker protein detection</a><br> C.K.Tang, A.Vazea and J.F.Rusling<br> <em><strong>Anal. Methods</strong></em>, 2014, <strong>6</strong>, 8878-8881<br> <strong>DOI</strong>: 10.1039/C4AY01962H</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00819G">Radioisotope-based XRF instrumentation for determination of lead in paint: an assessment of the current accuracy and reliability of portable analyzers used in New York State</a><br> Diana Guimarães,Tracie M. Cleaver,Steven F. Martin and Patrick J. Parsons<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00819G</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01723D">Development of combined salt and air assisted liquid-liquid microextraction as a novel sample preparation technique</a><br> Rouhollah Heydari and Sanaz Zarabi<br> <em><strong>Anal. Methods</strong></em>, 2014, <strong>6</strong>, 8469-8475<br> <strong>DOI</strong>: 10.1039/C4AY01723D</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01814A">Separation of Asparagine, Valine and Tetraethylammonium ions Overlapping in an Ion Mobility Spectrometer by clustering with Methanol introduced as a Modifier in the Buffer Gas</a><br> R. Fernandez-Maestre,C. Wu and H. H. Hill, Jr<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01814A</p> 
+       <p><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY01756K" alt="Graphical Abstract" width="378" height="173"></p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01756K">Development of a sensitive and specific enzyme-linked immunosorbent assay for the determination of fludioxonil residues in fruit juices</a><br> Josep V. Mercader,Antonio Abad-Fuentes, Consuelo Agulló, Antonio Abad-Somovill and&nbsp;&nbsp; Francesc A. Esteve-Turrillas<br> <em><strong>Anal. Methods</strong></em>, 2014, <strong>6</strong>, 8924-8929<br> <strong>DOI</strong>: 10.1039/C4AY01756K</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01881H">Induction of formation and conformational conversion of DNA G-quadruplex by fangchinoline</a><br> Wei Tan, Han Chen, Jiang Zhou, Ming Xub and Gu Yuan<br> <em><strong>Anal. Methods</strong></em>, 2014, <strong>6</strong>, 8476-8481<br> <strong>DOI</strong>: 10.1039/C4AY01881H</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01809E">Application of online microdialysis coupled with liquid chromatography–tandem mass spectrometry method in assessing neuroprotective effect of Coptidis Rhizoma on diabetic rats</a><br> Qianqian Wang, Jing Zhang, Zifeng Pi, Zhong Zheng, Junpeng Xing, Fengrui Song, Shu Liu and&nbsp;&nbsp; Zhiqiang Liu<strong><br> <em>Anal. Methods</em></strong>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01809E</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01502A">Highly Sensitive and Portable Mercury (II) Ions Sensor by Using Personal Glucose Meter</a><br> Xu Xue-tao, Liang Kai-yi and Zeng Jia-ying<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01502A</p> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F11%2F03%2Fhot-articles-in-analytical-methods-28%2F&amp;title=HOT+articles+in+Analytical+Methods+"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F11%2F03%2Fhot-articles-in-analytical-methods-28%2F&amp;title=HOT+articles+in+Analytical+Methods+"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F11%2F03%2Fhot-articles-in-analytical-methods-28%2F&amp;title=HOT+articles+in+Analytical+Methods+"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=HOT+articles+in+Analytical+Methods+&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F11%2F03%2Fhot-articles-in-analytical-methods-28%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=HOT+articles+in+Analytical+Methods+&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F11%2F03%2Fhot-articles-in-analytical-methods-28%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F11%2F03%2Fhot-articles-in-analytical-methods-28%2F&amp;title=HOT+articles+in+Analytical+Methods+&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F11%2F03%2Fhot-articles-in-analytical-methods-28%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F11%2F03%2Fhot-articles-in-analytical-methods-28%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F11%2F03%2Fhot-articles-in-analytical-methods-28%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/11/03/hot-articles-in-analytical-methods-28/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analytical-methods/" rel="tag">Analytical Methods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/" title="View all posts in Hot Article" rel="category tag">Hot Article</a>,  <a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts in Hot Article 2014" rel="category tag">Hot Article 2014</a>,  <a href="http://blogs.rsc.org/ay/category/news/" title="View all posts in News" rel="category tag">News</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/11/03/hot-articles-in-analytical-methods-28/#comments" title="Comment on HOT articles in Analytical Methods">3 Comments »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="post-3094 post hentry category-hot-article-2014 tag-analyticalmethods"> 
+      <h3 id="post-3094"><a href="http://blogs.rsc.org/ay/2014/08/13/recent-hot-articles-in-analytical-methods-2/" rel="bookmark" title="Permanent Link to Recent HOT articles in Analytical Methods">Recent HOT articles in Analytical Methods</a></h3> 
+      <div class="postdate date">
+       13 Aug 2014
+      </div> 
+      <div class="entry"> 
+       <p>Take a look at our new hot articles just published in <em>Analytical Methods</em>. These papers are all free to read for the next few weeks. We hope you enjoy reading them!</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01138D">Chemical analysis of the Tibetan herbal medicine Carduus acanthoides by UPLC/DAD/qTOF-MS and simultaneous determination of nine major compounds</a><br> Ru Li, Sui-ku Liu, Wei Song, Yuan Wang, Yan-jiao Li, Xue Qiao, Hong Liang and Min Ye&nbsp;&nbsp;<br> <strong><em>Anal. Methods</em></strong>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01138D, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00539B">In situ characterization by Raman and X-ray fluorescence spectroscopy of post-Paleolithic blackish pictographs exposed to the open air in Los Chaparros shelter (Albalate del Arzobispo, Teruel, Spain)</a><br> Àfrica Pitarch, Juan Francisco Ruiz, Silvia Fdez-Ortiz de Vallejuelo, Antonio Hernanz, Maite Maguregui and Juan Manuel Madariaga&nbsp;&nbsp;<br> <strong><em>Anal. Methods</em></strong>, 2014,<strong>6</strong>, 6641-6650<br> <strong>DOI</strong>: 10.1039/C4AY00539B, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01418A">Detection of residual biocides in antibody drug conjugates for ImmunoPET imaging</a><br> Colin D. Medley, Jason Gruenhagen, Peter Yehl and Nik P. Chetwyn&nbsp;&nbsp;<br> <strong><em>Anal. Methods</em></strong>, 2014,<strong>6</strong>, 6635-6640<br> <strong>DOI</strong>: 10.1039/C4AY01418A, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00781F">Electrophysiological analysis of biopsy samples using elasticity as an inherent cell marker for cancer detection</a><br> Azhar Ilyas, Waseem Asghar, Shahina Ahmed, Yair Lotan, Jer-Tsong Hsieh, Young-tae Kim and Samir M. Iqbal&nbsp;&nbsp;<br> <strong><em>Anal. Methods</em></strong>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00781F, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01243G">Microchip nonaqueous capillary electrophoresis of saturated fatty acids using a new fluorescent dye</a><br> M. L. Cable, A. M. Stockton, M. F. Mora, K. P. Hand and P. A. Willis&nbsp;&nbsp;<br> <strong><em>Anal. Methods</em></strong>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01243G, Communication</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01245C">Mobile Water Kit (MWK): a smartphone compatible low-cost water monitoring system for rapid detection of total coliform and E. coli</a><br> Naga Siva Kumar Gunda, Selvaraj Naicker, Sujit Shinde, Sanjay Kimbahune, Sandhya Shrivastava and Sushanta Mitra&nbsp;&nbsp;<br> <strong><em>Anal. Methods</em></strong>, 2014,<strong>6</strong>, 6236-6246<br> <strong>DOI</strong>: 10.1039/C4AY01245C, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01071J">Cotton fabric as an immobilization matrix for low-cost and quick colorimetric enzyme-linked immunosorbent assay (ELISA)</a><br> Saeedeh Bagherbaigi, Emma P. Córcoles and Dedy H. B. Wicaksono&nbsp;&nbsp;<br> <strong><em>Anal. Methods</em></strong>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01071J, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00785A">A new screening method for recombinant Saccharomyces cerevisiae strains based on their xylose fermentation ability measured by near infrared spectroscopy</a><br> Hiroyuki Morita, Tomohisa Hasunuma, Maria Vassileva, Akihiko Kondo and Roumiana Tsenkova&nbsp;&nbsp;<br> <strong><em>Anal. Methods</em></strong>, 2014,<strong>6</strong>, 6628-6634<br> <strong>DOI</strong>: 10.1039/C4AY00785A, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00785A">A new screening method for recombinant Saccharomyces cerevisiae strains based on their xylose fermentation ability measured by near infrared spectroscopy</a><br> Hiroyuki Morita, Tomohisa Hasunuma, Maria Vassileva, Akihiko Kondo and Roumiana Tsenkova&nbsp;&nbsp;<br> <strong><em>Anal. Methods</em></strong>, 2014,<strong>6</strong>, 6628-6634<br> <strong>DOI</strong>: 10.1039/C4AY00785A, Paper</p> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F08%2F13%2Frecent-hot-articles-in-analytical-methods-2%2F&amp;title=Recent+HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F08%2F13%2Frecent-hot-articles-in-analytical-methods-2%2F&amp;title=Recent+HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F08%2F13%2Frecent-hot-articles-in-analytical-methods-2%2F&amp;title=Recent+HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=Recent+HOT+articles+in+Analytical+Methods&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F08%2F13%2Frecent-hot-articles-in-analytical-methods-2%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=Recent+HOT+articles+in+Analytical+Methods&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F08%2F13%2Frecent-hot-articles-in-analytical-methods-2%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F08%2F13%2Frecent-hot-articles-in-analytical-methods-2%2F&amp;title=Recent+HOT+articles+in+Analytical+Methods&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F08%2F13%2Frecent-hot-articles-in-analytical-methods-2%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F08%2F13%2Frecent-hot-articles-in-analytical-methods-2%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F08%2F13%2Frecent-hot-articles-in-analytical-methods-2%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/08/13/recent-hot-articles-in-analytical-methods-2/" rel="bookmark" title="Permanent Link to Recent HOT articles in Analytical Methods">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analyticalmethods/" rel="tag">AnalyticalMethods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts in Hot Article 2014" rel="category tag">Hot Article 2014</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/08/13/recent-hot-articles-in-analytical-methods-2/#respond" title="Comment on Recent HOT articles in Analytical Methods">No Comments »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="post-3044 post hentry category-hot-article category-hot-article-2014 tag-analytical-methods"> 
+      <h3 id="post-3044"><a href="http://blogs.rsc.org/ay/2014/07/16/recent-hot-articles-in-analytical-methods/" rel="bookmark" title="Permanent Link to Recent HOT articles in Analytical Methods">Recent HOT articles in Analytical Methods</a></h3> 
+      <div class="postdate date">
+       16 Jul 2014
+      </div> 
+      <div class="entry"> 
+       <p>Take a look at our new <strong>hot articles</strong> just published in <strong><em><a href="http://pubs.rsc.org/en/journals/journalissues/ay#%21recentarticles&amp;all">Analytical Methods</a></em></strong>. These papers are all <strong>free to read for the next few weeks</strong>. We hope you enjoy reading them!</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00253A">Handheld and non-destructive methodologies for the compositional investigation of meteorite fragments</a><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY00253A" alt="Handheld and non-destructive methodologies for the compositional investigation of meteorite fragments" width="141" height="189"><br> Vincenza Crupi, Alessandra Giunta, Barry Kellett, Francesca Longo, Giacomo Maisano, Domenico Majolino, Antonella Scherillo and Valentina Venuti<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00253A</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00977K">Electrochemical detection of pathogenic bacteria by using a glucose dehydrogenase fused zinc finger protein</a><br> Jinhee Lee, Atsuro Tatsumi, Koichi Abe, Wataru Yoshida, Koji Sode and Kazunori Ikebukuro<br> <em><strong>Anal. Methods</strong></em>, 2014,6, 4991-4994<br> <strong>DOI</strong>: 10.1039/C4AY00977K</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00807C">A signal on aptamer-based electrochemical sensing platform using a triple-helix molecular switch</a><br> Yudan Du, Yinfei Mao, Xiaoxiao He, Kemin Wang, Genping Yan, Jinquan Liu and Yonghong Wang<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00807C<br> <a href="http://xlink.rsc.org/?doi=10.1039/C3AY42162G"><br> Determination of spatial and temporal variability of pH and dissolved oxygen concentrations in a seasonally hypoxic semi-enclosed marine basin using continuous monitoring</a><br> Timothy Sullivan, Ciara Byrne, Luke Harman, John Davenport, Rob McAllen and Fiona Regan<br> <em><strong>Anal. Methods</strong></em>, 2014,6, 5489-5497<br> <strong>DOI</strong>: 10.1039/C3AY42162G</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00480A">Electromembrane extraction followed by high performance liquid chromatography: an efficient method for extraction and determination of morphine, oxymorphone, and methylmorphine from urine samples</a><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY00480A" alt="Electromembrane extraction followed by high performance liquid chromatography: an efficient method for extraction and determination of morphine, oxymorphone, and methylmorphine from urine samples" width="232" height="189"><br> Yadollah Yamini, Ali Pourali, Shahram Seidi and Maryam Rezazadeh<br> <em><strong>Anal. Methods</strong></em>, 2014,6, 5554-5565<br> <strong>DOI</strong>: 10.1039/C4AY00480A</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C3AY42063A">Determination of parabens in human urine by liquid chromatography coupled with electrospray ionization tandem mass spectrometry</a><br> Shaoyou Lu, Shihan Gong, Shengtao Ma, Xiangying Zeng, Zhiqiang Yu, Guoying Sheng and Jiamo Fu<br> <em><strong>Anal. Methods</strong></em>, 2014,6, 5566-5572<br> <strong>DOI</strong>: 10.1039/C3AY42063A</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00989D">Amplified detection of bleomycin based on an electrochemically driven recycling strategy</a><br> Shan Lu, Mei Yang, Xiaoxi Li, Xinjian Liu, Yongmei Yin and Ya Cao<br> <em><strong>Anal. Methods</strong></em>, 2014,6, 5573-5577<br> <strong>DOI</strong>: 10.1039/C4AY00989D</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00922C">Preconcentration and determination of chromium species by cloud point extraction-flame atomic absorption spectrometry</a><br> Limin Zhang, Xuelei Li, Xiaoyan Wang, Wentao Wang, Xiangshu Wang and Huayun Han<br> <em><strong>Anal. Methods</strong></em>, 2014,6, 5578-5583<br> <strong>DOI</strong>: 10.1039/C4AY00922C</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00915K">A review of sample preparation methods for quantitation of small-molecule analytes in brain tissue by liquid chromatography tandem mass spectrometry (LC-MS/MS)</a><br> Pei Li and Michael G. Bartlett<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00915K</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01249F">Detection of <em>Escherichia coli</em> in potable water using personal glucose meters</a><br> Ravi Chavali, Naga Siva Kumar Gunda, Selvaraj Naicker and Sushanta K. Mitra<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01249F<br> <a href="http://xlink.rsc.org/?doi=10.1039/C4AY00785A"><br> A new screening method for recombinant <em>Saccharomyces cerevisiae</em> strains based on their xylose fermentation ability measured by near infrared spectroscopy</a><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY00785A" alt="A new screening method for recombinant Saccharomyces cerevisiae strains based on their xylose fermentation ability measured by near infrared spectroscopy" width="335" height="189"><br> Hiroyuki Morita, Tomohisa Hasunuma, Maria Vassileva, Akihiko Kondo and Roumiana Tsenkova<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00785A</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00836G">Kernel <em>k</em>-nearest neighbor classifier based on decision tree ensemble for SAR modeling analysis</a><br> Xin Huang, Qing-Song Xu, Dong-Sheng Cao, Yi-Ping Luo and Yi-Zeng Liang<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00836G</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY01071J">Cotton fabric as an immobilization matrix for low-cost and quick colorimetric enzyme-linked immunosorbent assay (ELISA)</a><br> Saeedeh Bagherbaigi, Emma P. Córcoles and Dedy H. B. Wicaksono<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY01071J</p> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F07%2F16%2Frecent-hot-articles-in-analytical-methods%2F&amp;title=Recent+HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F07%2F16%2Frecent-hot-articles-in-analytical-methods%2F&amp;title=Recent+HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F07%2F16%2Frecent-hot-articles-in-analytical-methods%2F&amp;title=Recent+HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=Recent+HOT+articles+in+Analytical+Methods&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F07%2F16%2Frecent-hot-articles-in-analytical-methods%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=Recent+HOT+articles+in+Analytical+Methods&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F07%2F16%2Frecent-hot-articles-in-analytical-methods%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F07%2F16%2Frecent-hot-articles-in-analytical-methods%2F&amp;title=Recent+HOT+articles+in+Analytical+Methods&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F07%2F16%2Frecent-hot-articles-in-analytical-methods%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F07%2F16%2Frecent-hot-articles-in-analytical-methods%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F07%2F16%2Frecent-hot-articles-in-analytical-methods%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/07/16/recent-hot-articles-in-analytical-methods/" rel="bookmark" title="Permanent Link to Recent HOT articles in Analytical Methods">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analytical-methods/" rel="tag">Analytical Methods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/" title="View all posts in Hot Article" rel="category tag">Hot Article</a>,  <a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts in Hot Article 2014" rel="category tag">Hot Article 2014</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/07/16/recent-hot-articles-in-analytical-methods/#comments" title="Comment on Recent HOT articles in Analytical Methods">3 Comments »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="post-3020 post hentry category-hot-article-2014 tag-analytical-methods tag-analyticalmethods"> 
+      <h3 id="post-3020"><a href="http://blogs.rsc.org/ay/2014/06/09/forbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection/" rel="bookmark" title="Permanent Link to Forbidden Fruit Now Edible: New Mass Spectrometry Approach for Food Pesticide Detection">Forbidden Fruit Now Edible: New Mass Spectrometry Approach for Food Pesticide Detection</a></h3> 
+      <div class="postdate date">
+       09 Jun 2014
+      </div> 
+      <div class="entry"> 
+       <p>To ensure high crop yield, the addition of pesticides to crops may seem like a necessary evil. However, most applied chemicals have adverse side-effects to our health. Consequently, simple, effective, and accurate methods of pesticide detection is critical for safe food consumption. Unfortunately, most direct methods of pesticide detection that do not require sample preparation can only provide qualitative results. Furthermore, methods that are capable of quantitative analysis require complicated, time-consuming procedures of sample preparation prior to analysis. Anastasia Albert from the <a href="http://www.uni-muenster.de/en/">University of Muenster</a>, Carsten Engelhard from the <a href="https://www.uni-siegen.de/start/index.html.en?lang=en">University of Siegen</a> and other colleagues from Germany have evaluated ambient desorption/ionization high-resolution mass spectrometry (ADI-HR-MS) for quantitative pesticide detection in fruit, and have devised a streamlined procedure for effective analysis. Find out more about their discovery by accessing the link below:</p> 
+       <div class="wp-caption alignleft" style="width: 388px">
+        <img title="ADI-HR Mass Spectrometry for Pesticide Detection in Fruit" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY00103F" alt="ADI-HR Mass Spectrometry for Pesticide Detection in Fruit" width="378" height="151">
+        <p class="wp-caption-text">ADI-HR Mass Spectrometry for Pesticide Detection in Fruit</p>
+       </div> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00103F">Rapid and quantitative analysis of pesticides in fruits by QuEChERS pretreatment and low-temperature plasma desorption/ionization orbitrap mass spectrometry</a></p> 
+       <p>Anastasia Albert, Andrea Kramer, Simon Scheeren and Carsten Engelhard</p> 
+       <div>
+        <em><strong>Anal. Methods</strong></em>, 2014, Advance Article
+       </div> 
+       <p><strong>DOI: </strong>10.1039/C4AY00103F</p> 
+       <p>Leave a comment to share your thoughts with us!</p> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F06%2F09%2Fforbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection%2F&amp;title=Forbidden+Fruit+Now+Edible%3A+New+Mass+Spectrometry+Approach+for+Food+Pesticide+Detection"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F06%2F09%2Fforbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection%2F&amp;title=Forbidden+Fruit+Now+Edible%3A+New+Mass+Spectrometry+Approach+for+Food+Pesticide+Detection"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F06%2F09%2Fforbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection%2F&amp;title=Forbidden+Fruit+Now+Edible%3A+New+Mass+Spectrometry+Approach+for+Food+Pesticide+Detection"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=Forbidden+Fruit+Now+Edible%3A+New+Mass+Spectrometry+Approach+for+Food+Pesticide+Detection&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F06%2F09%2Fforbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=Forbidden+Fruit+Now+Edible%3A+New+Mass+Spectrometry+Approach+for+Food+Pesticide+Detection&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F06%2F09%2Fforbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F06%2F09%2Fforbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection%2F&amp;title=Forbidden+Fruit+Now+Edible%3A+New+Mass+Spectrometry+Approach+for+Food+Pesticide+Detection&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F06%2F09%2Fforbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F06%2F09%2Fforbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F06%2F09%2Fforbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/06/09/forbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection/" rel="bookmark" title="Permanent Link to Forbidden Fruit Now Edible: New Mass Spectrometry Approach for Food Pesticide Detection">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analytical-methods/" rel="tag">Analytical Methods</a>, <a href="http://blogs.rsc.org/ay/tag/analyticalmethods/" rel="tag">AnalyticalMethods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts in Hot Article 2014" rel="category tag">Hot Article 2014</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/06/09/forbidden-fruit-now-edible-new-mass-spectrometry-approach-for-food-pesticide-detection/#comments" title="Comment on Forbidden Fruit Now Edible: New Mass Spectrometry Approach for Food Pesticide Detection">2 Comments »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="post-3006 post hentry category-hot-article-2014 tag-analytical-methods"> 
+      <h3 id="post-3006"><a href="http://blogs.rsc.org/ay/2014/05/29/hot-articles-in-analytical-methods-29/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">HOT articles in Analytical Methods</a></h3> 
+      <div class="postdate date">
+       29 May 2014
+      </div> 
+      <div class="entry"> 
+       <p>Take a look at our new <strong>hot articles</strong> just published in <strong><em><a href="http://pubs.rsc.org/en/journals/journalissues/ay#%21recentarticles&amp;all">Analytical Methods</a></em></strong>. These papers are all <strong>free to read for the next few weeks</strong>. Enjoy the reading!</p> 
+       <p><a href="http://xlink.rsc.org/?doi=C4AY00410H">Determination of boron in silicon without use of additional complexing agents<br> </a>Matthias Balski, Franziska Emmerling, Heinrich Kipphardt and Ulrich Panne&nbsp;<br> <em>Anal. Methods</em>, 2014, Advance Article<br> DOI: 10.1039/C4AY00410H, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=C4AY00103F">Rapid and quantitative analysis of pesticides in fruits by QuEChERS pretreatment and low-temperature plasma desorption/ionization orbitrap mass spectrometry<br> </a>Anastasia Albert, Andrea Kramer, Simon Scheeren and Carsten Engelhard&nbsp;<br> <em>Anal. Methods</em>, 2014, Advance Article<br> DOI: 10.1039/C4AY00103F, Paper<img class="alignright size-full wp-image-3009" title="-" src="http://blogs.rsc.org/ay/files/2014/05/GA-1.jpg" alt="" width="256" height="117"></p> 
+       <p><a href="http://xlink.rsc.org/?doi=C3AY42129E">Time-gated fluorescence sensor for silver ions using Mn:CdS/ZnS quantum dots/DNA/gold nanoparticle complexes<br> </a>Xiaoyan Leng, Dawei Huang, Chenggang Niu, Xiaoyu Wang, Guangming Zeng and Qiuya Niu&nbsp;<br> <em>Anal. Methods</em>, 2014, Advance Article<br> DOI: 10.1039/C3AY42129E, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=C4AY00223G">Rapid measurement of total polyphenols content in cocoa beans by data fusion of NIR spectroscopy and electronic tongue<br> </a>Xingyi Huang, Ernest Teye, Livingstone K. Sam-Amoah, Fangkai Han, Liya Yao and William Tchabo&nbsp;<br> <em>Anal. Methods</em>, 2014, Advance Article<br> DOI: 10.1039/C4AY00223G, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=C4AY00088A">Protein/peptide purification by three-well OFFGEL electrophoresis with immobilized ultra narrow pH gradient gels<br> </a>Elena Tobolkina, Fernando Cortés-Salazar, Liang Qiao and Hubert H. Girault&nbsp;<br> <em>Anal. Methods</em>, 2014, Advance Article<br> DOI: 10.1039/C4AY00088A, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=C3AY41964A">A formaldehyde trace gas sensor based on a thermoelectrically cooled CW-DFB quantum cascade laser<br> </a>Jingsong Li, Uwe Parchatka and Horst Fischer&nbsp;<br> <em>Anal. Methods</em>, 2014, Advance Article<br> DOI: 10.1039/C3AY41964A, Paper<img class="alignright size-full wp-image-3010" title="-" src="http://blogs.rsc.org/ay/files/2014/05/GA-2.jpg" alt="" width="274" height="147"></p> 
+       <p><a href="http://xlink.rsc.org/?doi=C4AY00424H">New insights on blue pigments used in 15th century paintings by synchrotron radiation-based micro-FTIR and XRD<br> </a>Nati Salvadó, Salvador Butí, Miguel A. G. Aranda and Trinitat Pradell&nbsp;<br> <em>Anal. Methods</em>, 2014,6, 3610-3621<br> DOI: 10.1039/C4AY00424H, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=C4AY00303A">Real-time detection of chemical warfare agent simulants in forensic samples using active capillary plasma ionization with benchtop and field-deployable mass spectrometers<br> </a>Morphy Dumlao, Pablo Martinez-Lozano Sinues, Maryia Nudnova and Renato Zenobi&nbsp;<br> <em>Anal. Methods</em>, 2014,6, 3604-3609<br> DOI: 10.1039/C4AY00303A, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=C4AY00538D">Determination of iodinated X-ray contrast agents in pharmaceutical formulations and artificial urine samples by differential pulse voltammetry<br> </a>Piotr Markowski, Katarzyna Piwowar and Irena Baranowska&nbsp;<br> <em>Anal. Methods</em>, 2014, Advance Article<br> DOI: 10.1039/C4AY00538D, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=C4AY00345D">Amplified fluorescence sensing of miRNA by combination of graphene oxide with duplex-specific nuclease<br> </a>Shuang Guo, Fan Yang, Yulin Zhang, Yong Ning, Qunfeng Yao and Guo-Jun Zhang&nbsp;<br> <em>Anal. Methods,</em> 2014,6, 3598-3603<br> DOI: 10.1039/C4AY00345D, Paper<img class="alignright size-full wp-image-3011" title="-" src="http://blogs.rsc.org/ay/files/2014/05/GA-3.jpg" alt="" width="280" height="148"></p> 
+       <p><a href="http://xlink.rsc.org/?doi=C3AY41970C">Which spectroscopic technique allows the best differentiation of coffee varieties: comparing principal component analysis using data derived from CD-, NMR- and IR-spectroscopies and LC-MS in the analysis of the chlorogenic acid fraction in green coffee beans<br> </a>Sagar Deshpande, Rasha M. El-Abassy, Rakesh Jaiswal, Pinkie Eravuchira, Bernd von der Kammer, Arnulf Materny and Nikolai Kuhnert&nbsp;<br> <em>Anal. Methods</em>, 2014,6, 3268-3276<br> DOI: 10.1039/C3AY41970C, Paper</p> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F29%2Fhot-articles-in-analytical-methods-29%2F&amp;title=HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F29%2Fhot-articles-in-analytical-methods-29%2F&amp;title=HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F29%2Fhot-articles-in-analytical-methods-29%2F&amp;title=HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=HOT+articles+in+Analytical+Methods&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F29%2Fhot-articles-in-analytical-methods-29%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=HOT+articles+in+Analytical+Methods&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F29%2Fhot-articles-in-analytical-methods-29%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F29%2Fhot-articles-in-analytical-methods-29%2F&amp;title=HOT+articles+in+Analytical+Methods&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F29%2Fhot-articles-in-analytical-methods-29%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F29%2Fhot-articles-in-analytical-methods-29%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F29%2Fhot-articles-in-analytical-methods-29%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/05/29/hot-articles-in-analytical-methods-29/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analytical-methods/" rel="tag">Analytical Methods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts in Hot Article 2014" rel="category tag">Hot Article 2014</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/05/29/hot-articles-in-analytical-methods-29/#comments" title="Comment on HOT articles in Analytical Methods">1 Comment »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="post-2987 post hentry category-hot-article-2014 tag-analyticalmethods"> 
+      <h3 id="post-2987"><a href="http://blogs.rsc.org/ay/2014/05/06/rapid-blood-test-for-critically-ill-newborns/" rel="bookmark" title="Permanent Link to Rapid blood test for critically ill newborns">Rapid blood test for critically ill newborns</a></h3> 
+      <div class="postdate date">
+       06 May 2014
+      </div> 
+      <div class="entry"> 
+       <div class="wp-caption alignright" style="width: 346px">
+        <img title="Test for methylarginines in newborn infants" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY00340C" alt="Test for methylarginines in newborn infants" width="336" height="189">
+        <p class="wp-caption-text">Test for methylarginines in newborn infants</p>
+       </div> 
+       <p>Developing an analytical technique for use in the field of neo-natal intensive care presents a significant challenge to researchers. Newborn infants who are very premature and unwell can’t safely provide large blood samples for analysis, and a fast turn-around of lab results is crucial for a life-saving diagnosis.</p> 
+       <p>Methylarginines (MAs) are nitric oxide synthase inhibitors which have been linked to respiratory problems in newborns. Researchers led by <a href="http://www.chem.ku.edu/people/faculty/slunte">Susan Lunte</a> at the <a href="http://www.chem.ku.edu/">University of Kansas</a>, USA, report the use of capillary electrophoresis (CE) to measure and track methylarginine concentrations in infant blood plasma for the first time. Their newly developed sample preparation and separation methods are specifically designed to cope with low volume plasma samples, and the results confirm that infants in neo-natal intensive care units (NICUs) have extremely high MA levels.</p> 
+       <p>Click the link below to read more… This article will be free to access until June 7<sup>th</sup>.</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00340C">Determination of methylarginines in infant plasma by CE-LIF</a><br> Thomas H. Linz&nbsp;and&nbsp;Susan M. Lunte<br> <strong><em>Anal. Methods</em></strong>, 2014, Advance Article<br> <strong>DOI: </strong>10.1039/C4AY00340C</p> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F06%2Frapid-blood-test-for-critically-ill-newborns%2F&amp;title=Rapid+blood+test+for+critically+ill+newborns"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F06%2Frapid-blood-test-for-critically-ill-newborns%2F&amp;title=Rapid+blood+test+for+critically+ill+newborns"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F06%2Frapid-blood-test-for-critically-ill-newborns%2F&amp;title=Rapid+blood+test+for+critically+ill+newborns"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=Rapid+blood+test+for+critically+ill+newborns&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F06%2Frapid-blood-test-for-critically-ill-newborns%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=Rapid+blood+test+for+critically+ill+newborns&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F06%2Frapid-blood-test-for-critically-ill-newborns%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F06%2Frapid-blood-test-for-critically-ill-newborns%2F&amp;title=Rapid+blood+test+for+critically+ill+newborns&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F06%2Frapid-blood-test-for-critically-ill-newborns%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F06%2Frapid-blood-test-for-critically-ill-newborns%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F05%2F06%2Frapid-blood-test-for-critically-ill-newborns%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/05/06/rapid-blood-test-for-critically-ill-newborns/" rel="bookmark" title="Permanent Link to Rapid blood test for critically ill newborns">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analyticalmethods/" rel="tag">AnalyticalMethods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts in Hot Article 2014" rel="category tag">Hot Article 2014</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/05/06/rapid-blood-test-for-critically-ill-newborns/#comments" title="Comment on Rapid blood test for critically ill newborns">2 Comments »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="post-2979 post hentry category-hot-article category-hot-article-2014 tag-analytical-methods tag-analyticalmethods"> 
+      <h3 id="post-2979"><a href="http://blogs.rsc.org/ay/2014/04/22/hot-articles-in-analytical-methods-27/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">HOT articles in Analytical Methods</a></h3> 
+      <div class="postdate date">
+       22 Apr 2014
+      </div> 
+      <div class="entry"> 
+       <p>Take a look at our <span style="color: #ff0000"><strong>new HOT articles</strong></span> just published in <strong><em><a href="http://pubs.rsc.org/en/Journals/JournalIssues/AN#%21recentarticles&amp;all">Analyst</a></em></strong> and <strong><span style="color: #ff0000">free for you for the next couple of weeks</span>: <img class="alignright" style="border: 3px solid white" title=" Determination of biochemical parameters in human serum by near-infrared spectroscopy Graphical abstract" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C3AY42198H" alt="Graphical abstract: Determination of biochemical parameters in human serum by near-infrared spectroscopy" width="378" height="189"></strong></p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00392F"><strong>Determining striatal extracellular glutamate levels in xCT mutant mice using LFPS CE-LIF</strong></a><br> Srivani Borra, Elizabeth A. McCullagh, David E. Featherstone, Phillip M. Baker, Michael E. Ragozzino and Scott A. Shippy<br> <em><strong>Anal. Methods</strong></em>, 2014,<strong>6</strong>, 2916-2922<br> <strong>DOI</strong>: 10.1039/C4AY00392F, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00392F"><strong>Ultrasound-assisted cloud point extraction coupled with flame atomic absorption spectrometry for the determination of lead and cadmium in water samples</strong></a><br> Zonghao Li, Jiaxi Chen, Mousheng Liu and Yaling Yang<br> Anal. Methods, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00211C, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C3AY42198H"><strong>Determination of biochemical parameters in human serum by near-infrared spectroscopy</strong></a><br> J. L. García-García, D. Pérez-Guaita, J. Ventura-Gayete, S. Garrigues and M. de la Guardia<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C3AY42198H, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C3AY42002G"><strong>Colorimetric detection of mercury based on a strip sensor</strong></a><br> Changrui Xing, Liqiang Liu, Xun Zhang, Hua Kuang and Chuanlai Xu<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C3AY42002G, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00314D"><strong>Synthesis, cytotoxicity and bioimaging of a novel Hg2+ selective fluorogenic chemosensor</strong></a><br> Muhammad Saleem, Razack Abdullah, Anser Ali, Bong Joo Park, Eun Ha Choi, In Seok Hong and Ki Hwan Lee <img class="alignright" style="border: 3px solid white" title=" Colorimetric detection of ATP with DNAzyme: design an activatable hairpin probe for reducing background signals and improving selectivity Graphical abstract" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4AY00380B" alt="Graphical abstract: Colorimetric detection of ATP with DNAzyme: design an activatable hairpin probe for reducing background signals and improving selectivity" width="378" height="159"><br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00314D, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00340C"><strong>Determination of methylarginines in infant plasma by CE-LIF</strong></a><br> Thomas H. Linz and Susan M. Lunte<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00340C, Paper</p> 
+       <p><a href="http://xlink.rsc.org/?doi=10.1039/C4AY00380B"><strong>Colorimetric detection of ATP with DNAzyme: design an activatable hairpin probe for reducing background signals and improving selectivity</strong></a><br> Weiju Chen, Yaping Hu, Jishan Li, Yinhui Li, Junhui Bai, Jing Zheng and Ronghua Yang<br> <em><strong>Anal. Methods</strong></em>, 2014, Advance Article<br> <strong>DOI</strong>: 10.1039/C4AY00380B, Communication</p> 
+       <p>To view these article for free, please register for a <strong>free</strong> RSC account <a href="http://pubs.rsc.org/en/account/register"><strong>here</strong></a></p> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F22%2Fhot-articles-in-analytical-methods-27%2F&amp;title=HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F22%2Fhot-articles-in-analytical-methods-27%2F&amp;title=HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F22%2Fhot-articles-in-analytical-methods-27%2F&amp;title=HOT+articles+in+Analytical+Methods"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=HOT+articles+in+Analytical+Methods&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F22%2Fhot-articles-in-analytical-methods-27%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=HOT+articles+in+Analytical+Methods&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F22%2Fhot-articles-in-analytical-methods-27%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F22%2Fhot-articles-in-analytical-methods-27%2F&amp;title=HOT+articles+in+Analytical+Methods&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F22%2Fhot-articles-in-analytical-methods-27%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F22%2Fhot-articles-in-analytical-methods-27%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F22%2Fhot-articles-in-analytical-methods-27%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/04/22/hot-articles-in-analytical-methods-27/" rel="bookmark" title="Permanent Link to HOT articles in Analytical Methods">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analytical-methods/" rel="tag">Analytical Methods</a>, <a href="http://blogs.rsc.org/ay/tag/analyticalmethods/" rel="tag">AnalyticalMethods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/" title="View all posts in Hot Article" rel="category tag">Hot Article</a>,  <a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts in Hot Article 2014" rel="category tag">Hot Article 2014</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/04/22/hot-articles-in-analytical-methods-27/#comments" title="Comment on HOT articles in Analytical Methods">1 Comment »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="post-2973 post hentry category-hot-article-2014 tag-analytical-methods"> 
+      <h3 id="post-2973"><a href="http://blogs.rsc.org/ay/2014/04/14/a-new-pls-method-for-studying-nonlinearity/" rel="bookmark" title="Permanent Link to A new PLS method for studying nonlinearity">A new PLS method for studying nonlinearity</a></h3> 
+      <div class="postdate date">
+       14 Apr 2014
+      </div> 
+      <div class="entry"> 
+       <p>Statistical methods such as partial least squares (PLS) and principle component analysis (PCA) have been used to process vibrational spectra in order to understand certain trends between samples and their spectra. However, these methods and similar ones break down when the variables demonstrate a nonlinear relationship.</p> 
+       <p><img class="alignright" src="http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C3AY41765D" alt="" width="216" height="189"></p> 
+       <div> 
+        <p>Guangzaho Huang and researchers at <a href="http://en.wzu.edu.cn/">Wenzhou University</a> explored updating a genetic algorithm to process nonlinear data. They found that this genetic algorithm PLS (GS-PLS) model performed more effectively than other PLS models did, particularly when nonlinearity was the primary restricting factor. &nbsp;The GS-PLS worked in both simulated data sets and using near infrared spectra from different materials.</p> 
+        <p>To read more about this new method, click the link below. It will be free to read until May 11<sup>th</sup>.</p> 
+        <p><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2014/AY/c3ay41765d#!divAbstract">A segmented PLS method based on genetic algorithm<br> </a>Guangzao Huang, &nbsp;Xiukai Ruan, &nbsp;Xiaojing Chen, &nbsp;Dongxiu Lina and &nbsp;Wenbin Liua<br> <strong>Anal. Methods</strong>, 2014, 6, 2900-2908<br> <strong>DOI</strong>: 10.1039/C3AY41765D</p> 
+       </div> 
+       <div class="lightsocial_container">
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://digg.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F14%2Fa-new-pls-method-for-studying-nonlinearity%2F&amp;title=A+new+PLS+method+for+studying+nonlinearity"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/digg.png" alt="Digg This" title="Digg This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.reddit.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F14%2Fa-new-pls-method-for-studying-nonlinearity%2F&amp;title=A+new+PLS+method+for+studying+nonlinearity"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/reddit.png" alt="Reddit This" title="Reddit This"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F14%2Fa-new-pls-method-for-studying-nonlinearity%2F&amp;title=A+new+PLS+method+for+studying+nonlinearity"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/stumbleupon.png" alt="Stumble Now!" title="Stumble Now!"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.facebook.com/sharer.php?t=A+new+PLS+method+for+studying+nonlinearity&amp;u=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F14%2Fa-new-pls-method-for-studying-nonlinearity%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/facebook.png" alt="Share on Facebook" title="Share on Facebook"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://delicious.com/save?title=A+new+PLS+method+for+studying+nonlinearity&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F14%2Fa-new-pls-method-for-studying-nonlinearity%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/delicious.png" alt="Bookmark this on Delicious" title="Bookmark this on Delicious"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F14%2Fa-new-pls-method-for-studying-nonlinearity%2F&amp;title=A+new+PLS+method+for+studying+nonlinearity&amp;summary=&amp;source="><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.technorati.com/faves?add=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F14%2Fa-new-pls-method-for-studying-nonlinearity%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/technorati.png" alt="Bookmark this on Technorati" title="Bookmark this on Technorati"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://twitter.com/home?status=Reading+http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F14%2Fa-new-pls-method-for-studying-nonlinearity%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/twitter.png" alt="Post on Twitter" title="Post on Twitter"></a>
+        </div>
+        <div class="lightsocial_element">
+         <a class="lightsocial_a" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fblogs.rsc.org%2Fay%2F2014%2F04%2F14%2Fa-new-pls-method-for-studying-nonlinearity%2F"><img class="lightsocial_img" src="http://blogs.rsc.org/ay/wp-content/plugins/light-social/google_buzz.png" alt="Google Buzz (aka. Google Reader)" title="Google Buzz (aka. Google Reader)"></a>
+        </div>
+       </div> 
+      </div> 
+      <!--
+                	<a href="http://blogs.rsc.org/ay/2014/04/14/a-new-pls-method-for-studying-nonlinearity/" rel="bookmark" title="Permanent Link to A new PLS method for studying nonlinearity">Read more...</a>
+				--> 
+      <p class="postmetadata"> 
+       <!--					
+				Tags: <a href="http://blogs.rsc.org/ay/tag/analytical-methods/" rel="tag">Analytical Methods</a><br /> Posted in <a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts in Hot Article 2014" rel="category tag">Hot Article 2014</a> 
+				--> <a href="http://blogs.rsc.org/ay/2014/04/14/a-new-pls-method-for-studying-nonlinearity/#comments" title="Comment on A new PLS method for studying nonlinearity">1 Comment »</a></p> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="navigation"> 
+      <div class="alignleft">
+       <a href="http://blogs.rsc.org/ay/category/hot-article/page/2/">« Older Entries</a>
+      </div> 
+      <div class="alignright"></div> 
+     </div> 
+    </div> 
+    <div id="sidebar" role="complementary"> 
+     <ul> 
+      <!-- Warren Added Search Box --> 
+      <li class="search"> 
+       <!--h2>Search this blog</h2--> 
+       <form method="get" id="searchform" action="http://blogs.rsc.org/ay/"> 
+        <label class="hidden" for="s">Search for:</label> 
+        <div>
+         <input type="text" value="" name="s" id="s"> 
+         <input type="submit" id="searchsubmit" value="Search"> 
+        </div> 
+       </form> </li> 
+      <!-- Warren Added Search Box END--> 
+      <!-- Author information is disabled per default. Uncomment and fill in your details if you want to use it.
+			<li><h2>Author</h2>
+			<p>A little something about you, the author. Nothing lengthy, just an overview.</p>
+			</li>
+			--> 
+      <li> <p>You are currently browsing the archives for the Hot Article category.</p> </li> 
+     </ul> 
+     <ul role="navigation"> 
+      <!--
+				<li class="pagenav"><h2>Pages</h2><ul><li class="page_item page-item-2"><a href="http://blogs.rsc.org/ay/about/" title="About">About</a></li>
+<li class="page_item page-item-6"><a href="http://blogs.rsc.org/ay/tags/" title="Tags">Tags</a></li>
+</ul></li>			--> 
+      <li id="linkcat-" class="linkcat"><h2>Links</h2> 
+       <ul class="xoxo blogroll"> 
+        <li><a href="http://www.rsc.org/Publishing/Journals/ay/About.asp" title="About the journal">About the journal</a></li> 
+        <li><a href="http://www.rsc.org/Publishing/Journals/ay/Staff.asp" title="Editorial Board">Editorial Board</a></li> 
+        <li><a href="http://pubs.rsc.org/en/Journals/JournalIssues/AY" title="Journal Homepage">Journal Homepage</a></li> 
+        <li><a href="http://www.rsc.org" title="RSC Home Page">RSC Home</a></li> 
+        <li><a href="http://mc.manuscriptcentral.com/ay" title="Submit an Article">Submit an Article</a></li> 
+       </ul> </li> 
+      <li id="rss-4" class="widget widget_rss"><h2 class="widgettitle"><a class="rsswidget" href="http://pubs.rsc.org/rss/AY" title="Syndicate this content"></a> <a class="rsswidget" href="http://pubs.rsc.org/en/Journals/Journal/AY" title="RSC - Anal. Methods latest articles">Analytical Methods Latest Articles</a></h2>
+       <ul>
+        <li><a class="rsswidget" href="http://pubs.rsc.org/en/Content/ArticleLanding/2015/AY/C4AY02597K" title="Anal. Methods, 2015, Accepted ManuscriptDOI: 10.1039/C4AY02597K, PaperTimothy Mark James, Simone Rupp, Helmut Hans TelleResults on using capillary Raman spectroscopy as an approach for improving the speed, sensitivity and limit of detection for quantitative analysis of gases are reported. Specifically, its potential for trace...The content of this RSS Feed ( […]">Trace gas and dynamic process monitoring by Raman spectroscopy in metal-coated hollow glass fibres</a></li>
+        <li><a class="rsswidget" href="http://pubs.rsc.org/en/Content/ArticleLanding/2015/AY/C4AY02851A" title="Anal. Methods, 2015, Accepted ManuscriptDOI: 10.1039/C4AY02851A, PaperZhengzong Wu, Jie Long, Enbo Xu, Chunsen Wu, Fang Wang, Xueming Xu, Zhengyu Jin, Aiquan JiaoEffective fermentation monitoring is a growing need during the production of wine due to the rapid pace of change in the industry. Total reducing sugar, pH and amino acid nitrogen...The content of t […]">Application of FT-NIR spectroscopy and FT-IR spectroscopy to Chinese rice wine for rapid determination of fermentation process parameters</a></li>
+       </ul></li>
+      <li id="rss-5" class="widget widget_rss"><h2 class="widgettitle"><a class="rsswidget" href="http://rsc.org/AboutUs/News/RSCnews/RSS.xml" title="Syndicate this content"></a> <a class="rsswidget" href="http://www.rsc.org/AboutUs/News/index.asp" title="Get the latest news and updates from the RSC">RSC News</a></h2>
+       <ul>
+        <li><a class="rsswidget" href="http://www.rsc.org/AboutUs/News/PressReleases/2014/chemistry-A-level-results-2014.asp" title="Our president says we need more talented young women to progress their talent for science into higher education and beyond […]">Royal Society of Chemistry responds to A-level results</a></li>
+        <li><a class="rsswidget" href="http://www.rsc.org/AboutUs/News/PressReleases/2014/Royal-Society-of-Chemistry-impact-factors-2013.asp" title="Our journals have proven their outstanding excellence once again in the latest Impact Factors report from Thomson Reuters […]">Royal Society of Chemistry journals keep on making a big impact</a></li>
+       </ul></li> 
+      <li class="categories"><h2>Categories</h2>
+       <ul> 
+        <li class="cat-item cat-item-286"><a href="http://blogs.rsc.org/ay/category/article-collections/" title="View all posts filed under Article collections">Article collections</a> (8) </li> 
+        <li class="cat-item cat-item-85"><a href="http://blogs.rsc.org/ay/category/board-news/" title="View all posts filed under Board News">Board News</a> (9) </li> 
+        <li class="cat-item cat-item-84"><a href="http://blogs.rsc.org/ay/category/conference/" title="View all posts filed under Conference">Conference</a> (16) </li> 
+        <li class="cat-item cat-item-220"><a href="http://blogs.rsc.org/ay/category/covers/" title="View all posts filed under Covers">Covers</a> (34) 
+         <ul class="children"> 
+          <li class="cat-item cat-item-302"><a href="http://blogs.rsc.org/ay/category/covers/covers-2011/" title="View all posts filed under Covers 2011">Covers 2011</a> (1) </li> 
+          <li class="cat-item cat-item-301"><a href="http://blogs.rsc.org/ay/category/covers/covers-2012/" title="View all posts filed under Covers 2012">Covers 2012</a> (12) </li> 
+          <li class="cat-item cat-item-366"><a href="http://blogs.rsc.org/ay/category/covers/covers-2013/" title="View all posts filed under Covers 2013">Covers 2013</a> (11) </li> 
+         </ul> </li> 
+        <li class="cat-item cat-item-83 current-cat"><a href="http://blogs.rsc.org/ay/category/hot-article/" title="View all posts filed under Hot Article">Hot Article</a> (152) 
+         <ul class="children"> 
+          <li class="cat-item cat-item-371"><a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2013/" title="View all posts filed under Hot Article 2013">Hot Article 2013</a> (44) </li> 
+          <li class="cat-item cat-item-476"><a href="http://blogs.rsc.org/ay/category/hot-article/hot-article-2014/" title="View all posts filed under Hot Article 2014">Hot Article 2014</a> (17) </li> 
+          <li class="cat-item cat-item-305"><a href="http://blogs.rsc.org/ay/category/hot-article/hot-articles-2012/" title="View all posts filed under Hot Articles 2012">Hot Articles 2012</a> (51) </li> 
+         </ul> </li> 
+        <li class="cat-item cat-item-80"><a href="http://blogs.rsc.org/ay/category/impact-factor/" title="View all posts filed under Impact Factor">Impact Factor</a> (3) </li> 
+        <li class="cat-item cat-item-81"><a href="http://blogs.rsc.org/ay/category/news/" title="View all posts filed under News">News</a> (55) </li> 
+        <li class="cat-item cat-item-86"><a href="http://blogs.rsc.org/ay/category/poster-prize/" title="View all posts filed under Poster Prize">Poster Prize</a> (8) </li> 
+        <li class="cat-item cat-item-82"><a href="http://blogs.rsc.org/ay/category/themed-issue/" title="View all posts filed under Themed Issue">Themed Issue</a> (11) </li> 
+        <li class="cat-item cat-item-144"><a href="http://blogs.rsc.org/ay/category/top-10/" title="View all posts filed under Top 10">Top 10</a> (31) </li> 
+        <li class="cat-item cat-item-1"><a href="http://blogs.rsc.org/ay/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (8) </li> 
+       </ul></li> 
+      <li> <h2>Archives</h2> 
+       <!-- <ul>
+					<li><a href='http://blogs.rsc.org/ay/2015/01/' title='January 2015'>January 2015</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/12/' title='December 2014'>December 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/11/' title='November 2014'>November 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/09/' title='September 2014'>September 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/08/' title='August 2014'>August 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/07/' title='July 2014'>July 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/06/' title='June 2014'>June 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/05/' title='May 2014'>May 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/04/' title='April 2014'>April 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/03/' title='March 2014'>March 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/02/' title='February 2014'>February 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2014/01/' title='January 2014'>January 2014</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/12/' title='December 2013'>December 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/11/' title='November 2013'>November 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/10/' title='October 2013'>October 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/09/' title='September 2013'>September 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/08/' title='August 2013'>August 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/07/' title='July 2013'>July 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/06/' title='June 2013'>June 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/05/' title='May 2013'>May 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/04/' title='April 2013'>April 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/03/' title='March 2013'>March 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/02/' title='February 2013'>February 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2013/01/' title='January 2013'>January 2013</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/12/' title='December 2012'>December 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/11/' title='November 2012'>November 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/10/' title='October 2012'>October 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/09/' title='September 2012'>September 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/08/' title='August 2012'>August 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/07/' title='July 2012'>July 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/06/' title='June 2012'>June 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/05/' title='May 2012'>May 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/04/' title='April 2012'>April 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/03/' title='March 2012'>March 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/02/' title='February 2012'>February 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2012/01/' title='January 2012'>January 2012</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/12/' title='December 2011'>December 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/11/' title='November 2011'>November 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/10/' title='October 2011'>October 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/09/' title='September 2011'>September 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/08/' title='August 2011'>August 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/07/' title='July 2011'>July 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/06/' title='June 2011'>June 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/05/' title='May 2011'>May 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/04/' title='April 2011'>April 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/03/' title='March 2011'>March 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/02/' title='February 2011'>February 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2011/01/' title='January 2011'>January 2011</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2010/12/' title='December 2010'>December 2010</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2010/11/' title='November 2010'>November 2010</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2010/10/' title='October 2010'>October 2010</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2010/09/' title='September 2010'>September 2010</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2010/08/' title='August 2010'>August 2010</a></li>
+	<li><a href='http://blogs.rsc.org/ay/2010/07/' title='July 2010'>July 2010</a></li>
+				</ul> --> 
+       <!-- Warren Added DD Archives --> <select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> <option value="">Select Month</option> <option value="http://blogs.rsc.org/ay/2015/01/"> January 2015 &nbsp;(1)</option> <option value="http://blogs.rsc.org/ay/2014/12/"> December 2014 &nbsp;(2)</option> <option value="http://blogs.rsc.org/ay/2014/11/"> November 2014 &nbsp;(1)</option> <option value="http://blogs.rsc.org/ay/2014/09/"> September 2014 &nbsp;(3)</option> <option value="http://blogs.rsc.org/ay/2014/08/"> August 2014 &nbsp;(1)</option> <option value="http://blogs.rsc.org/ay/2014/07/"> July 2014 &nbsp;(4)</option> <option value="http://blogs.rsc.org/ay/2014/06/"> June 2014 &nbsp;(1)</option> <option value="http://blogs.rsc.org/ay/2014/05/"> May 2014 &nbsp;(3)</option> <option value="http://blogs.rsc.org/ay/2014/04/"> April 2014 &nbsp;(2)</option> <option value="http://blogs.rsc.org/ay/2014/03/"> March 2014 &nbsp;(6)</option> <option value="http://blogs.rsc.org/ay/2014/02/"> February 2014 &nbsp;(6)</option> <option value="http://blogs.rsc.org/ay/2014/01/"> January 2014 &nbsp;(3)</option> <option value="http://blogs.rsc.org/ay/2013/12/"> December 2013 &nbsp;(4)</option> <option value="http://blogs.rsc.org/ay/2013/11/"> November 2013 &nbsp;(5)</option> <option value="http://blogs.rsc.org/ay/2013/10/"> October 2013 &nbsp;(9)</option> <option value="http://blogs.rsc.org/ay/2013/09/"> September 2013 &nbsp;(5)</option> <option value="http://blogs.rsc.org/ay/2013/08/"> August 2013 &nbsp;(4)</option> <option value="http://blogs.rsc.org/ay/2013/07/"> July 2013 &nbsp;(4)</option> <option value="http://blogs.rsc.org/ay/2013/06/"> June 2013 &nbsp;(7)</option> <option value="http://blogs.rsc.org/ay/2013/05/"> May 2013 &nbsp;(8)</option> <option value="http://blogs.rsc.org/ay/2013/04/"> April 2013 &nbsp;(7)</option> <option value="http://blogs.rsc.org/ay/2013/03/"> March 2013 &nbsp;(11)</option> <option value="http://blogs.rsc.org/ay/2013/02/"> February 2013 &nbsp;(8)</option> <option value="http://blogs.rsc.org/ay/2013/01/"> January 2013 &nbsp;(7)</option> <option value="http://blogs.rsc.org/ay/2012/12/"> December 2012 &nbsp;(10)</option> <option value="http://blogs.rsc.org/ay/2012/11/"> November 2012 &nbsp;(7)</option> <option value="http://blogs.rsc.org/ay/2012/10/"> October 2012 &nbsp;(11)</option> <option value="http://blogs.rsc.org/ay/2012/09/"> September 2012 &nbsp;(6)</option> <option value="http://blogs.rsc.org/ay/2012/08/"> August 2012 &nbsp;(14)</option> <option value="http://blogs.rsc.org/ay/2012/07/"> July 2012 &nbsp;(8)</option> <option value="http://blogs.rsc.org/ay/2012/06/"> June 2012 &nbsp;(8)</option> <option value="http://blogs.rsc.org/ay/2012/05/"> May 2012 &nbsp;(10)</option> <option value="http://blogs.rsc.org/ay/2012/04/"> April 2012 &nbsp;(11)</option> <option value="http://blogs.rsc.org/ay/2012/03/"> March 2012 &nbsp;(7)</option> <option value="http://blogs.rsc.org/ay/2012/02/"> February 2012 &nbsp;(7)</option> <option value="http://blogs.rsc.org/ay/2012/01/"> January 2012 &nbsp;(6)</option> <option value="http://blogs.rsc.org/ay/2011/12/"> December 2011 &nbsp;(2)</option> <option value="http://blogs.rsc.org/ay/2011/11/"> November 2011 &nbsp;(2)</option> <option value="http://blogs.rsc.org/ay/2011/10/"> October 2011 &nbsp;(6)</option> <option value="http://blogs.rsc.org/ay/2011/09/"> September 2011 &nbsp;(6)</option> <option value="http://blogs.rsc.org/ay/2011/08/"> August 2011 &nbsp;(2)</option> <option value="http://blogs.rsc.org/ay/2011/07/"> July 2011 &nbsp;(2)</option> <option value="http://blogs.rsc.org/ay/2011/06/"> June 2011 &nbsp;(3)</option> <option value="http://blogs.rsc.org/ay/2011/05/"> May 2011 &nbsp;(6)</option> <option value="http://blogs.rsc.org/ay/2011/04/"> April 2011 &nbsp;(3)</option> <option value="http://blogs.rsc.org/ay/2011/03/"> March 2011 &nbsp;(7)</option> <option value="http://blogs.rsc.org/ay/2011/02/"> February 2011 &nbsp;(4)</option> <option value="http://blogs.rsc.org/ay/2011/01/"> January 2011 &nbsp;(6)</option> <option value="http://blogs.rsc.org/ay/2010/12/"> December 2010 &nbsp;(4)</option> <option value="http://blogs.rsc.org/ay/2010/11/"> November 2010 &nbsp;(2)</option> <option value="http://blogs.rsc.org/ay/2010/10/"> October 2010 &nbsp;(2)</option> <option value="http://blogs.rsc.org/ay/2010/09/"> September 2010 &nbsp;(5)</option> <option value="http://blogs.rsc.org/ay/2010/08/"> August 2010 &nbsp;(5)</option> <option value="http://blogs.rsc.org/ay/2010/07/"> July 2010 &nbsp;(5)</option> </select> 
+       <!-- Warren Added DD Archives END --> </li> 
+     </ul> 
+     <ul> 
+      <li><h2>Meta</h2> 
+       <ul> 
+        <li><a href="http://blogs.rsc.org/ay/wp-login.php">Log in</a></li> 
+        <!--li><a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional">Valid <abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a></li--> 
+        <li><a href="http://blogs.rsc.org/" title="RSC Blogs">RSC Blogs</a></li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </div> 
+   <!-- IP end content wrapper --> 
+   <div style="clear: both;">
+    &nbsp;
+   </div> 
+   <div id="rsc-global-footer" class="pagewidth"> 
+    <div id="rsc-global-footer-inner"> 
+     <ul id="rsc-global-footer-link-container"> 
+      <li><a href="http://www.rsc.org/aboutus/">About us</a></li> 
+      <li><a href="http://www.rsc.org/help/termsconditions.asp">Terms of use</a></li> 
+      <li><a href="http://www.rsc.org/help/">Help</a></li> 
+      <li><a href="http://www.rsc.org/AboutUs/rscwork/index.asp">Working for us</a></li> 
+      <li><a href="http://www.rsc.org/help/privacy.asp">Privacy &amp; cookies</a></li> 
+      <li><a href="http://www.rsc.org/AboutUs/Contacts/index.asp">Contact</a></li> 
+      <li><a href="http://www.rsc.org/AboutUs/News/PressReleases/index.asp">Press office</a></li> 
+      <li><a href="http://www.rsc.org/help/accessibility.asp">Accessibility</a></li> 
+      <li><a href="http://www.rsc.org/help/sitemap.asp">Sitemap</a></li> 
+     </ul> 
+     <span class="copyright">© Royal Society of Chemistry 2015<br>Registered charity number: 207890</span> 
+    </div> 
+   </div> 
+   <!--
+<div class="footer_s4">
+    <div class="footer_lft_s4"></div>
+    <div class="footer_copyright_text">
+        &copy; Royal Society of Chemistry 2015</div>
+    <div class="footer_right_s4"></div>        
+    <div class="footer_text_s4">
+        <a title="Terms &amp; Conditions" tabindex="130" href="http://www.rsc.org/help/termsconditions.asp">Terms &amp; Conditions</a><span class="footer_seperator_s4">|</span><a title="Privacy" tabindex="131" href="http://www.rsc.org/help/privacy.asp">Privacy</a> <span class="footer_seperator_s4">|</span><a title="Accessibility" tabindex="132" href="http://www.rsc.org/help/accessibility.asp">Accessibility</a><span class="footer_seperator_s4">|</span><a title="ACAP Enabled" tabindex="133" href="http://www.rsc.org/help/acap.asp">ACAP Enabled</a>
+    </div>        
+</div>
+--> 
+   <!-- Google Analytics code --> 
+   <script type="text/javascript"> 
+ 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-20361743-1']);
+_gaq.push(['_setDomainName', '.rsc.org']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_trackPageview']);
+ 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script> 
+   <script type="text/javascript">
+  var _kiq = [];
+  (function(url){
+    setTimeout(function(){
+      var s = document.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = url;
+      document.body.appendChild(s);
+    }, 1);
+  })('//s3.amazonaws.com/ki.js/17638/3o7.js');
+</script>   
+  </div>
+ </body>
+</html>

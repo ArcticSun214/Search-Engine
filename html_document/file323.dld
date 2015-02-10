@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <title>UCR BearLogic | Campus Computers | Apple Store</title> 
+  <meta name="description" content="UC Riverside's BearLogic offers affordable Apple® products, laptops, iPads and earbuds. Take advantage of student discounts and get help with computer repairs."> 
+  <meta name="keywords" content="BearLogic offers affordable Apple® products, laptops, iPads, earbuds, student discounts, computer repairs, on campus, Apple Store "> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
+  <link rel="stylesheet" href="css/style_techandall.css"> 
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet"> 
+  <link rel="stylesheet" href="gridiculous.css"> 
+  <link href="http://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css"> 
+  <link rel="stylesheet" type="text/css" href="css/style.css"> 
+  <script src="js/modernizr.custom.63321.js"></script> 
+  <script>
+                        var center = map.getCenter(); google.maps.event.trigger(map, 'resize'); map.setCenter(center);
+                      </script> 
+  <style>
+						  
+						  
+
+						  
+a.navbutton {
+   background: transparent;
+   line-height: 18px;
+   vertical-align: text-middle;
+   text-align: center;
+   color: #ffffff;
+   font-size: 18px;
+   border: 1px solid #fff;
+	padding: 10px;
+	float:right;
+	margin-left:20px;	
+	font-weight: normal;
+}
+						  
+						  
+						  
+a:hover.navbutton {
+   background: #557a44;
+}
+
+
+						  
+						  
+                        .google-maps {
+                        position: relative;
+                        padding-bottom: 35%; // This is the aspect ratio
+                        height: 0;
+                        overflow: hidden;
+                        }
+                        .google-maps iframe {
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        width: 100% !important;
+                        height: 100% !important;
+                        }
+
+                        label {
+                        cursor: pointer;
+                        }
+                        #menu-toggle {
+                        display: none; /* hide the checkbox */
+                        }
+                        #menu {
+                        display: none;
+                        }
+                        #menu-toggle:checked + #menu {
+                        display: block;
+                        }
+
+                      </style> 
+  <style>
+
+                        /* unvisited link */
+                        a:link {
+                        color: #9f9b8f;
+                        }
+
+                        /* visited link */
+                        a:visited {
+                        color: #9f9b8f;
+                        }
+
+                        /* mouse over link */
+                        a:hover {
+                        color: #87bb6d;
+                        }
+
+                        /* selected link */
+                        a:active {
+                        color: #9f9b8f;
+                        }
+
+
+                        .close
+                        {
+                        transform: rotate(45deg);
+                        -ms-transform: rotate(45deg); /* IE 9 */
+                        -webkit-transform: rotate(45deg); /* Safari and Chrome */
+                        -o-transform: rotate(45deg); /* Opera */
+                        -moz-transform: rotate(45deg); /* Firefox */
+                        cursor: pointer;
+                        }
+
+
+
+                        .plus
+                        {
+                        cursor: pointer;
+                        }
+
+
+                        .plus:hover
+                        {
+                        cursor: pointer;
+                        }
+
+
+                        .plus:active
+                        {
+                        transform: rotate(45deg);
+                        -ms-transform: rotate(45deg); /* IE 9 */
+                        -webkit-transform: rotate(45deg); /* Safari and Chrome */
+                        -o-transform: rotate(45deg); /* Opera */
+                        -moz-transform: rotate(45deg); /* Firefox */
+                        cursor: pointer;
+                        }
+
+                        .breadcrumb {
+                        list-style: none;
+                        overflow: hidden;
+                        font: 12px Helvetica, Arial, Sans-Serif;
+                        }
+                        .breadcrumb li {
+                        float: left;
+                        }
+                        .breadcrumb li a {
+                        color: white;
+                        text-decoration: none;
+                        padding: 5px 0 5px 42px;
+                        background: green;                   /* fallback color */
+                        background: #557a44;
+                        position: relative;
+                        display: block;
+                        float: left;
+                        }
+                        .breadcrumb li a:after {
+                        content: " ";
+                        display: block;
+                        width: 0;
+                        height: 0;
+                        border-top: 50px solid transparent;           /* Go big on the size, and let overflow hide */
+                        border-bottom: 50px solid transparent;
+                        border-left: 30px solid #557a44;
+                        position: absolute;
+                        top: 50%;
+                        margin-top: -50px;
+                        left: 100%;
+                        z-index: 2;
+                        }
+                        .breadcrumb li a:before {
+                        content: " ";
+                        display: block;
+                        width: 0;
+                        height: 0;
+                        border-top: 50px solid transparent;           /* Go big on the size, and let overflow hide */
+                        border-bottom: 50px solid transparent;
+                        border-left: 30px solid white;
+                        position: absolute;
+                        top: 50%;
+                        margin-top: -50px;
+                        margin-left: 1px;
+                        left: 100%;
+                        z-index: 1;
+                        }
+                        .breadcrumb li:first-child a {
+                        padding-left: 10px;
+                        }
+                        .breadcrumb li:nth-child(2) a       { background:        #557a44; }
+                        .breadcrumb li:nth-child(2) a:after { border-left-color: #557a44; }
+                        .breadcrumb li:nth-child(3) a       { background:        #557a44; }
+                        .breadcrumb li:nth-child(3) a:after { border-left-color: #557a44; }
+                        .breadcrumb li:nth-child(4) a       { background:        #557a44; }
+                        .breadcrumb li:nth-child(4) a:after { border-left-color: #557a44; }
+                        .breadcrumb li:nth-child(5) a       { background:        #557a44; }
+                        .breadcrumb li:nth-child(5) a:after { border-left-color: #557a44; }
+                        .breadcrumb li:last-child a {
+                        background: white !important;
+                        color: #557a44;
+                        pointer-events: none;
+                        cursor: default;
+                        }
+                        .breadcrumb li:last-child a:after { border: 0; }
+                        .breadcrumb li a:hover { background: #6f985c; }
+                        .breadcrumb li a:hover:after { border-left-color: #6f985c !important; }
+
+                        div.shop-for-apple{
+                        padding: 0 20px 0 20px;
+                        margin:0 20px 0 20px;
+                        color: #557a44;
+                        }
+
+                        div.slideContent2{
+                          margin-top:20px !important; /* override gridiculous margin of 251.*/
+                        }
+
+                      </style> 
+  <style>
+                        #days-title, #hours-title, #mins-title, #secs-title { display:block; color: #000000; text-transform: uppercase; margin-top: -94px; font-size: 30px; position: relative; z-index:9 !important;
+
+
+                      </style> 
+ </head> 
+ <body> 
+  <div class="grid"> 
+   <header class="row"> 
+    <ul class="breadcrumb" style="float:left; margin-top:34px;"> 
+     <li> <a href="http://ucr.edu" target="_blank">UCR Home</a> </li> 
+     <li> <a href="#">BearLogic</a> </li> 
+     <li> <a href="#">Home</a> </li> 
+    </ul> 
+    <img class="logoucr" src="images/ucrlogo.png" alt=""> 
+    <div class="c12" style="background: url('images/bearlogichome-1450.jpg'); padding-bottom: 100px;"> 
+     <h1> <a class="navbutton" href="recommend.html" style="margin-bottom:20px;"><span style="color:#fff;">Recommendations</span></a> <a class="navbutton" href="index.html" style="margin-bottom:20px;"><span style="color:#fff;">Home</span></a> <img class="logoapple" src="images/apple-authorized.png" alt=""> <br> <br> <img class="logobear" src="images/bearlogo-white.png" alt=""> </h1> 
+     <div class="c8 ic"> 
+      <br> 
+      <!-- ouc:div label="pagenews" group="Everyone" button="873" -->
+      <span style="font-family: 'Oswald', sans-serif; font-size: 46px;">Products You Know, People You Trust</span> 
+      <br> Apple
+      <small>®</small> products, laptops, earbuds – available on UC Riverside's campus. We have what you need, closer than anyone else. Take advantage of student discounts on Mac
+      <small>®</small> computers, laptops, AppleCare
+      <small>®</small> and more. We facilitate repairs and offer the same quality products you would find online or in an Apple Store
+      <small>®</small>. 
+      <span style="color: #a1d686;">Now open!</span>
+      <!-- /ouc:div --> 
+      <br>
+      <br> 
+     </div> 
+     <label for="menu-toggle"> 
+      <div class="c4 break end"> 
+       <br> 
+       <img src="images/reasons.png" style="width:220px; margin-left: auto; margin-right: auto; padding-top:10px; padding-bottom:10px;"> 
+       <br> 
+      </div> </label> 
+    </div> 
+   </header> 
+   <div style="border-top-style: solid; border-color: #fff; border-width: 1px; margin-top: -20px;"> 
+    <div class="row events"> 
+     <div class="c8"> 
+      <label for="menu-toggle"> <img class="plus" style="float:left; height:18px; margin-top:6px;" src="images/plus.png"> &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:20px; padding-left:13px;">See why buying at BearLogic benefits you. </span> </label> 
+      <input type="checkbox" id="menu-toggle"> 
+      <ul id="menu" style=""> 
+       <hr style="margin-top:20px; margin-bottom:20px; width:1448px; margin-left:-20px;"> 
+       <span style="font-family: 'Oswald', sans-serif; font-size: 48px; float:left; line-height:100%; padding-right:20px;">1.</span> 
+       <span style="line-height:120%; font-size:20px;">Student Savings</span> 
+       <br> Student discounts on Mac computers, laptops, software and AppleCare. 
+       <br> 
+       <br> 
+       <span style="font-family: 'Oswald', sans-serif; font-size: 48px; float:left; line-height:100%; padding-right:10px;">2.</span> 
+       <span style="line-height:120%; font-size:20px;">Convenience</span> 
+       <br> Sometimes you need it now. Power cords, earbuds and batteries – quickly and conveniently. 
+       <br> 
+       <br> 
+       <span style="font-family: 'Oswald', sans-serif; font-size: 48px; float:left; line-height:100%; padding-right:10px;">3.</span> 
+       <span style="line-height:120%; font-size:20px;">Solid Advice</span> 
+       <br> Expert technical advice from our friendly staff. We also help with repairs. 
+       <br> 
+       <br> 
+       <span style="font-family: 'Oswald', sans-serif; font-size: 48px; float:left; line-height:100%; padding-right:10px;">4.</span> 
+       <span style="line-height:120%; font-size:20px;">In-Store Demos</span> 
+       <br> See it, touch it and take it for a test spin before you buy. 
+       <br> 
+       <br> 
+       <span style="font-family: 'Oswald', sans-serif; font-size: 48px; float:left; line-height:100%; padding-right:10px;">5.</span> 
+       <span style="line-height:120%; font-size:20px;">Highlander Pride</span> 
+       <br>When you buy from BearLogic, a percentage of each sale benefits UC Riverside (and you). 
+      </ul> 
+     </div> 
+     <div class="c4 end"> 
+      <div id="social2" style="float:right;"> 
+       <ul class="social-links clearfix"> 
+        <li class="facebook"> <a href="https://www.facebook.com/UCRBearLogic" title="Facebook" target="_blank"> <i class="icon-facebook"></i> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="row" style="border-style: solid; border-color: #557a44; border-width: 1px; margin-top: 20px; padding-top:20px;"> 
+     <div class="main"> 
+      <center> 
+       <span style="color: #557a44; font-size:20px; padding-left:20px; padding-right:20px;">Available In-Store at BearLogic</span> 
+      </center> 
+      <div id="mi-slider" class="mi-slider"> 
+       <!-- ouc:div label="imageSlider" group="Everyone" button="873" -->
+       <ul> 
+        <li><img src="images/Gumy.jpg" alt="Gumy Earbuds" width="432" height="432"> <h4 style="color: #000;">JVC Gummy Earbuds</h4> </li> 
+        <li><img src="images/Mixr.jpg" alt="Beats Mixr Headphones" width="432" height="432"> <h4 style="color: #000;">Beats Mixr™ Headphones</h4> </li> 
+        <li><img src="images/SoloHD.jpg" alt="Beats Solo HD Headphones" width="432" height="432"> <h4 style="color: #000;">Beats Solo HD Headphones</h4> </li> 
+        <li><img src="images/Solo2.jpg" alt="Beats Solo2 Headphones" width="432" height="432"> <h4>Beats Solo² Headphones</h4> </li> 
+       </ul> 
+       <ul> 
+        <li><img title="iPad Yosemite" src="images/iPadMini2_Group_hero_W_B_WiFi_US-EN_SCREEN.jpg?ox=" alt="Apple iPad Mini" width="1024" height="850"> <h4>iPad®</h4> </li> 
+        <li><img src="images/AppleMouse.jpg" alt="Apple Magic Mouse" width="432" height="432"> <h4>Accessories</h4> </li> 
+        <li><img title="MacBook Pro Yosemite" src="images/MacBookPro15_PF_Yosemite_US-EN_US-EN_wRESIZED.jpg" alt="MacBook Pro" width="1024" height="851"> <h4>MacBook®</h4> </li> 
+        <li><img title="iMac Yosemite" src="images/27iMac_PF_Yosemite_US-EN_w-SCREEN.jpg" alt="Apple iMac" width="1024" height="851"> <h4>iMac®</h4> </li> 
+       </ul> 
+       <ul> 
+        <li><img src="images/LogitechMouse.jpg" alt="Logitech Mouse" width="432" height="432"> <h4>Logitech Mice</h4> </li> 
+        <li><img src="images/Printer.jpg" alt="HP Printers" width="432" height="432"> <h4>HP Printers</h4> </li> 
+        <li><img src="images/ExternalHD.jpg" alt="External Hard Drive" width="432" height="432"> <h4>External Hard Drives</h4> </li> 
+        <li><img src="images/2.jpg" alt="Moshi Screen Protectors" width="280" height="280"> <h4>Moshi Screen Protectors</h4> </li> 
+       </ul> 
+       <ul> 
+        <li><img src="images/PlugBug.jpg" alt="PlugBug" width="432" height="432"> <h4>PlugBug</h4> </li> 
+        <li><img src="images/SlipSuit.jpg" alt="SlipSuit Neoprene Laptop Slip Case" width="432" height="432"> <h4>Cases and Bags</h4> </li> 
+        <li><img src="images/BookBook.jpg" alt="BookBook Case" width="432" height="432"> <h4>Twelve South Products</h4> </li> 
+        <li><img src="images/GoPro.jpg" alt="GoPro Hero 4 Black" width="432" height="432"> <h4>GoPro (Coming Soon)</h4> </li> 
+       </ul> 
+       <nav>
+        <a href="#">Headphones</a> 
+        <a href="#">Apple®</a>&nbsp;
+        <a href="#">Essentials</a>&nbsp;
+        <a href="#">Accessories</a>
+       </nav>
+       <!-- /ouc:div --> 
+      </div> 
+      <br> 
+      <br> 
+      <div class="shop-for-apple"> 
+       <!-- ouc:div label="ShopForApple" group="Everyone" button="873" -->
+       <p style="text-align: left;">Shop for Apple products at UC Riverside's <a href="http://store.apple.com/us_edu_46319" target="_blank">online store</a>. <br>Staff and faculty may access our recharge form <a title="Recharge 28Oct2014" href="BearLogic%20Recharge%20Authorization.pdf" target="_parent">here</a>.<br>See Apple products featuring <a title="Apple Education Pricing 13Nov2014" href="docs/Current%20Prices%2013Nov2014.pdf" target="_parent">education pricing</a>.</p>
+       <!-- /ouc:div --> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="row" style="margin-top: 20px;"> 
+    <div class="c8 gr"> 
+     <div class="row" style="margin-bottom:0px; margin-right:0px; margin-left:0px; margin-top:20px;"> 
+      <div class="c4"> 
+       <!-- ouc:div label="getAnswers" group="Everyone" button="873" --> 
+       <img src="images/badge-answers.png" style="height:85px"> 
+       <br> 
+       <center> 
+        <b>Get Answers</b>
+        <br>Get technical support from experts on campus or through 
+        <a href="http://store.apple.com/us_edu_46319/search/applecare#!" target="_blank">AppleCare</a>. 
+       </center> 
+       <!-- /ouc:div --> 
+      </div> 
+      <div class="c4"> 
+       <!-- ouc:div label="getDiscounts" group="Everyone" button="873" --> 
+       <img src="images/badge-discounts.png" style="height:85px"> 
+       <br> 
+       <center> 
+        <b>Get Discounts</b>
+        <br>Take advantage of 
+        <a href="http://store.apple.com/us_edu_46319" target="_blank">student discounts</a> on Mac computers, laptops, and more. 
+       </center> 
+       <!-- /ouc:div --> 
+      </div> 
+      <div class="c4 end"> 
+       <!-- ouc:div label="getRepairs" group="Everyone" button="873" --> 
+       <img src="images/badge-repairs.png" style="height:85px"> 
+       <br> 
+       <center> 
+        <b>Get Repairs</b>
+        <br>From cracked screens to computer crashes – 
+        <a href="http://www.laptoprepair.com/ucr" target="_blank">we help you</a> get back on track. 
+       </center> 
+       <!-- /ouc:div --> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="c4 gr end"> 
+     <div class="slideToggler2"> 
+      <span class="expandSlider" style="cursor:pointer;"> <br> <br> <h1> 
+        <center>
+         Find us on UCR's campus.
+        </center> </h1> <br> <br> </span> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="slideContent2"> 
+    <div class="row" style="background: #557a44; color: #fff; padding:20px;"> 
+     <span style="margin-left:20px;">We are located near the UCR Campus Store.</span> 
+     <span class="collaps2" style="float:right; margin-right:20px;"> <b> <img class="close" src="http://vcsa-omniupdate.cloudapp.net/vcsa-bearlogic/images/plus.png"> </b> </span> 
+     <br> 
+     <br> 
+     <div class="c8"> 
+      <a href="https://www.google.com/maps/dir//33.9751933,-117.3278251/@33.975194,-117.32789,18z/data=!4m4!4m3!1m0!1m0!3e0" target="_blank"> <img src="images/tempmap.jpg" width="100%"> </a> 
+     </div> 
+     <div class="c4"> 
+      <h1>Hours</h1> 
+      <!-- ouc:div label="hours" group="Everyone" button="873" --> 
+      <b>Monday - Friday</b> 
+      <br> 10:00am - 6:00pm
+      <br> 
+      <br> 
+      <b>Saturday - Sunday</b> 
+      <br> Closed 
+      <!-- /ouc:div --> 
+     </div> 
+    </div> 
+   </div> 
+   <footer class="row" style="padding-top: 100px; padding-bottom: 20px; border-style: solid; border-color: #557a44; border-width: 0px; color: #557a44;"> 
+    <div class="c3" style="border-left: 1px solid #557a44;"> 
+     <!-- ouc:div label="connected" group="Everyone" button="873" --> 
+     <strong>Get Connected</strong> 
+     <br> 
+     <a href="https://www.facebook.com/UCRBearLogic" target="_blank">Like us on Facebook</a> 
+     <br> 
+     <br> 
+     <font size="2">Apple, the Apple logo, Apple Store, iPad and Mac are trademarks, and AppleCare is a service mark, of Apple Inc., registered in the U.S. and other countries.</font> 
+     <!-- /ouc:div --> 
+    </div> 
+    <!-- ouc:div label="footer" group="Everyone" button="873" --> 
+    <div class="c3" style="border-left: 1px solid #557a44;"> 
+     <strong>Location</strong> 
+     <br> 900 University Ave. 
+     <br> Riverside, CA 92521 
+     <br> 
+     <br> 
+     <a href="http://campusmap.ucr.edu/imap/index.html?loc=BOOKS" target="_blank"> Interactive Campus Map <br> </a> 
+     <a href="http://parking.ucr.edu/" target="_blank">Parking Information</a> 
+    </div> 
+    <div class="c3" style="border-left: 1px solid #557a44;"> 
+     <strong>Store Hours</strong> 
+     <br> Monday - Friday:&nbsp;&nbsp;&nbsp;&nbsp;10:00am - 6:00pm 
+     <br>
+     <br> 
+     <strong>Contact</strong> 
+     <br> (951) 827-4426
+     <br> 
+     <a href="mailto:bearlogic@ucr.edu">bearlogic@ucr.edu</a> 
+    </div> 
+    <div class="c3 end" style="border-left: 1px solid #557a44;"> 
+     <strong>Related Links</strong> 
+     <br> 
+     <a href="http://ucr.edu" target="_blank">University of California, Riverside</a> 
+     <br> 
+     <a href="http://ucrcampusstore.ucr.edu" target="_blank">UCR Campus Store</a> 
+     <br> 
+     <a href="http://www.ucrcampusstore.ucr.edu/SiteText.aspx?id=16686" target="_blank">UCR Apparel &amp; Gifts</a> 
+     <br> 
+     <a href="http://www.ucrcampusstore.ucr.edu/classifieds/postlist.aspx" target="_blank">Buy, Sell &amp; Trade R'Books</a> 
+     <br> 
+     <a href="http://www.ucrcampusstore.ucr.edu/SiteText.aspx?id=5806" target="_blank">Order, Rent &amp; Buyback Textbooks</a> 
+    </div> 
+    <!-- /ouc:div --> 
+   </footer> 
+  </div> 
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> 
+  <script type="text/javascript" src="js/jquery.catslider.js"></script> 
+  <script type="text/javascript">
+      // <![CDATA[
+$(function() {
+
+				$( '#mi-slider' ).catslider();
+
+			});
+// ]]>
+    </script> 
+  <!-- Javascript framework and plugins start here --> 
+  <script type="text/javascript">
+      // <![CDATA[
+$(window).load(function() {
+      $('#status').fadeOut();
+      $('#preloader').delay(350).fadeOut('slow');
+      $('body').delay(350).css({'overflow':'visible'});
+    })
+// ]]>
+    </script> 
+  <script type="text/javascript">
+      $(document).ready(function(){
+      $('.slideToggler2').click(function(){
+      $('.slideContent2').slideToggle('slow');
+      $(this).toggleClass('slideSign2');
+      return false;
+      });
+      $('.collaps2').click(function(){
+      $('.slideContent2').slideToggle('slow');
+      $('.slideToggler2').toggleClass('slideSign2');
+      return false;
+      });
+      });
+    </script> 
+  <script type="text/javascript" src="js/jquery.knob.js"></script> 
+  <script type="text/javascript" src="js/jquery.ccountdown.js"></script> 
+  <script type="text/javascript" src="js/init.js"></script> 
+  <script type="text/javascript" src="js/general.js"></script> 
+  <!-- Javascript framework and plugins end here --> 
+  <!-- ouc:button -->
+  <a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01287&amp;site=vcsa-bearlogic&amp;path=%2Findex.html" target="_top">Last Modified: 11/19/14</a>
+  <!-- /ouc:button -->  
+ </body>
+</html>

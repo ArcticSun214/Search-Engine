@@ -1,0 +1,376 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Bourns College of Engineering: The Faculty</title> 
+  <meta http-equiv="last-modified" content="2014-11-20"> 
+  <meta name="version" content="2.62 2.123 "> 
+  <!-- 02/09/15 20:41:40 02/09/15 20:41:40 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to BCOE news via RSS" href="http://www.engr.ucr.edu/rss/news.xml"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.engr.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/masthead_overlay.png" alt=""> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="http://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+     </form> 
+     <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="masthead"> 
+   <h1><a href="http://www.engr.ucr.edu/"><span class="printonly">Bourns College of Engineering</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">Social Media Links:</p> 
+   <ul class="l_breadcrumb_links"> 
+    <li><a id="footer_link_flickr" href="http://www.flickr.com/photos/bournscollege/" title="Visit BCOE’s Flickr gallery (external site: Flickr)"><span class="accessibility">Visit BCOE’s Flickr gallery</span></a></li> 
+    <li><a id="footer_link_facebook" href="http://www.facebook.com/pages/Riverside-CA/Bourns-College-of-Engineering/118503574842498" title="Visit BCOE’s Facebook page (external site: Facebook)"><span class="accessibility">Visit BCOE’s Facebook page</span></a></li> 
+    <li><a id="footer_link_twitter" href="http://twitter.com/bournscollege" title="Follow BCOE on Twitter (external site: Twitter)"><span class="accessibility">Follow BCOE on Twitter</span></a></li> 
+    <li><a id="footer_link_youtube" href="http://www.youtube.com/BournsCollege" title="Visit BCOE’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit BCOE’s YouTube channel</span></a></li> 
+    <li><a id="footer_link_linkedin" href="http://www.linkedin.com/groups?gid=3185912" title="Join the Linkedin alumni group (external site: Linkedin)"><span class="accessibility">Join the Linkedin alumni group</span></a></li> 
+    <li><a id="footer_link_rss" href="http://www.engr.ucr.edu/rss/news.xml" title="Subscribe to BCOE news via RSS"><span class="accessibility">Subscribe to BCOE news via RSS</span></a></li> 
+   </ul> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li> 
+    <li class="lastitem">The Faculty</li> 
+   </ul> 
+  </div> 
+  <div class="l_contentwrapper">
+   <div class="pagewrapper"> 
+    <hr> 
+    <!-- Start Content (Navigation and Content columns) --> 
+    <div id="content"> 
+     <h2>The Faculty</h2> 
+     <!-- Start Sidebar --> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li><a href="/" title="BCOE Home">BCOE Home<br><span>Bourns College of Engineering</span></a></li>
+        <li><a href="/about/" title="The Bourns Difference">The Bourns Difference</a></li>
+        <li><a href="/academics/" title="Academic Programs">Academic Programs</a></li>
+        <li><a href="/research/" title="Research">Research</a></li>
+        <li><a href="/employment.html" title="Employment">Employment</a></li>
+        <li class="currentpage"><h3><dfn>Current page is: </dfn>The Faculty</h3>
+         <ul>
+          <li><a href="/faculty/alphafac.html" title="Alphabetical Listing">Alphabetical Listing</a></li>
+          <li><a href="/facultysearch/index.html" title="Ladder-Rank Faculty Search">Ladder-Rank Faculty Search</a></li>
+         </ul></li>
+        <li><a href="/undergrads/" title="Prospective Undergraduate Students">Prospective Undergraduate Students</a></li>
+        <li><a href="http://student.engr.ucr.edu/" title="Current Undergraduate Students">Current Undergraduate Students</a></li>
+        <li><a href="/grad/" title="Graduate Programs">Graduate Programs</a></li>
+        <li><a href="/alumni/" title="Bourns Alumni">Bourns Alumni</a></li>
+        <li><a href="/giving/" title="Giving">Giving</a></li>
+        <li><a href="/industry/" title="Corporate Partners Program">Corporate Partners Program</a></li>
+        <li><a href="/news/" title="News">News</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <hr> 
+     <!-- End Sidebar --> 
+     <!-- Start Content Area --> 
+     <div id="main"> 
+      <h3>Bourns Faculty</h3> 
+      <p>Our faculty are the college's greatest asset. Chosen for their dedication to research, teaching and student success, they bring to the college more than $400,000 in research funding per person. In 2010-11, BCOE received more than $34 million in research support.</p> 
+      <p>Our faculty hold 65 fellows distinctions in professional associations in their fields, and 25 of them were&nbsp;awarded NSF CAREER and young investigator&nbsp;awards. Two are members of the National Academy of Engineering. Their&nbsp;success in&nbsp;solving important problems are a testiment to their dedication to engineering as the discipline that truly "invents the future."</p> 
+      <p style="padding-left: 150px;"><a href="#bio">Faculty listing by department</a> &nbsp;| <a href="/faculty/alphafac.html">Alphabetical faculty listing</a></p> 
+      <h3><a name="bio"> </a> The Faculty</h3> 
+      <h4 class="section2">&nbsp;<img title="Bioengineering" src="/images/bienlink.jpg" alt="Bioengineering" width="150" height="45"><br><br></h4> 
+      <p><a href="/faculty/bio/anvari.html"><strong>Bahman Anvari</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/bio/bhanu.html"><strong>Bir Bhanu</strong></a>, <em>Distinguished Professor and Interim Chair</em></p> 
+      <p><a href="/faculty/bio/kghosh.html"><strong>Kaustabh Ghosh</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/bio/wgrover.html"><strong>William Grover</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/bio/liao.html"><strong>Jiayu Liao</strong></a>, <em>Associate Professor</em></p> 
+      <p><a href="/faculty/bio/liu.html"><strong>Huinan Liu</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/bio/lyubovitsky.html"><strong>Julia Lyubovitsky</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/bio/dmorikis.html"><strong>Dimitrios Morikis</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/bio/jnam.html"><strong>Jin Nam</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/bio/rodgers.html"><strong>Victor Rodgers</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/bio/park.html"><strong>Hyle Park</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/bio/jssbio.html"><strong>Jerome Schultz</strong></a>, <em>Distinguished Professor</em></p> 
+      <p><a href="/faculty/bio/vullev.html"><strong>Valentine Vullev</strong></a>, <em>Associate Professor</em></p> 
+      <a name="cee"> </a> 
+      <h4 class="section2"><img title="Chemical and Environmental Engineering" src="/images/ceelink2.jpg" alt="Chemical and Environmental Engineering" width="150" height="45"><br><br></h4> 
+      <p><a href="/faculty/chemenv/akua.html"><strong>Akua Asa-Awuku</strong></a>, <em>Assistant Professor</em></p> 
+      <p><strong><a href="/faculty/chemenv/harveywarrenblanch.html">Harvey Warren Blanch</a>, </strong><em>Professor</em></p> 
+      <p><strong><a href="/faculty/chemenv/davidcocker.html">David Cocker</a></strong>, <em>Professor</em></p> 
+      <p><a href="/faculty/chemenv/christopher.html"><strong>Phillip Christopher</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/chemenv/xge.html"><strong>Xin Ge</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/chemenv/jguo.html"><strong>Juchen Guo</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/chemenv/haddon.html"><strong>Robert Haddon</strong></a>, <em>Distinguished Professor</em></p> 
+      <p><a href="/faculty/chemenv/djassby.html"><strong>David Jassby</strong></a><em>, Assistant Professor</em></p> 
+      <p><a href="/faculty/chemenv/kisailus.html"><strong>David Kisailus</strong></a>, <em>Associate Professor</em></p> 
+      <p><a href="/faculty/chemenv/haizhou.html"><strong>Haizhou Liu</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/chemenv/markmatsumoto.html"><strong>Mark Matsumoto</strong></a>, <em>Professor and Associate Dean&nbsp;of&nbsp;Research and Graduate Education</em></p> 
+      <p><a href="/faculty/chemenv/ashokmulchandani.html"><strong>Ashok Mulchandani</strong></a>, <em>Professor</em></p> 
+      <p><a style="font-size: 1em; line-height: 1.5em;" href="/faculty/chemenv/myung.html"><strong>Nosang Myung</strong></a>, <em style="font-size: 1em; line-height: 1.5em;">Professor and Department Chair</em></p> 
+      <p><a href="/faculty/chemenv/josephnorbeck.html"><strong>Joseph Norbeck</strong></a><em style="font-size: 1em; line-height: 1.5em;">, Professor Emeritus</em></p> 
+      <p><a href="/faculty/chemenv/swalker.html"><strong>Sharon Walker</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/chemenv/iwheeldon.html"><strong>Ian Wheeldon</strong></a>, <em>Assistant Professor</em></p> 
+      <p><strong><a href="/faculty/chemenv/bryanmwong.html">Bryan M. Wong</a>, </strong><em>Assistant Professor</em></p> 
+      <p><a href="/faculty/chemenv/jianzhongwu.html"><strong>Jianzhong Wu</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/chemenv/wyman.html"><strong>Charles Wyman</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/chemenv/ruoxue.html"><strong>Ruoxue Yan</strong></a>, <em>Assistant Professor </em></p> 
+      <a name="cs"> </a> 
+      <h4 class="section2"><img title="Computer Science and Engineering" src="/images/cselink2.jpg" alt="Computer Science and Engineering" width="150" height="45"><br><br></h4> 
+      <strong><a href="/faculty/ee/abughazaleh.html">Nael Abu-Ghazaleh</a></strong>, Professor 
+      <p><a href="/faculty/cs/bhuyan.html"><strong>Laxmi Bhuyan</strong></a>, <em>Distinguished Professor&nbsp;</em></p> 
+      <p><a href="/faculty/cs/brisk.html"><strong>Philip Brisk</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/cs/bhuyan-1.html"><strong>Zizhong (Jeffrey) Chen</strong></a>,<em> Assistant Professor</em></p> 
+      <p><a href="/faculty/cs/marekchrobak.html"><strong>Marek Chrobak</strong></a>, <em>Professor&nbsp;and Department Chair</em></p> 
+      <p><a style="font-size: 1em; line-height: 1.5em;" href="/faculty/cs/gupta.html"><strong>Rajiv Gupta</strong></a>, <em style="font-size: 1em; line-height: 1.5em;">Professor</em></p> 
+      <p><a href="/faculty/cs/vhristidis.html"><strong>Vagelis Hristidis</strong></a>, <em>Associate Professor</em></p> 
+      <p><a href="/faculty/cs/tjiang.html"><strong>Tao Jiang</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/cs/eamonn.html"><strong>Eamonn Keogh</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/cs/krish.html"><strong>Srikanth Krishnamurthy</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/cs/stelo.html"><strong>Stefano Lonardi</strong></a>, <em>Professor</em></p> 
+      <p><a style="font-size: 1em; line-height: 1.5em;" href="/faculty/cs/martmolle.html"><strong>Mart Molle</strong></a>, <em style="font-size: 1em; line-height: 1.5em;">Professor</em></p> 
+      <p><a href="/faculty/cs/najjar.html"><strong>Walid Najjar</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/cs/neamtiu.html"><strong>Iulian Neamtiu</strong></a>, <em>Associate Professor</em></p> 
+      <p><a href="/faculty/cs/tompayne.html"><strong>Thomas Payne</strong></a>, <em>Associate Professor, Emeritus</em></p> 
+      <p><a href="http://or.ucr.edu/vcr.aspx"><strong>Michael Pazzani</strong></a><em>, Professor</em></p> 
+      <p><a href="/faculty/cs/teodor.html"><strong>Teodor Przymusinski</strong></a>, <em>Professor, Emeritus</em></p> 
+      <p><strong><a href="/faculty/cs/qian.html">Zhiyun Qian</a>, </strong><em>Assistant Professor</em></p> 
+      <p><strong><a href="/faculty/cs/ramakrishnan.html">K. K. Ramakrishnan</a>, </strong><em>Professor</em></p> 
+      <p><a href="/faculty/cs/ravishan.html"><strong>Chinya Ravishankar</strong></a>, <em>Professor and Associate Dean of Undergraduate Education</em></p> 
+      <p><a href="/faculty/cs/cshelton.html"><strong>Christian Shelton</strong></a>, <em>Associate Professor</em></p> 
+      <p><a href="/faculty/cs/shinar.html"><strong>Tamar Shinar</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/cs/tsotras.html"><strong>Vassilis Tsotras</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/cs/vahid.html"><strong>Frank Vahid</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/cs/nyoung.html"><strong>Neal Young</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/cs/vzordan.html"><strong>Victor Zordan</strong></a>, <em>Associate Professor</em></p> 
+      <a name="ee"> </a> 
+      <h4 class="section2"><img title="Electrical Engineering" src="/images/ECE%20button.jpg" alt="Electrical Engineering" width="150" height="45"><br><br></h4> 
+      <p><strong><a href="/faculty/ee/abughazaleh.html">Nael Abu-Ghazaleh</a></strong>, Professor</p> 
+      <p><a href="/faculty/ee/balandin.html"><strong>Alexander Balandin</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/barth.html"><strong>Matthew Barth</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/beni.html"><strong>Gerardo Beni</strong></a>, <em>Professor, Emeritus</em></p> 
+      <p><a href="/faculty/ee/bhanu.html"><strong>Bir Bhanu</strong></a>, <em>Distinguished Professor and Interim Chair, Department of Bioengineering</em></p> 
+      <p><a href="/faculty/ee/dumer.html"><strong>Ilya Dumer</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/farrell.html"><strong>Jay Farrell</strong></a>, <em>Professor and Department Chair</em></p> 
+      <p><a href="/faculty/ee/haberer.html"><strong>Elaine Haberer</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/ee/hackwood.html"><strong>Susan Hackwood</strong></a>, <em>Professor</em></p> 
+      <p><a style="font-size: 1em; line-height: 1.5em;" href="/faculty/ee/yingbohua.html"><strong>Yingbo Hua</strong></a>, <em style="font-size: 1em; line-height: 1.5em;">Professor</em></p> 
+      <p><a href="/faculty/ee/kassas.html"><strong>Zak M. Kassas</strong></a><em style="font-size: 1em; line-height: 1.5em;">, Assistant Professor</em></p> 
+      <p><a href="/faculty/ee/korotkov.html"><strong>Alexander Korotkov</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/rlake.html"><strong>Roger Lake</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/pingliang.html"><strong>Ping Liang</strong></a>, <em>Associate Professor</em></p> 
+      <p><a href="/faculty/ee/jianlin.html"><strong>Jianlin Liu</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/liu.html"><strong>Ming Liu</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/ee/hamed.html"><strong>Hamed Mohsenian-Rad</strong></a><em>, Assistant Professor</em></p> 
+      <p><a href="/faculty/ee/mourikis.html"><strong>Anastasios Mourikis</strong></a>, <em>Associate Professor</em></p> 
+      <p><a href="/faculty/ee/mihri.html"><strong>Mihri Ozkan</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/ren.html"><strong>Wei Ren</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/archowdhury.html"><strong>Amit Roy-Chowdhury</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/stan.html"><strong>Sheldon Tan</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/etuncel.html"><strong>Ertem Tuncel</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/ee/wang.html"><strong>Albert Wang</strong></a>, <em>Professor</em></p> 
+      <p><strong><a href="/faculty/ee/yu.html">Nanpeng (Eric) Yu</a>, </strong><em>Assistant Professor</em></p> 
+      <p><a style="font-size: 1em; line-height: 1.5em;" href="/faculty/ee/qzhu.html"><strong>Qi Zhu</strong></a>, <em style="font-size: 1em; line-height: 1.5em;">Assistant Professor</em></p> 
+      <a name="me"> </a> 
+      <h4 class="section2"><img title="Mechanical Engineering" src="/images/melink.jpg" alt="Mechanical Engineering" width="150" height="45"><br><br></h4> 
+      <p><a href="/faculty/me/rabba.html"><strong>Reza Abbaschian</strong></a>, <em>Distinguished Professor (Dean)</em></p> 
+      <p><a href="/faculty/me/guillermoaguilar.html"><strong>Guillermo Aguilar</strong></a>, <em>Professor and Department Chair</em></p> 
+      <p><a href="/faculty/me/franco.html"><strong>Elisa Franco</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/me/garay.html"><strong>Javier Garay</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/me/jung.html"><strong>HeeJung Jung</strong></a>, <em>Associate Professor</em></p> 
+      <p><a href="/faculty/me/kumar.html"><strong>Sandeep Kumar</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/me/mangolini.html"><strong>Lorenzo Mangolini</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/me/mathaudhu.html"><strong>Suveen Nigel Mathaudhu</strong></a><em>, Assistant Professor</em></p> 
+      <p><a href="/faculty/me/cozkan.html"><strong>Cengiz Ozkan</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/me/Pasqualetti.html"><strong>Fabio Pasqualetti</strong></a><em>, Assistant Professor</em></p> 
+      <p><a href="/faculty/me/princevac.html"><strong>Marko Princevac</strong></a>, <em>Associate Professor</em></p> 
+      <p><a href="/faculty/me/rao.html"><strong>Masaru Rao</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/me/stahovich.html"><strong>Thomas Stahovich</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/me/tsutsui.html"><strong>Hideaki Tsutsui</strong></a>, <em>Assistant Professor</em></p> 
+      <p><a href="/faculty/me/kambizvafai.html"><strong>Kambiz Vafai</strong></a>, <em>Distinguished&nbsp;Professor</em></p> 
+      <!--
+<p><a href="/faculty/me/sundar.html"><strong>Sundararajan Venkatadriagaram</strong></a>, <em>Assistant Professor</em></p>
+--> 
+      <p><a href="/faculty/me/akulavenkatram.html"><strong>Akula Venkatram</strong></a>, <em>Professor</em></p> 
+      <p><a href="/faculty/me/guanshuixu.html"><strong>Guanshui Xu</strong></a>, <em>Professor</em></p> 
+      <a name="mse"> </a> 
+      <h4 class="section2"><img title="Materials Science and Engineering" src="/images/mselink.jpg" alt="Materials Science and Engineering" width="150" height="45"><br><br></h4> 
+      <p><a href="/faculty/me/rabba.html"><strong>Reza Abbaschian</strong></a>, <em>Mechanical Engineering</em></p> 
+      <p><a href="/faculty/ee/balandin.html"><strong>Alexander Balandin</strong></a>, <em>Electrical Engineering</em></p> 
+      <p><a href="/faculty/chemenv/christopher.html"><strong>Phillip Christopher</strong></a>, <em>Chemical and Environmental Engineering</em></p> 
+      <p><a href="/faculty/me/garay.html"><strong>Javier Garay</strong></a>, <em>Mechanical Engineering</em></p> 
+      <p><a href="/faculty/chemenv/jguo.html"><strong>Juchen Guo</strong></a>, <em>Chemical and Environmental Engineering</em></p> 
+      <p><a href="/faculty/chemenv/haddon.html"><strong>Robert Haddon</strong></a>, <em>Chemical and Environmental Engineering</em></p> 
+      <p><a href="/faculty/ee/haberer.html"><strong> Elaine Haberer</strong></a><em>, Electrical Engineering</em></p> 
+      <!--
+<p><a href="/faculty/me/qingjiang.html" _mce_href="/faculty/me/qingjiang.html"><strong>Qing Jiang</strong></a>, <em>Mechanical Engineering</em></p>
+--> 
+      <p><a href="/faculty/chemenv/kisailus.html"><strong>David Kisailus</strong></a>, <em>Chemical and Environmental Engineering</em></p> 
+      <p><a href="/faculty/me/kumar.html"><strong>Sandeep Kumar</strong></a>, <em>Mechanical Engineering</em></p> 
+      <p><a href="/faculty/ee/rlake.html"><strong>Roger Lake</strong></a>, <em>Electrical Engineering</em></p> 
+      <p><a href="/faculty/bio/liu.html"><strong>Huinan Liu</strong></a>, <em>Bioengineering</em></p> 
+      <p><a href="/faculty/ee/jianlin.html"><strong>Jianlin Liu</strong></a>, <em>Electrical Engineering</em></p> 
+      <p><a href="/faculty/cs/stelo.html"><strong>Stefano Lonardi</strong></a>, <em>Computer Science and Engineering</em></p> 
+      <p><a href="/faculty/bio/lyubovitsky.html"><strong>Julia Lyubovitsky</strong></a>, <em>Bioengineering</em></p> 
+      <p><a href="/faculty/me/mangolini.html"><strong>Lorenzo Mangolini</strong></a>, <em>Mechanical Engineering</em></p> 
+      <p><strong><a href="/faculty/me/mathaudhu.html">Suveen Nigel Mathaudhu</a>, </strong><em>Mechanical Engineering</em></p> 
+      <p><a href="/faculty/cs/martmolle.html"><strong>Mart Molle</strong></a>, <em>Computer Science and Engineering</em></p> 
+      <p><a href="/faculty/bio/dmorikis.html"><strong>Dimitrios Morikis</strong></a>, <em>Bioengineering</em></p> 
+      <p><a href="/faculty/chemenv/ashokmulchandani.html"><strong>Ashok Mulchandani</strong></a>, <em>Chemical and Environmental Engineering</em></p> 
+      <p><a href="/faculty/chemenv/myung.html"><strong>Nosang Myung</strong></a>, <em>Chemical and Environmental Engineering</em></p> 
+      <p><a href="/faculty/me/cozkan.html"><strong>Cengiz Ozkan</strong></a>, <em>Mechanical Engineering</em></p> 
+      <p><a href="/faculty/ee/mihri.html"><strong>Mihri Ozkan</strong></a>, <em>Electrical Engineering</em></p> 
+      <p><a href="/faculty/me/rao.html"><strong>Masaru Rao</strong></a>, <em>Mechanical Engineering</em></p> 
+      <p><a href="/faculty/bio/rodgers.html"><strong>Victor G.J. Rodgers</strong></a>, <em>Bioengineering</em></p> 
+      <p><a href="/faculty/me/kambizvafai.html"><strong>Kambiz Vafai</strong></a>, <em>Mechanical Engineering</em></p> 
+      <p><a href="/faculty/bio/vullev.html"><strong>Valentine Vullev</strong></a>, <em>Bioengineering</em></p> 
+      <p><strong><a href="/faculty/chemenv/bryanmwong.html">Bryan M. Wong</a>, </strong><em>Chemical and Environmental Engineering</em></p> 
+      <p><a href="/faculty/chemenv/jianzhongwu.html"><strong>Jianzhong Wu</strong></a>, <em>Chemical and Environmental Engineering</em></p> 
+      <p><a href="/faculty/me/guanshuixu.html"><strong>Guanshui Xu</strong></a>, <em>Mechanical Engineering</em></p> 
+      <p><a href="/faculty/chemenv/ruoxue.html"><strong>Ruoxue Yan</strong></a>, <em>Assistant Professor</em></p> 
+     </div> 
+     <!-- End Content Area --> 
+     <div class="clear"></div> 
+    </div> 
+    <!-- End Content --> 
+   </div>
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column3"> 
+      <h3>College Information</h3> 
+      <address><strong>Bourns College of Engineering</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">446 Winston Chung Hall</a><br> <br> Tel: (951) 827-5190<br> Fax: (951) 827-3188<br> E-mail: <a href="mailto:collegeinfo@engr.ucr.edu?subject=Website%20Inquiry">collegeinfo@engr.ucr.edu</a></address> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/research/licensing.html">License Bourns Technology</a></li> 
+       <li><a href="http://www.ucr.edu/giving/">Give to Bourns</a></li> 
+       <li><a href="/intranet/">Intranet</a></li> 
+       <li><a href="/inventthefuture.html">Invent the Future</a></li> 
+       <li><a href="http://systems.engr.ucr.edu">Systems</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/images/design6/footer_building.jpg" alt="" width="120" height="87"> <strong>Engineering Times Newsletter</strong><br> <br> <a href="/news/e-newsletter.html">Sign up to receive the college's e-newsletter <em>Engineering Times</em></a>. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.engr.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01002&amp;site=cmsengr&amp;path=%2Ffaculty%2Findex.html">Last modified: 2014-Nov-20</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.130743 seconds using 1.25 MiB of memory. -->   
+ </body>
+</html>

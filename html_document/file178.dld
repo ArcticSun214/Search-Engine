@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <title>UC Riverside's new biomass system makes energy from waste | 89.3 KPCC</title> 
+  <!-- Meta tags which are the same across all pages --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"> 
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"3a7254ec4f","applicationID":"446356","transactionName":"JV4MRkQMDVRTRUlWUhFCTUFCDBNB","queueTime":1,"applicationTime":25,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-515.min.js"}</script> 
+  <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcDWFBADAcGV1RU"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script> 
+  <meta property="fb:app_id" content="129848480405753"> 
+  <link rel="publisher" href="https://plus.google.com/108872361044769229886/"> 
+  <meta property="og:site_name" content="Southern California Public Radio"> 
+  <meta content="KPCC, California, Southern California, Los Angeles, Pasadena, SCPR, Southern California Public Radio" name="keywords"> 
+  <meta name="author" content="Southern California Public Radio"> 
+  <meta property="og:description" content="Researchers unveil a prototype they hope can scale up in as little as three years. "> 
+  <meta property="og:title" content="UC Riverside's new biomass system makes energy from waste"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/"> 
+  <meta name="twitter:card" value="summary"> 
+  <meta name="twitter:site" value="@kpcc"> 
+  <meta name="twitter:url" value="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/"> 
+  <meta name="twitter:title" value="UC Riverside's new biomass system makes energy from waste"> 
+  <meta name="twitter:description" value="Researchers unveil a prototype they hope can scale up in as little as three years. "> 
+  <meta property="article:published_time" content="2013-11-18 17:46:45 -0800"> 
+  <meta property="article:modified_time" content="2013-11-18 17:48:17 -0800"> 
+  <meta property="article:section" content=""> 
+  <meta property="og:image" content="http://a.scpr.org/i/551e4690e3b03cdc08e7c67cf134dd91/72371-full.jpg"> 
+  <meta property="og:image:type" content="image/jpeg"> 
+  <meta property="og:image:width" content="768"> 
+  <meta property="og:image:height" content="1024"> 
+  <link rel="image_src" href="http://a.scpr.org/i/551e4690e3b03cdc08e7c67cf134dd91/72371-full.jpg"> 
+  <meta name="twitter:image" value="http://a.scpr.org/i/551e4690e3b03cdc08e7c67cf134dd91/72371-full.jpg"> 
+  <meta content="authenticity_token" name="csrf-param"> 
+  <meta content="17u7wfQ0wtTd9Aru3yadbg2rsM/69W/IBrDt4R5sM+4=" name="csrf-token"> 
+  <meta name="twitter:site" content="@kpcc"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:image:src" content="http://scpr.org/assets/kpcc-twitter-logo-a44a881ec52e86414ef6ef6f4ba90854.png"> 
+  <meta content="http://scpr.org" name="twitter:url"> 
+  <meta content="http://scpr.org" name="twitter:domain"> 
+  <meta content="UC Riverside's new biomass system makes energy from waste | 89.3 KPCC" name="twitter:title"> 
+  <meta content="Member-supported public radio for Southern California. Award-winning local news and cultural programming alongside the best of NPR." name="twitter:description"> 
+  <link href="http://scpr.org/feeds/all_news" rel="alternate" title="RSS" type="application/rss+xml"> 
+  <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"> 
+  <!-- Optimizely script for A/B testing --> 
+  <script src="//cdn.optimizely.com/js/1611751335.js"></script> 
+  <link href="/assets/new/application-8e4bda7ad10805f97080944da52cfba6.css" media="screen" rel="stylesheet"> 
+  <script src="/assets/shared-4f23cb528961330c52512e4d8782388b.js"></script> 
+  <script src="/assets/application-ba4ec67e0e5dee34de76734460626322.js"></script> 
+  <script type="text/javascript" src="http://a.scpr.org/assets/client.js?bust=20130523"></script> 
+  <script src="/assets/new/application-a355890fad2720c977508dadd8523f60.js"></script> 
+  <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <link href="/assets/new/ie-lt9-9a615c9442d9a44662bf425d1864c256.css" media="screen" rel="stylesheet" />
+        <script src="/assets/new/ie-lt9-443d7d56b78ca223e9febad9e57423eb.js"></script>
+    <![endif]--> 
+  <script type="text/javascript" src="//use.typekit.net/vtu6xsq.js"></script> 
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script> 
+  <script>
+      // Function for lazy loading slideshow images
+      function imgLoaded(img){
+        var $img = $(img);
+
+        $img.addClass('loaded');
+      };
+      // User agent detection to dynamically display the appropriate Apple App Banners to iPads and iPhones
+      if (navigator.userAgent.match(/iPad/i)) {
+        $('head').append('<meta name="apple-itunes-app" content="app-id=744160424"/>');
+      }
+      else if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i)) {
+        $('head').append('<meta name="apple-itunes-app" content="app-id=293825085"/>');
+      }
+    </script> 
+  <!-- Start: GPT Async --> 
+  <script type="text/javascript">
+  var gptadslots=[];
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ var gads = document.createElement('script');
+    gads.async = true; gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script> 
+  <script>
+      DFP_CATEGORY = "environment";
+
+    </script> 
+  <script type="text/javascript">
+  googletag.cmd.push(function() {
+
+    var keySuffix, key;
+
+    if (typeof DFP_KEY_SUFFIX_OVERRIDE !== "undefined") {
+      keySuffix = DFP_KEY_SUFFIX_OVERRIDE
+    } else {
+      keySuffix = "/" + window.location.pathname.split("/").filter(function(v){return v!==''}).splice(0, 2).join("/")
+    }
+
+    key = '/3468/ibs.scpr.scpr' + keySuffix;
+
+    // Ad Size Mappings for responsive ad units
+    var mapping = googletag.sizeMapping().
+    addSize([871, 250], [300, 250]).
+    addSize([200, 250], [300, 50]).
+    build();
+
+    // Only print the Ad Slots we need for the given page,
+    // or else the empty ad requests will count against us in DFP
+
+      // Position A
+      gptadslots[3]= googletag.defineSlot(key, [[300,50]],'dfp-slot_a').setTargeting('pos',['banner-top']).addService(googletag.pubads());
+
+      // Position B
+      gptadslots[1]= googletag.defineSlot(key, [[300,250]],'dfp-slot_b').setTargeting('pos',['mr-top']).defineSizeMapping(mapping).addService(googletag.pubads());
+
+      // Position C
+      gptadslots[2]= googletag.defineSlot(key, [[300,250]],'dfp-slot_c').setTargeting('pos',['mr-bottom']).defineSizeMapping(mapping).addService(googletag.pubads());
+
+
+    googletag.pubads().enableSingleRequest();
+
+    // If this page is an article and has a category, add in the targeting tag
+    if (typeof DFP_CATEGORY !== "undefined") {
+      googletag.pubads().setTargeting('category',[DFP_CATEGORY]);
+    }
+
+
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script> 
+  <!-- End: GPT --> 
+  <!-- chartbeat timing for load start --> 
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+ </head> 
+ <body class="interior single"> 
+  <div id="global-pushdown"></div> 
+  <header class="masthead "> 
+   <div class="inner bound"> 
+    <section class="titling"> 
+     <div class="brand clearfix"> 
+      <h1><a href="/environment">Environment &amp; Science</a></h1> 
+      <h2></h2> 
+     </div> 
+    </section>
+    <!--/ .titling --> 
+    <section class="station clearfix"> 
+     <h4><a href="/" rel="author" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Home">89.3 KPCC</a></h4> 
+     <nav class="kpcc-links"> 
+      <ul> 
+       <li><a href="javascript:void(0)" onclick="open_popup('/listen_live/');" id="listen-live" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Listen Live">Listen Live</a></li> 
+       <li><a href="/news/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="News">News</a></li> 
+       <li><a href="/programs/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Programs">Programs</a></li> 
+       <li><a href="/events/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Events">Events</a></li> 
+       <li><a href="/support/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Support Us">Support Us</a></li> 
+       <li><a href="/about/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="About Us">About Us</a></li> 
+      </ul> 
+     </nav> 
+     <ul class="follow-us clearfix"> 
+      <li><a href="http://twitter.com/kpcc" title="Follow KPCC on Twitter" class="tw">KPCC on Twitter</a></li> 
+      <li><a href="http://facebook.com/kpcc" title="Like KPCC on Facebook" class="fb">KPCC on Facebook</a></li> 
+      <li><a href="https://plus.google.com/108872361044769229886/" title="Join with KPCC on Google Plus" class="gp">KPCC on Google+</a></li> 
+     </ul> 
+     <button class="search-trigger" value="Activate search tool">Search KPCC</button> 
+     <h5 class="donate track-event" data-ga-category="Menu" data-ga-action="Donate" data-ga-label="Donate"><a href="https://scprcontribute.publicradio.org/contribute.php">Donate Now</a></h5> 
+     <button class="shownav" aria-hidden="true">Show Nav</button> 
+    </section>
+    <!--/ .station --> 
+    <nav class="kpcc-ledge pane" aria-hidden="true"> 
+     <h1><a href="http://kpcc.org" rel="author">89.3 KPCC</a></h1> 
+     <button class="close" value="close">Close</button> 
+     <ul class="links"> 
+      <li><a href="javascript:void(0)" onclick="open_popup('/listen_live/');" id="listen-live">Listen Live</a></li> 
+      <li><a href="/news/">News</a></li> 
+      <li><a href="/programs/">Programs</a></li> 
+      <li><a href="/events/">Events</a></li> 
+      <li><a href="/support/">Support Us</a></li> 
+      <li><a href="/about/">About Us</a></li> 
+     </ul> 
+     <h2>Follow KPCC</h2> 
+     <ul class="follow-us clearfix"> 
+      <li><a href="http://twitter.com/kpcc" title="Follow KPCC on Twitter" class="tw">KPCC on Twitter</a></li> 
+      <li><a href="http://facebook.com/kpcc" title="Like KPCC on Facebook" class="fb">KPCC on Facebook</a></li> 
+      <li><a href="https://plus.google.com/108872361044769229886/" title="Join with KPCC on Google Plus" class="gp">KPCC on Google+</a></li> 
+     </ul> 
+    </nav>
+    <!--/ .kpcc-ledge --> 
+    <aside class="kpcc-search pane"> 
+     <h1><a href="http://kpcc.org" rel="author">89.3 KPCC</a></h1> 
+     <button class="close" value="close">Close</button> 
+     <form method="get" action="/search/"> 
+      <label for="q">Search:</label> 
+      <div class="search-wrap">
+       <input class="search" id="q" type="text" placeholder="Search" name="q">
+      </div> 
+      <input id="submit" class="submit" type="submit" value=""> 
+      <input class="toggle-search" type="button"> 
+     </form> 
+    </aside> 
+   </div> 
+  </header>
+  <!--/ .masthead --> 
+  <section class="prologue austere"> 
+   <div class="grating"> 
+    <div class="inner bound clearfix"> 
+     <div class="prose"> 
+      <h1 class="title"><span>UC Riverside's new biomass system makes energy from waste</span></h1> 
+      <aside class="byline"> 
+       <h2 class="author">by <a href="/about/people/staff/jed-kim">Jed Kim</a></h2> 
+       <time class=" smart smarttime" data-unixtime="1384825605"></time> 
+      </aside> 
+     </div> 
+    </div>
+    <!--/ .prose --> 
+   </div> 
+  </section>
+  <!--/ .prologue --> 
+  <div class="report"> 
+   <div class="inner bound clearfix"> 
+    <article class="prose"> 
+     <div class="marginal-tools clearfix"> 
+      <nav class="audio-queue track-event" data-ga-category="Article" data-ga-action="Load" data-ga-label="Player" data-non-interaction="1"> 
+       <header>
+        <h1>Audio from this story</h1>
+       </header> 
+       <ul> 
+        <li class="story-audio track-event" data-ga-category="Article" data-ga-action="Play" data-ga-label="Player"> <a href="http://media.scpr.org/audio/features/20131118_features1235.mp3" class="play-btn audio-toggler track-event" data-ga-category="Article" data-ga-action="Play" data-ga-label="Player" title="UC Riverside's new biomass system makes energy from waste" data-duration="65"> <b>1:05</b> <span>Listen</span> </a> </li> 
+       </ul> 
+      </nav> 
+      <aside class="buddy disseminate share clearfix" aria-hidden="true"> 
+       <h1>Share</h1> 
+       <ul class="clearfix"> 
+        <li class="email"> <a href="#" class="social_email track-event email" data-ga-category="Article" data-ga-action="Share" data-ga-label="Email" data-key="news_story-40456"><span>Share via Email</span><mark>email</mark></a> </li> 
+        <li class="twitter" data-url="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/"> <a href="#" class="social_twit track-event twitter" data-ga-category="Article" data-ga-action="Share" data-ga-label="Twitter" data-url="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/" data-text="UC+Riverside%27s+new+biomass+system+makes+energy+from+waste"><span>Share on Twitter</span><mark class="count"></mark></a> </li> 
+        <li class="facebook" data-url="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/"> <a href="#" class="social_fb track-event facebook" data-ga-category="Article" data-ga-action="Share" data-ga-label="Facebook" data-url="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/"><span>Share on Facebook</span><mark class="count"></mark></a> </li> 
+       </ul> 
+      </aside> 
+     </div>
+     <!--/ .marginal-tools --> 
+     <div class="prose-body"> 
+      <figure class="asset-inset"> 
+       <b class="pic"><img alt="The new steam hydrogasification system at UC Riverside will be able to convert up to 10 pounds of carbon-based materials into methane per hour. " src="http://a.scpr.org/i/551e4690e3b03cdc08e7c67cf134dd91/72371-full.jpg"></b> 
+       <figcaption> 
+        <span> The new steam hydrogasification system at UC Riverside will be able to convert up to 10 pounds of carbon-based materials into methane per hour. <mark> UC Riverside</mark> </span> 
+       </figcaption> 
+      </figure> 
+      <p>Officials at the University of California,&nbsp;Riverside <a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a>&nbsp;will unveil&nbsp;a new energy-production system&nbsp;on Tuesday that has the ability to convert biomass&nbsp;waste into energy through a&nbsp;process called steam hydrogasification.&nbsp;It also produces negligible emissions.</p> 
+      <p>Using the system, most materials made of&nbsp;carbon -- like agricultural and municipal solid waste --&nbsp;can be turned into methane, which can then be converted into liquid fuel or electricity. The California Energy Commission <a href="http://www.energy.ca.gov/biomass/biomass.html">estimates</a> that the state produces 47 million tons of biomass waste&nbsp;annually.&nbsp;</p> 
+      <p>“This is California technology solving a California problem to eliminate California waste,” said Joe Norbeck, a professor emeritus at the school and one of the inventors of the technology.&nbsp;</p> 
+      <p>The process differs from traditional dry gasification in that it allows wet materials to be processed without a drying step. Analysis by the&nbsp;U.S. Department of Energy’s National Energy Technology Laboratory also shows that the process is 12 percent more efficient than dry methods.&nbsp;</p> 
+      <p>It also means that waste from agricultural and municipal sources, yard trimmings and&nbsp;sewage sludge could all be used as fodder for energy. Norbeck said that one ton of biomass can be converted to the equivalent of approximately&nbsp;one barrel of oil.</p> 
+      <p>The system that will debut on Tuesday&nbsp;is&nbsp;only able to handle up to 10 pounds of biomass per hour. It's the&nbsp;first of its kind&nbsp;and meant to&nbsp;serve&nbsp;as a prototype for larger systems that could be situated at places where waste is produced.&nbsp;</p> 
+      <p>Norbeck said ongoing&nbsp;research&nbsp;will continue to make the&nbsp;technology more cost effective. University officials said they&nbsp;expect&nbsp;that California’s first commercial-scale system to be built within three years.</p> 
+      <p>Carbon-based materials&nbsp;naturally produce&nbsp;methane as they decompose,&nbsp;and many landfills have systems in place to collect the gas. Norbeck said that steam hydrogasification greatly accelerates the process.</p> 
+      <p>“Natural gas production, if you do it in a landfill, takes a very long time. Takes months, years. Ours, you can do it in minutes,” Norbeck said.</p> 
+      <p>&nbsp;</p> 
+      <p>&nbsp;</p> 
+     </div>
+     <!--/ .prose-body --> 
+     <aside class="buddy disseminate share clearfix" aria-hidden="true"> 
+      <h1>Share</h1> 
+      <ul class="clearfix"> 
+       <li class="email"> <a href="#" class="social_email track-event email" data-ga-category="Article" data-ga-action="Share" data-ga-label="Email" data-key="news_story-40456"><span>Share via Email</span><mark>email</mark></a> </li> 
+       <li class="twitter" data-url="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/"> <a href="#" class="social_twit track-event twitter" data-ga-category="Article" data-ga-action="Share" data-ga-label="Twitter" data-url="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/" data-text="UC+Riverside%27s+new+biomass+system+makes+energy+from+waste"><span>Share on Twitter</span><mark class="count"></mark></a> </li> 
+       <li class="facebook" data-url="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/"> <a href="#" class="social_fb track-event facebook" data-ga-category="Article" data-ga-action="Share" data-ga-label="Facebook" data-url="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/"><span>Share on Facebook</span><mark class="count"></mark></a> </li> 
+      </ul> 
+     </aside> 
+     <footer class="comments-jump"> 
+      <a href="#comments"> <mark>Join the discussion.</mark> <span>Tap here to jump to this article's comments.</span> </a> 
+     </footer> 
+     <!--
+            <footer class="comments-trigger">
+                <a href="#">This article currently has no comments. Click here to start the discussion.</a>
+            </footer>
+            --> 
+    </article> 
+    <section class="supportive"> 
+     <aside class="placard"> 
+      <div class="ad widget"> 
+       <!-- slot_a --> 
+       <div class="dfp" id="dfp-slot_a"> 
+        <script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('dfp-slot_a'); });
+  </script> 
+       </div> 
+      </div> 
+     </aside> 
+     <aside class="placard"> 
+      <div class="ad widget"> 
+       <!-- slot_b --> 
+       <div class="dfp" id="dfp-slot_b"> 
+        <script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('dfp-slot_b'); });
+  </script> 
+       </div> 
+       <p class="appeal"><a href="/support/underwriting/">Become a KPCC Sponsor</a></p> 
+      </div> 
+     </aside> 
+     <aside class="see-more issue"> 
+      <header> 
+       <h1>More from this Category</h1> 
+       <h2 class="clearfix"> <span><a href="/environment">Environment &amp; Science</a></span> <mark><a href="/environment">See All</a></mark> </h2> 
+      </header> 
+      <ul class="previews"> 
+       <li> <a class="track-event" data-ga-action="Clickthrough" data-ga-category="Article" data-ga-label="More Sidebar Category" href="/news/2015/01/29/49556/climate-change-heat-island-effect-deal-cities-worl/"> 
+         <figure class="ratio-pairing clearfix"> 
+          <div class="ratio"> 
+           <div class="fill"></div> 
+           <b class="img-contain"><img alt="45036 lsquare" src="http://a.scpr.org/i/e56162a34ccf8e08a1bb791779d84b18/45036-lsquare.jpg"></b> 
+          </div>
+          <!--/ .ratio --> 
+          <figcaption> 
+           <time class=" smart smarttime" data-unixtime="1422594436"></time> 
+           <mark>Climate change, heat island effect deal a 'double whammy' to cities</mark> 
+          </figcaption> 
+         </figure>
+         <!--/ .ratio-pairing --> </a> </li> 
+       <li> <a class="track-event" data-ga-action="Clickthrough" data-ga-category="Article" data-ga-label="More Sidebar Category" href="/news/2015/01/29/49550/liberty-canyon-puma-crossing-gets-1-million-from-s/"> 
+         <figure class="ratio-pairing clearfix"> 
+          <div class="ratio"> 
+           <div class="fill"></div> 
+           <b class="img-contain"><img alt="92305 lsquare" src="http://a.scpr.org/i/c34e0590278dfab00c30b7498cccad7f/92305-lsquare.jpg"></b> 
+          </div>
+          <!--/ .ratio --> 
+          <figcaption> 
+           <time class=" smart smarttime" data-unixtime="1422579556"></time> 
+           <mark>Liberty Canyon puma crossing gets $1 million from state</mark> 
+          </figcaption> 
+         </figure>
+         <!--/ .ratio-pairing --> </a> </li> 
+       <li> <a class="track-event" data-ga-action="Clickthrough" data-ga-category="Article" data-ga-label="More Sidebar Category" href="/news/2015/01/29/49552/scientists-general-public-have-divergent-views-on/"> 
+         <figure class="ratio-pairing clearfix"> 
+          <div class="ratio"> 
+           <div class="fill"></div> 
+           <b class="img-contain"><img alt="99349 lsquare" src="http://a.scpr.org/i/d71fcefa3721baa405acb99bed30d7c8/99349-lsquare.jpg"></b> 
+          </div>
+          <!--/ .ratio --> 
+          <figcaption> 
+           <time class=" smart smarttime" data-unixtime="1422573994"></time> 
+           <mark>Scientists, general public disagree on science, report says</mark> 
+          </figcaption> 
+         </figure>
+         <!--/ .ratio-pairing --> </a> </li> 
+      </ul> 
+     </aside> 
+     <aside class="see-more"> 
+      <header> 
+       <h1>Popular now on KPCC</h1> 
+      </header> 
+      <ul class="previews"> 
+       <li> <a class="track-event" data-ga-action="Clickthrough" data-ga-category="Article" data-ga-label="Popular Now Sidebar" href="/programs/take-two/2015/01/29/41304/as-korean-adoptees-return-a-complex-relationship-f/"> 
+         <figure class="ratio-pairing clearfix"> 
+          <div class="ratio"> 
+           <div class="fill"></div> 
+           <b class="img-contain"><img alt="99319 lsquare" src="http://a.scpr.org/i/415f68bf740d9cd5db310034baa032fa/99319-lsquare.jpg"></b> 
+          </div>
+          <!--/ .ratio --> 
+          <figcaption> 
+           <time class=" smart smarttime" data-unixtime="1422555801"></time> 
+           <mark>As Korean adoptees return, a complex relationship follows</mark> 
+          </figcaption> 
+         </figure>
+         <!--/ .ratio-pairing --> </a> </li> 
+       <li> <a class="track-event" data-ga-action="Clickthrough" data-ga-category="Article" data-ga-label="Popular Now Sidebar" href="/blogs/multiamerican/2015/01/29/17836/little-tokyo-atomic-cafe-troy-music-metro/"> 
+         <figure class="ratio-pairing clearfix"> 
+          <div class="ratio"> 
+           <div class="fill"></div> 
+           <b class="img-contain"><img alt="73489 lsquare" src="http://a.scpr.org/i/ac463d598dcfb2487ae15a68b27753b6/73489-lsquare.jpg"></b> 
+          </div>
+          <!--/ .ratio --> 
+          <figcaption> 
+           <time class=" smart smarttime" data-unixtime="1422536445"></time> 
+           <mark>Atomic Cafe: Little Tokyo music landmark falls to wrecking ball today</mark> 
+          </figcaption> 
+         </figure>
+         <!--/ .ratio-pairing --> </a> </li> 
+       <li> <a class="track-event" data-ga-action="Clickthrough" data-ga-category="Article" data-ga-label="Popular Now Sidebar" href="/news/2015/01/28/49502/va-settles-lawsuit-agrees-to-transform-west-la-cam/"> 
+         <figure class="ratio-pairing clearfix"> 
+          <div class="ratio"> 
+           <div class="fill"></div> 
+           <b class="img-contain"><img alt="46959 lsquare" src="http://a.scpr.org/i/42ea0fd94ea66d791ef222097f5372e2/46959-lsquare.jpg"></b> 
+          </div>
+          <!--/ .ratio --> 
+          <figcaption> 
+           <time class=" smart smarttime" data-unixtime="1422504000"></time> 
+           <mark>VA's West LA campus will be revamped and returned to homeless vets</mark> 
+          </figcaption> 
+         </figure>
+         <!--/ .ratio-pairing --> </a> </li> 
+      </ul> 
+     </aside> 
+    </section> 
+   </div> 
+  </div>
+  <!--/ .report --> 
+  <!-- AdHost Slot: Membership Appeals --> 
+  <div id="article-membership-appeal"></div> 
+  <div id="comments" name="comments" class="comments"> 
+   <div class="inner bound clearfix"> 
+    <section class="discussion"> 
+     <!-- disqus comments --> 
+     <div id="disqus_thread" class=""></div> 
+     <script type="text/javascript">
+                /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                var disqus_shortname = 'kpcc'; // required: replace example with your forum shortname
+                // The following are highly recommended additional parameters. Remove the slashes in front to use.
+                var disqus_identifier = 'news/story:40456';
+                var disqus_url = 'http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/';
+              var disqus_title = 'UC Riverside&#39;s new biomass system makes energy from waste';
+
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script> 
+     <noscript>
+      Please enable JavaScript to view the 
+      <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+     </noscript> 
+     <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a> 
+     <!-- end disqus comments --> 
+    </section> 
+    <div class="secondary"> 
+     <aside class="placard"> 
+      <div class="ad widget"> 
+       <!-- slot_c --> 
+       <div class="dfp" id="dfp-slot_c"> 
+        <script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('dfp-slot_c'); });
+  </script> 
+       </div> 
+       <p class="appeal"><a href="/support/underwriting/">Become a KPCC Sponsor</a></p> 
+      </div> 
+     </aside> 
+    </div>
+    <!--/ .secondary --> 
+   </div> 
+  </div> 
+  <div class="placard-waystation"></div> 
+  <aside id="audio-bar" class="audio-player"> 
+   <div id="jquery_jplayer_1" class="jp-jplayer"></div> 
+   <div id="jp_container_1" class="jp-audio"> 
+    <div class="jp-type-single"> 
+     <div class="inner bound"> 
+      <div class="controls"> 
+       <div class="jp-gui jp-interface"> 
+        <ul class="jp-controls"> 
+         <button value="play" class="jp-play track-event" data-ga-category="Article" data-ga-action="Play" data-ga-label="Player">Play</button> 
+         <button value="pause" class="jp-pause track-event" data-ga-category="Article" data-ga-action="Pause" data-ga-label="Player">Pause</button> 
+        </ul> 
+       </div> 
+      </div>
+      <!--/ .controls --> 
+      <div class="vitals"> 
+       <header id="jplayer1_title"></header> 
+       <div class="timeline"> 
+        <mark class="ticker jp-current-time"></mark> 
+        <div class="meter"> 
+         <div class="jp-play-bar" style="width: 16.38%;">
+          &nbsp;
+         </div> 
+         <div class="jp-seek-bar">
+          &nbsp;
+         </div> 
+        </div> 
+        <span class="ticker jp-duration"></span> 
+       </div> 
+      </div>
+      <!--/ .vitals --> 
+      <div class="incidentals"> 
+       <a href="#" download="" class="download">Download audio file</a> 
+       <button value="mute" class="jp-mute aural">Mute</button> 
+       <button value="unmute" class="jp-unmute aural">Unmute</button> 
+       <button value="close" class="jp-stop collapse">Stop and Close</button> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </aside>
+  <!--/ .audio-player --> 
+  <aside class="membership"> 
+   <div class="inner bound"> 
+    <h1><a href="https://scprcontribute.publicradio.org/contribute.php">KPCC's Environment &amp; Science coverage is a Southern California resource provided by member-supported public radio. We can't do it without you.</a></h1> 
+    <h2><span>Your contributions power KPCC.</span> <a href="https://scprcontribute.publicradio.org/contribute.php">Give today.</a></h2> 
+    <h3 class="brand"><a href="http://kpcc.org" title="Southern California Public Radio">89.3 KPCC</a></h3> 
+   </div> 
+  </aside>
+  <!--/ .membership --> 
+  <footer class="epilogue"> 
+   <header> 
+    <div class="inner bound"> 
+     <h1><a href="http://scpr.org" title="Southern California Public Radio">89.3 KPCC</a></h1> 
+     <h2> <span>89.1 KUOR</span> <span>90.3 KVLA</span> </h2> 
+     <aside class="pledge"> 
+      <p><span>Support the voices you trust!</span> <a href="https://scprcontribute.publicradio.org/contribute.php">Pledge Now</a></p> 
+     </aside> 
+    </div> 
+   </header> 
+   <div class="cols"> 
+    <div class="inner bound clearfix"> 
+     <div class="cols-pair primary clearfix"> 
+      <nav class="sections"> 
+       <h1>Sections</h1> 
+       <ul> 
+        <li><a href="/local">Local</a></li> 
+        <li><a href="/world">US &amp; World</a></li> 
+        <li><a href="/politics">Politics</a></li> 
+        <li><a href="/environment">Science</a></li> 
+        <li><a href="/arts">Arts &amp; Entertainment</a></li> 
+        <li><a href="/immigration">Immigration</a></li> 
+        <li><a href="/business">Business</a></li> 
+        <li><a href="/crime">Crime &amp; Justice</a></li> 
+        <li><a href="/education">Education</a></li> 
+        <li><a href="/health">Health</a></li> 
+        <li class="av"><a href="http://audiovision.scpr.org">AudioVision</a></li> 
+        <li><a href="/archive/2015/02/08/?section=news">Archive</a></li> 
+       </ul> 
+      </nav> 
+      <nav class="productions"> 
+       <h1>Programs</h1> 
+       <ul> 
+        <li><a href="/programs/take-two/">Take Two</a></li> 
+        <li><a href="/programs/airtalk">AirTalk</a></li> 
+        <li><a href="/programs/offramp">Off-Ramp</a></li> 
+        <li><a href="/programs/">Programs A–Z</a></li> 
+        <li><a href="/schedule/">Program Schedule</a></li> 
+        <li><a href="/archive/2015/02/08/?section=programs">Program Archive</a></li> 
+       </ul> 
+       <h1>Events</h1> 
+       <ul> 
+        <li><a href="/events/forum">The Crawford Family Forum</a></li> 
+        <li><a href="/events/sponsored">Sponsored Events</a></li> 
+       </ul> 
+      </nav> 
+     </div>
+     <!--/ .primary --> 
+     <div class="cols-pair secondary clearfix"> 
+      <nav class="outreach"> 
+       <h1>Stay Connected</h1> 
+       <ul class="social"> 
+        <li><a href="http://facebook.com/kpcc">Facebook</a></li> 
+        <li><a href="http://twitter.com/kpcc">Twitter</a></li> 
+        <li><a href="https://plus.google.com/108872361044769229886/">Google Plus</a></li> 
+       </ul> 
+       <ul> 
+        <li><a href="/newsletters/">Newsletters</a></li> 
+        <li><a href="/rss/">RSS</a></li> 
+        <li><a href="/podcasts/">Podcasts</a></li> 
+       </ul> 
+       <aside class="mobile"> 
+        <a href="/ipad"><span>Get our new</span> <span><b>KPCC for iPad</b> app.</span></a> 
+       </aside> 
+      </nav> 
+      <nav class="about"> 
+       <h1>About</h1> 
+       <ul> 
+        <li><a href="/about/">About KPCC</a></li> 
+        <li><a href="/about/people/">Staff</a></li> 
+        <li><a href="/contact/">Contact Us</a></li> 
+        <li><a href="/about/faq/">Help / FAQ</a></li> 
+        <li><a href="/web_site_feedback/">Feedback</a></li> 
+        <li><a href="/about/jobs/">Careers @ KPCC</a></li> 
+       </ul> 
+       <div class="vcard location"> 
+        <h2 class="org"><b>89.3 KPCC</b> <span>Southern California Public Radio</span></h2>
+        <h2> 
+         <div class="adr"> 
+          <span class="street-address">474 S. Raymond Ave.</span>
+          <br> 
+          <span class="locality">Pasadena</span>, 
+          <span class="region">CA</span> 
+          <span class="postal-code">91105</span> 
+         </div> </h2>
+       </div> 
+       <aside class="call"> 
+        <p>Call in: 866-893-5722</p> 
+       </aside> 
+      </nav> 
+     </div>
+     <!--/ .secondary --> 
+    </div>
+    <!--/ .inner --> 
+   </div>
+   <!--/ .cols --> 
+   <div class="lastwords bound"> 
+    <aside class="partners"> 
+     <h1>Our Partners</h1> 
+     <ul class="clearfix"> 
+      <li class="apm"><a href="http://publicradio.org">American Public Media</a></li> 
+      <li class="npr"><a href="http://npr.org">National Public Radio</a></li> 
+      <li class="bbc"><a href="http://bbc.co.uk">BBC</a></li> 
+      <li class="pri"><a href="http://pri.org">Public Radio International</a></li> 
+      <li class="nbc"><a href="http://nbclosangeles.com">NBC 4</a></li> 
+      <li class="pcc"><a href="http://pasadena.edu">Pasadena City College</a></li> 
+     </ul> 
+    </aside> 
+    <nav class="fineprint"> 
+     <ul> 
+      <li><a href="/terms/">Terms &amp; Conditions</a></li> 
+      <li><a href="/privacy/">Privacy</a></li> 
+      <li><a href="/web_site_feedback/">Feedback</a></li> 
+      <li>© 2015 <a href="http://scpr.org">Southern California Public Radio</a></li> 
+     </ul> 
+    </nav> 
+   </div> 
+  </footer>
+  <!--/ .epilogue --> 
+  <script>
+        scpr.Behaviors.loadBehaviors(['Layout', 'Single']);
+
+        // Load In-Article Membership Appeal from AdHost
+        scpr.VisualCampaign.enqueue('article-appeal', $('#article-membership-appeal'));
+
+        // Load Embeditor
+        embeditor = new Embeditor.Base({
+          Embedly: {
+            query: { key : '0cb3651dde4740db8fcb147850c6b555' }
+          }
+        })
+
+        embeditor.swap()
+    </script> 
+  <script type="text/javascript">
+  var smartTime;
+
+  $(function() {
+    smartTime     =       new scpr.SmartTime();
+    social        =       new scpr.SocialTools();
+    adSizer       =       new scpr.adSizer();
+    audio         =       new scpr.Audio({widgetClass: '.story-audio', audioBar: '#audio-bar'});
+    eventTracking =       new scpr.EventTracking();
+  });
+</script> 
+  <script>
+// Make sure this is last! A visual campaign
+// can be queued from anywhere.
+$(function() {
+  // Handle any queued visual campaigns.
+ scpr.VisualCampaign.enqueue('pushdown-global', $('#global-pushdown'));
+ scpr.VisualCampaign.fetchQueue();
+});
+</script> 
+  <!-- Stats: WebTrends --> 
+  <script src="/assets/webtrends.v2-e87058b93b1663ee03ae887f0e90cca8.js"></script> 
+  <script>
+    //<![CDATA[
+        var _tag=new WebTrends();
+        _tag.dcsGetId();
+    //]]>
+</script> 
+  <script>
+    //<![CDATA[
+        _tag.dcsCustom=function(){
+            // Add custom parameters here.
+            //_tag.DCSext.param_name=param_value;
+        }
+    _tag.dcsCollect();
+    //]]>
+</script> 
+  <noscript> 
+   <div>
+    <img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsyqctzwuz5bdsebpmwhwe8w_2p8d/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=www.scpr.org">
+   </div> 
+  </noscript> 
+  <!-- /WebTrends --> 
+  <!-- BEGIN Comscore --> 
+  <script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035974", c3: "", c4: "" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script> 
+  <noscript> 
+   <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035974&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=2.0&amp;cj=1"> 
+  </noscript> 
+  <!-- /Comscore --> 
+  <!--Visual Revenue Reader Response Tracking Script (v6) --> 
+  <script type="text/javascript">
+    var _vrq = _vrq || [];
+    _vrq.push(['id', 412]);
+    _vrq.push(['automate', true]);
+    _vrq.push(['track', function(){}]);
+    (function(d, a){
+        var s = d.createElement(a),
+        x = d.getElementsByTagName(a)[0];
+        s.async = true;
+        s.src = 'http://a.visualrevenue.com/vrs.js';
+        x.parentNode.insertBefore(s, x);
+    })(document, 'script');
+</script> 
+  <!-- /Visual Revenue --> 
+  <!-- ChartBeat --> 
+  <script type="text/javascript">
+    var _sf_async_config = { uid: 33583, domain: 'scpr.org', useCanonical:true };
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        };
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script> 
+  <!-- /ChartBeat --> 
+  <!-- Google Analytics --> 
+  <script type="text/javascript">
+    var _gaq_pageType = _.find(scpr.GA_PAGE_MAPPING, function(v, k) {
+        return window.location.pathname.match(new RegExp(k)) !== null;
+    });
+
+    var _gaq = _gaq || [];
+    _gaq.push(
+        ['_setAccount', 'UA-624724-1'],
+        ['_setDomainName', 'scpr.org'],
+        ['_setCustomVar', 6, 'Station', 'Southern California Public Radio', 2],
+        ['_setCustomVar', 7, 'PageType', _gaq_pageType, 3],
+        ['_trackPageview'],
+        ['b._setAccount', 'UA-18188937-11'],
+        ['b._setDomainName', 'scpr.org'],
+        ['b._setCustomVar', 6, 'Station', 'Southern California Public Radio', 2],
+        ['b._setCustomVar', 7, 'PageType', _gaq_pageType, 3],
+        ['b._trackPageview']
+    );
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script> 
+  <!-- /Google Analytics -->   
+ </body>
+</html>

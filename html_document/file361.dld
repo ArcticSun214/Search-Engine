@@ -1,0 +1,247 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Botanic Gardens: Home</title> 
+  <meta http-equiv="last-modified" content="2014-12-10"> 
+  <meta name="version" content="2.45 2.72 "> 
+  <!-- 02/09/15 22:01:12 02/09/15 22:01:12 --> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/purple6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all"> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://gardens.ucr.edu/" accesskey="1">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlay2.png" alt=""> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead3.png);"> 
+   <h1><a href="http://gardens.ucr.edu/"><span class="printonly">Botanic Gardens</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://cnas.ucr.edu/">CNAS</a> &gt;</li> 
+    <li class="lastitem">Botanic Gardens</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li><a href="/information.html" title="Visitor Information">Visitor Information</a></li>
+       <li><a href="/gardens/" title="The Gardens">The Gardens</a></li>
+       <li><a href="/tours.html" title="Tours">Tours</a></li>
+       <li><a href="/calevents.html" title="Calendar of Events">Calendar of Events</a></li>
+       <li><a href="/involved.html" title="Get Involved">Get Involved</a></li>
+       <li><a href="/wildlife.html" title="Wildlife">Wildlife</a></li>
+       <li><a href="/gallery.html" title="Gallery">Gallery</a></li>
+       <li><a href="/resources.html" title="Other Gardens">Other Gardens</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" toolbar="TITLE" --> 
+     <!-- /com.omniupdate.div --> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="727" -->
+      <!-- ouc:editor toolbar="IMG_ONLY" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+      <p> <script type="text/javascript">// <![CDATA[
+var imgs1 = new Array("/images/bannerroses.png","/images/birdwalkbanner.png","/images/banner.png","/images/desertgardensbanner.jpg","/images/gardenstrees.jpg","/images/eggflowersbanner.jpg","/images/hummingbirdbanner.jpg");
+var alt1 = new Array("Rose Garden","Birdwalk","Botanic Garden Banner","Desert Garden","Trees","Egg Flowers","Hummingbird");
+var currentAd1 = 0;
+var imgCt1 = 7;
+function cycle1() {
+  if (currentAd1 == imgCt1) {
+    currentAd1 = 0;
+  }
+var banner1 = document.getElementById('Banner1');
+var link1 = document.getElementById('adLink1');
+  banner1.src=imgs1[currentAd1]
+  banner1.alt=alt1[currentAd1]
+  currentAd1++;
+}
+  window.setInterval("cycle1()",8000);
+// ]]></script> <img id="Banner1" src="/images/banner.png" border="0" alt="" width="700" height="144"></p>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+      <h3 style="text-align: center;">Welcome to the University of California Riverside Botanic Gardens</h3> 
+      <p style="text-align: center;"><br><strong style="text-align: center;">Open Daily, 8:00 AM to 5:00 PM</strong> --&nbsp; <a style="text-align: center;" href="/information.html" target="_blank">Visitor Information</a>&nbsp;</p> 
+      <div style="text-align: center;">
+       &nbsp;
+      </div> 
+      <div style="text-align: center;">
+       &nbsp;
+      </div> 
+      <div style="text-align: center;">
+       <img title="pv" src="/images/kinglet.jpg" alt="pv" width="258" height="189">&nbsp;
+      </div> 
+      <div style="text-align: center;">
+       &nbsp;
+      </div> 
+      <div style="text-align: center;">
+       <strong>Follow us on Facebook</strong>
+       <span>&nbsp;&nbsp;</span>
+       <a href="https://www.facebook.com/UCRBGfriends" target="_blank"><img src="/images/icon_facebook.png" alt="Facebook icon" width="22" height="22"></a>
+      </div> 
+      <div style="text-align: center;">
+       &nbsp;
+      </div> 
+      <p><img class="img_L_borderless" src="/images/bgseal.gif" alt="Botanic Gardens seal" width="69" height="69"></p> 
+      <p>Come enjoy the relaxing atmosphere of the UCR Botanic Gardens! Nestled in the foothills of the Box Springs Mountains on the east side of the University of California, Riverside Campus, the Gardens covers 40 hilly acres. Wander over four miles of scenic trails or just relax on a bench and enjoy the beauty.</p> 
+      <p>The Gardens is a living plant museum with more than 3,500 plant species from around the&nbsp; world for visitors and researchers to see and study. It was established primarily for teaching purposes. In a beautiful setting, the Gardens serves to provide a wide assortment of plant materials for courses at UCR and other local schools.</p> 
+      <div class="figure_L" style="width: 175px;">
+       <img style="float: left;" src="/images/aloe2smA.jpg" alt="AloeGarden" width="171" height="138"> 
+       <p>Aloe Garden</p> 
+      </div> 
+      <p>Courses supported include anthropology, art, biology, botany, ecology, entomology, landscape plants, morphology, ornamental horticulture, plant pathology, photography and taxonomy. The Gardens also provides plant materials for various research projects and serves to test and exhibit plant species introduced from all parts of the world. The variable terrain and Riverside's subtropical climate create numerous "microclimates" which allow for the notable diversity of plantings.This wealth of vegetation creates a hospitable sanctuary for wildlife, where nearly 200 bird species have been officially observed.</p> 
+      <p>&nbsp; &nbsp;Though maintained separately, the University of California Riverside campus grounds is also considered a part of the Botanic Gardens, and serves to demonstrate landscape plants that do well inRiverside's climate.</p> 
+      <div class="figure_L" style="width: 180px;">
+       <img src="/images/butterfly2a.jpg" alt="Butterfly garden" width="180" height="114"> 
+       <p>Butterfly Garden</p> 
+      </div> 
+      <div class="figure_R" style="width: 180px;">
+       <img src="/images/SouthAfCsm.jpg" alt="South African garden" width="180" height="114"> 
+       <p>South African Garden</p> 
+      </div> 
+      <table class="data" style="width: 100%;" border="0" cellspacing="0" cellpadding="0"> 
+       <tbody class="striped"> 
+        <tr style="text-align: left;"> 
+         <td style="text-align: center; background-image: url('/images/border.jpg');" width="50%" valign="middle"> <h4><strong><a href="/involved/friends.html">Become a Friends of the Gardens Member</a></strong></h4> </td> 
+         <td style="text-align: center; background-image: url('/images/border.jpg');" valign="middle"> <h4><strong><a href="/involved/volunteer.html">Become a Volunteer</a></strong></h4> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <h6 style="padding-left: 240px;">OPEN DAILY FROM 8 AM - 5 PM</h6> 
+      <h6 style="padding-left: 280px;"><a href="/directions.html">DIRECTIONS</a></h6>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="related" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="300" -->
+      <br> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span><br><br> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Botanic Gardens Information</h3> 
+      <address><strong>Botanic Gardens Schneider House Office</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=BOTIC" title="Campus Map">Botanic Gardens</a><br><br> Tel: (951) 784-6962<br> E-mail: <a href="mailto:ucrbg@ucr.edu?subject=Botanic Gardens Inquiry">ucrbg@ucr.edu</a> <br><br> <strong>Mailing Address:</strong><br> Botanic Gardens<br> University of California<br> Riverside, CA 92521-0124<br></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://www.bewaterwise.com/" target="_blank">Water Wise Information</a></li> 
+       <li><a href="http://ucanr.org/sites/RiversideMG/" target="_blank">Riverside County Master Gardeners</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://gardens.ucr.edu/sendmail.html" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01231&amp;site=botanicgardens&amp;path=%2Findex.html">Last modified: 2014-Dec-10</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.105666 seconds using 1.75 MiB of memory. -->   
+ </body>
+</html>

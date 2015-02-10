@@ -14,15 +14,15 @@ import org.jsoup.select.Elements;
 import org.jsoup.Connection;
 
 
-class apples{
+class crawler{
 
-    static String directory = "html_document";
+    static String directory = null;
     static String seedFile = null;
     static long numPages = 0;
     static long hopsAway = 0;
 
 	static Map<String, Integer> map = new HashMap<String,Integer>();
-    public static Queue<Tuple<String, Integer>> frontier = new LinkedList<Tuple<String, Integer>>();
+	public static Queue<Tuple<String, Integer>> frontier = new LinkedList<Tuple<String, Integer>>();
 
 	private static final Lock lock = new ReentrantLock();
 	public static boolean frontierLock = false;
@@ -30,9 +30,9 @@ class apples{
 	public static void main(String[] args){
 
         //Check if Input is valid
-        if( args.length != 3)
+        if( args.length != 4)
         {
-                System.out.println("ERROR: Invalid Argument. To be continueed...");///////////////////////////////////////////////////////
+                System.out.println("ERROR: Invalid Argument.");
                 System.exit(0);
         }
 
@@ -40,26 +40,24 @@ class apples{
         seedFile = args[0];
         numPages = Long.valueOf(args[1]).longValue();
         hopsAway = Long.valueOf(args[2]).longValue();
+        directory = args[3];
+        //System.out.println(directory);
 
         //Make sure the directory "html_downloads" exists
         createDirectory();
+        try {
+            downloadFile("http://www.cs.ucr.edu/~cto002/",0);
+         } catch (IOException e) {
+         }
+        
 
         //Get Seeds and put them in the frontier
-		//System.out.println(useFrontier(2,null) != null);
         getSeeds();
-		//Tuple<String, Integer> tmp = useFrontier(2,null);
-		//System.out.println(tmp.x + " " + tmp.y + "QQQQQQQQQQQQQQQQQQQQQQQQ");
 		System.out.println("GET SEED");
 		printFrontier();
 
-		//testThread();
         //Traverse webpages and saves them
-        //crawl();
-		testThread();
-		//testThread();
-	
-			
-	   //printFrontier();	
+	    testThread();
 		
 	}
 
@@ -69,7 +67,7 @@ class apples{
         File file = new File(directory);
         if(!file.exists()) {
             System.out.println("Directory to store downloads does not exist.");
-            System.out.println("Creating directory \"html_downloads\".");
+            System.out.println("Creating directory \"" +directory+ "\".");
             if(file.mkdir()) {
                 System.out.println("Directory created.");
             } else {
@@ -85,7 +83,6 @@ class apples{
 		{
             for(String url = seeds.readLine(); url != null; url = seeds.readLine())
             {
-                    //////////////CHECK FOR WHITESPACES AT THE END OF FILE
 				if(hasValidProtocol(url))
 				{
 					map.put(url,0);
@@ -115,7 +112,7 @@ class apples{
 		{
 			fileType= link.substring(link.length()-4);
 		}
-		if(link.charAt(0) == '#' || link.equals("/") || fileType.equals(".jpg") 
+		if(!link.isEmpty() && link.charAt(0) == '#' || link.equals("/") || fileType.equals(".jpg") 
 				|| fileType.equals(".png") || fileType.equals(".gif") 
 				|| fileType.equals(".pdf") || link.contains("&") /// Do we avaoid space and ampersands?
 				|| link.contains(" ")) {
@@ -158,7 +155,7 @@ class apples{
 
 	//Normalizes the link
 	public static String normalizeURL(String link, String currentPath) { 
-		if(link.charAt(0) == '/') {
+		if(!link.isEmpty() && link.charAt(0) == '/') {
 			try {
 				URL url = new URL(currentPath); //Havet to remove the http
 				return url.getProtocol() + "://" + url.getHost() + link;
@@ -186,14 +183,13 @@ class apples{
     //Get links
     public static void getLinks(String url, int currentHopLevel) {
         try {
-            Document doc = Jsoup.connect(url).get(); //This is the same as the one in download. Find a way to get rid of this.You can do it from the downloaded files.
+            Document doc = Jsoup.connect(url).get(); 
             Elements links = doc.select("a[href]");
             for(Element link : links) {
 				String tmp = link.attr("href");
 				//Clean and Normalize URL
 				String normalizedURL = normalizeURL(tmp, url);
-				if(!isDiscarded(tmp) && !map.containsKey(normalizedURL) && hasValidProtocol(normalizedURL)) {
- 					//frontier.add(new Tuple<String, Integer>(normalizedURL, currentHopLevel+1));
+				if(RobotExclusionUtil.robotsShouldFollow(normalizedURL) && !isDiscarded(tmp) && !map.containsKey(normalizedURL) && hasValidProtocol(normalizedURL)) {
 					useFrontier(1, new Tuple<String, Integer>(normalizedURL, currentHopLevel+1));
 				}
             }
@@ -206,20 +202,21 @@ class apples{
     }
 
 
-    //Download Webpage. This code is an altered version of the code the TA gave provided in his slides.//////////////////FIX
+    //Download Webpage. This code is an altered version of the code the TA gave provided in his slides.
     public static void downloadFile(String url, long fileNum) throws IOException, 
         MalformedURLException {
 		
 		try {
 			Connection connection = Jsoup.connect(url);
+            connection.userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1");
+            connection.setConnectTimeout(5000);
 			Document doc = connection.get();
 			String htmlContent = doc.html();
-			String fileName = "file" + fileNum + ".dld"; // url names?////////////////////////////////////////////////////////////////////////////
+			String fileName = "file" + fileNum + ".dld"; 
 			BufferedWriter writer = new BufferedWriter(new FileWriter(directory + "\\" + fileName));
 			writer.write(htmlContent);
 			writer.close();
 
-			//System.out.println(htmlContent);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -234,7 +231,6 @@ class apples{
 		switch(action) {
 			case 0 : //Pop()
 			{	
-				frontierLock = false;//Done with frontier. Allow other threads to use frontier.
 				if(frontier.peek() != null)
 				{	
 					tmp = frontier.remove();
@@ -252,7 +248,6 @@ class apples{
 			}
 			case 2: //Peek()
 			{
-				frontierLock = true;//Don't allow other threads to change frontier until current thread pops
 				tmp = frontier.peek();
 			}
 			default: 
@@ -306,9 +301,6 @@ class apples{
 		new Thread(thread).start();
 		new Thread(thread2).start();
 		new Thread(thread3).start();
-		//Runnable thread2 = new MyThread();
-		//new Thread(thread).start();
-
 	}
 
 }

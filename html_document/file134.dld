@@ -1,0 +1,309 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Bourns College of Engineering: Graduate Programs</title> 
+  <meta http-equiv="last-modified" content="2015-01-09"> 
+  <meta name="version" content="2.62 2.123 "> 
+  <!-- 02/09/15 19:44:21 02/09/15 20:35:44 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to BCOE news via RSS" href="http://www.engr.ucr.edu/rss/news.xml"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.engr.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/masthead_overlay.png" alt=""> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="http://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+     </form> 
+     <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="masthead"> 
+   <h1><a href="http://www.engr.ucr.edu/"><span class="printonly">Bourns College of Engineering</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">Social Media Links:</p> 
+   <ul class="l_breadcrumb_links"> 
+    <li><a id="footer_link_flickr" href="http://www.flickr.com/photos/bournscollege/" title="Visit BCOE’s Flickr gallery (external site: Flickr)"><span class="accessibility">Visit BCOE’s Flickr gallery</span></a></li> 
+    <li><a id="footer_link_facebook" href="http://www.facebook.com/pages/Riverside-CA/Bourns-College-of-Engineering/118503574842498" title="Visit BCOE’s Facebook page (external site: Facebook)"><span class="accessibility">Visit BCOE’s Facebook page</span></a></li> 
+    <li><a id="footer_link_twitter" href="http://twitter.com/bournscollege" title="Follow BCOE on Twitter (external site: Twitter)"><span class="accessibility">Follow BCOE on Twitter</span></a></li> 
+    <li><a id="footer_link_youtube" href="http://www.youtube.com/BournsCollege" title="Visit BCOE’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit BCOE’s YouTube channel</span></a></li> 
+    <li><a id="footer_link_linkedin" href="http://www.linkedin.com/groups?gid=3185912" title="Join the Linkedin alumni group (external site: Linkedin)"><span class="accessibility">Join the Linkedin alumni group</span></a></li> 
+    <li><a id="footer_link_rss" href="http://www.engr.ucr.edu/rss/news.xml" title="Subscribe to BCOE news via RSS"><span class="accessibility">Subscribe to BCOE news via RSS</span></a></li> 
+   </ul> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li> 
+    <li class="lastitem">Graduate Programs</li> 
+   </ul> 
+  </div> 
+  <div class="l_contentwrapper">
+   <div class="pagewrapper"> 
+    <hr> 
+    <!-- Start Content (Navigation and Content columns) --> 
+    <div id="content"> 
+     <h2>Graduate Programs</h2> 
+     <!-- Start Sidebar --> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li><a href="/" title="BCOE Home">BCOE Home<br><span>Bourns College of Engineering</span></a></li>
+        <li><a href="/about/" title="The Bourns Difference">The Bourns Difference</a></li>
+        <li><a href="/academics/" title="Academic Programs">Academic Programs</a></li>
+        <li><a href="/research/" title="Research">Research</a></li>
+        <li><a href="/employment.html" title="Employment">Employment</a></li>
+        <li><a href="/faculty/" title="The Faculty">The Faculty</a></li>
+        <li><a href="/undergrads/" title="Prospective Undergraduate Students">Prospective Undergraduate Students</a></li>
+        <li><a href="http://student.engr.ucr.edu/" title="Current Undergraduate Students">Current Undergraduate Students</a></li>
+        <li class="currentpage"><h3><dfn>Current page is: </dfn>Graduate Programs</h3></li>
+        <li><a href="/alumni/" title="Bourns Alumni">Bourns Alumni</a></li>
+        <li><a href="/giving/" title="Giving">Giving</a></li>
+        <li><a href="/industry/" title="Corporate Partners Program">Corporate Partners Program</a></li>
+        <li><a href="/news/" title="News">News</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <hr> 
+     <!-- End Sidebar --> 
+     <!-- Start Content Area --> 
+     <div id="main"> 
+      <div class="column23"> 
+       <p><img title="graduate program" src="/images/gradhome.jpg" alt="graduate program" width="460" height="137"></p> 
+       <a href="https://ucr.askadmissions.net/emtinterestpage.aspx?ip=graduatestudies"><img src="/grad/request_1.png" alt=""></a>&nbsp;
+       <center> 
+        <h3><strong><span style="font-size: large;">Graduate Admissions and Information</span></strong></h3> 
+       </center> 
+       <p><span><strong>Considering graduate studies in engineering? The Bourns College of Engineering (BCOE) offers M.S. and Ph.D. degrees that are designed to deepen student understanding of fundamental principles and applications in their chosen field of study. The following program links will direct you to information about specific BCOE graduate degree programs.</strong></span></p> 
+       <ul> 
+        <li><a href="http://www.bioeng.ucr.edu/education/graduate/">Bioengineering (M.S., Ph.D.)</a></li> 
+        <li><a href="http://www.cee.ucr.edu/graduate/">Chemical and Environmental Engineering (M.S., Ph.D.)</a><strong><br></strong></li> 
+        <li><a href="http://cen.ucr.edu/grad/admission/">Computer Engineering (M.S.)</a></li> 
+        <li><a href="http://www1.cs.ucr.edu/education/graduate/">Computer Science and Engineering (M.S, Ph.D.)</a></li> 
+        <li><a href="http://www.ee.ucr.edu/prospective-students/">Electrical Engineering (M.S, Ph.D.)</a></li> 
+        <li><a href="http://cmsmse.engr.ucr.edu/prospectivegrads_welcomeoverview.html">Material Science and Engineering (M.S., Ph.D.)</a></li> 
+        <li><a href="http://www.me.ucr.edu/graduate/">Mechanical Engineering (M.S., Ph.D.)</a></li> 
+        <li><strong>New!</strong> <a href="http://www.msol.ucr.edu/">Masters of Science in Engineering Online</a> (designed for employed professionals)</li> 
+       </ul> 
+       <h3><strong>Applications to all UCR programs are conducted through the <a href="https://gradsis.ucr.edu/gradsis/GSIS_LOGIN.Login_student">Online Application for Graduate Admission</a>. Click on the link to apply!</strong></h3> 
+       <h6><span style="font-family: 'Arial';"><span style="font-size: medium;"><strong><br>Program Contacts</strong></span></span></h6> 
+       <table style="height: 0px; width: 680px;" border="1" rules="all" cellspacing="0" cellpadding="0">
+        <colgroup>
+         <col width="140">
+        </colgroup> 
+        <colgroup>
+         <col width="110">
+        </colgroup> 
+        <colgroup>
+         <col width="100">
+        </colgroup> 
+        <tbody> 
+         <tr> 
+          <td height="20"><span style="font-size: small;">Program</span></td> 
+          <td height="20"><span style="font-size: small;">Staff Contact</span></td> 
+          <td><span style="font-size: small;">Faculty Graduate Advisor</span></td> 
+         </tr> 
+         <tr> 
+          <td height="20"><span style="font-size: small;">Bioengineering</span></td> 
+          <td height="20"><span style="font-size: small;">Reneisha Wilkes&nbsp;<br><span style="line-height: 1.5;"><a href="mailto:rwilkes@engr.ucr.edu">rwilkes@engr.ucr.edu&nbsp;<br></a></span><span style="line-height: 1.5;">(951) 827-4303</span></span></td> 
+          <td height="20"><span style="font-size: small;">Professor Jiayu&nbsp;<span style="font-size: 1em; line-height: 1.5em;">Liao<br></span><a href="mailto:jliao@engr.ucr.edu">jliao@engr.ucr.edu<br></a>(951) 827-6240</span></td> 
+         </tr> 
+         <tr> 
+          <td height="20"><span style="font-size: small;">Chemical and Environmental Engineering</span></td> 
+          <td height="20"><span style="font-size: small;">Kimberly Claffey<span style="font-size: 1em; line-height: 1.5em;">&nbsp;</span><span style="font-size: 1em; line-height: 1.5em;"><br><a href="mailto:gradcee@engr.ucr.edu">gradcee@engr.ucr.edu&nbsp;</a></span><span style="font-size: 1em; line-height: 1.5em;"><a href="mailto:gradcee@engr.ucr.edu"><br></a>(951) 827-2859</span></span></td> 
+          <td height="20"> <p><span style="font-size: small;">Professor&nbsp;Ashok Mulchandani<br></span><span style="font-size: small;"><span style="font-size: small;"><a href="mailto:adani@engr.ucr.edu">adani@engr.ucr.edu<br></a></span></span><span style="font-size: small;">(951) 827-6419&nbsp;</span></p> </td> 
+         </tr> 
+         <tr> 
+          <td height="20"><span style="font-size: small;">Computer Engineering</span></td> 
+          <td height="20"><span style="font-size: small;">Alejandra Torres<br><a href="mailto:alejandra@engr.ucr.edu">alejandra@engr.ucr.edu&nbsp;<br></a>(951) 827-3383&nbsp;</span></td> 
+          <td height="20"><span style="font-size: small;">Professor Sheldon Tan<br><a href="mailto:stan@ee.ucr.edu">stan@ee.ucr.edu<br></a>(951) 827-5143&nbsp;</span></td> 
+         </tr> 
+         <tr> 
+          <td height="20"><span style="font-size: small;">Computer Science and Engineering</span></td> 
+          <td height="20"><span style="font-size: small;">Amy Ricks<br><a href="mailto:gradadmission@cs.ucr.edu">gradadmission@cs.ucr.edu<br></a>(951) 827-2903</span></td> 
+          <td height="20"><span style="font-size: small;">Professor Tao Jiang<br><a href="mailto:jiang@cs.ucr.edu">jiang@cs.ucr.edu<br></a>(951) 827-2991&nbsp;</span></td> 
+         </tr> 
+         <tr> 
+          <td height="20"><span style="font-size: small;">Electrical and Computer Engineering</span></td> 
+          <td height="20"><span style="font-size: small;">Adrienne Thomas<br><a href="mailto:grad-adm@ee.ucr.edu">grad-adm@ee.ucr.edu<br></a>(951) 827-2484</span></td> 
+          <td height="20"><span style="font-size: small;">Anastasios Mourikis, Associate Professor<br><a href="mailto:mourikis@ee.ucr.edu"><span style="font-size: 1em; line-height: 1.5em;">mourikis@ee.ucr.edu</span></a><br>(951) 827-6501&nbsp;</span></td> 
+         </tr> 
+         <tr> 
+          <td height="20"><span style="font-size: small;">Materials Science and Engineering&nbsp;</span></td> 
+          <td height="10"><span style="font-size: small;" data-mce-mark="1">Alejandra Torres<br><a href="mailto:alejandra@engr.ucr.edu">alejandra@engr.ucr.edu</a><br>951-827-3383<br><a href="mailto:mse-program@engr.ucr.edu"><br></a></span></td> 
+          <td height="20"><span style="font-size: small;" data-mce-mark="1">Professor Cengiz Ozkan<br><a href="mailto:cozkan@engr.ucr.edu">cozkan@engr.ucr.edu<br></a>(951) 827-5016&nbsp;</span></td> 
+         </tr> 
+         <tr> 
+          <td height="20"><span style="font-size: small;">Mechanical Engineering&nbsp;</span></td> 
+          <td height="20"><span style="font-size: small;">Paul Talavera<br><a href="mailto:me-gradprogram@engr.ucr.edu">me-gradprogram@engr.ucr.edu<br></a>(951)&nbsp;827-2115</span></td> 
+          <td height="20"><span style="font-size: small;">Professor Marko Princevac<br><a href="mailto:marko@engr.ucr.edu">marko@engr.ucr.edu<br></a>(951) 827-2445</span></td> 
+         </tr> 
+         <tr> 
+          <td height="20"><span style="font-size: small;">Masters of Science Online&nbsp;</span></td> 
+          <td height="20"><span style="font-size: small;">Paul Talavera<br><a href="mailto:msol@engr.ucr.edu">msol@engr.ucr.edu<br></a>(951) 827-2115</span></td> 
+          <td height="20"><span style="font-size: small;">Professor Kambiz Vafai<br><a href="mailto:vafai@engr.ucr.edu">vafai@engr.ucr.edu<br></a>(951) 827-2135&nbsp;</span></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> 
+      <div class="column3R"> 
+       <div id="utility"> 
+        <h3><img src="http://www.me.ucr.edu/graduate/graduatelinks.jpg" alt="Quick Links" width="220" height="35"></h3> 
+        <ul class="sect_menu"> 
+         <li><a href="http://www.graddiv.ucr.edu/">UCR Graduate Division</a></li> 
+         <li><a href="http://gradsis.ucr.edu">Graduate Program Application</a></li> 
+         <li><a href="/faculty/">Bourns Faculty</a></li> 
+         <li><a href="/grad/outreach_recruitment.html">Outreach and Recruitment</a></li> 
+         <li><a href="/research/">Bourns Research</a></li> 
+         <li><a href="/research/centers.html">Research Centers</a></li> 
+         <li><a href="/research/facilities.html">Research Facilities</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- End Content Area --> 
+     <div class="clear"></div> 
+    </div> 
+    <!-- End Content --> 
+   </div>
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column3"> 
+      <h3>College Information</h3> 
+      <address><strong>Bourns College of Engineering</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">446 Winston Chung Hall</a><br> <br> Tel: (951) 827-5190<br> Fax: (951) 827-3188<br> E-mail: <a href="mailto:collegeinfo@engr.ucr.edu?subject=Website%20Inquiry">collegeinfo@engr.ucr.edu</a></address> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a title="UCR Graduate Division" href="http://www.graddiv.ucr.edu/" target="_blank">UCR Graduate Division</a></li> 
+       <li><a title="Graduate Student Affairs" href="/grad/contacts.html">Bourns Graduate Student Affairs </a></li> 
+       <li><a title="academic departments" href="/acaddepts.html">Academic Departments<br></a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/images/design6/footer_building.jpg" alt="" width="120" height="87"> <strong>Engineering Times Newsletter</strong><br> <br> <a href="/news/e-newsletter.html">Sign up to receive the college's e-newsletter <em>Engineering Times</em></a>. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.engr.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01002&amp;site=cmsengr&amp;path=%2Fgrad%2Findex.html">Last modified: 2015-Jan-09</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.003972 seconds using 1.25 MiB of memory. -->   
+ </body>
+</html>

@@ -1,0 +1,501 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>UC Riverside: Campus Services</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2015-01-29"> 
+  <meta name="version" content="2.67 2.160 "> 
+  <!-- 02/09/15 20:39:52 02/09/15 21:30:43 --> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all"> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="/min/g=js2"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <!-- Google Universal Analytics --> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3051875-1', 'ucr.edu');
+  ga('send', 'pageview');
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="//www.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead04.jpg);"> 
+   <h1><a href="http://www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="https://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="https://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a class="active" id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="//www.ucr.edu/">UC Riverside</a> &gt;</li> 
+    <li class="lastitem">Campus Services</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Campus Services</h2> 
+    <a name="main"></a> 
+    <div class="column2 screenonly">
+      &nbsp; 
+     <div class="nav_fixed"> 
+      <ul class="index_nav"> 
+       <li><a href="#A">A</a></li> 
+       <li><a href="#B">B</a></li> 
+       <li><a href="#C">C</a></li> 
+       <li><a href="#D">D</a></li> 
+       <li><a href="#E">E</a></li> 
+       <li><a href="#F">F</a></li> 
+       <li><a href="#G">G</a></li> 
+       <li><a href="#H">H</a></li> 
+       <li><a href="#I">I</a></li> 
+       <li><a href="#J">J</a></li> 
+       <li><a href="#L">L</a></li> 
+       <li><a href="#M">M</a></li> 
+       <li><a href="#N">N</a></li> 
+       <li><a href="#O">O</a></li> 
+       <li><a href="#P">P</a></li> 
+       <li><a href="#R">R</a></li> 
+       <li><a href="#S">S</a></li> 
+       <li><a href="#T">T</a></li> 
+       <li><a href="#U">U</a></li> 
+       <li><a href="#V">V</a></li> 
+       <li><a href="#W">W</a></li> 
+       <li><a href="#Y">Y</a></li> 
+      </ul> 
+      <div class="clear"></div> 
+      <div class="nav_compact"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li><a href="/alpha.html">A–Z Listing</a></li> 
+        <li><a href="/colleges.html">Colleges &amp; Schools</a></li> 
+        <li><a href="/dept.html">Departments &amp; Programs</a></li> 
+        <li><a href="/research.html">Research Resources</a></li> 
+        <li class="currentpage"><strong><dfn>Current page is: </dfn>Campus Services</strong></li> 
+        <li><a href="/community.html">Community Resources</a></li> 
+       </ul> 
+      </div> 
+      <p class="top_page"><a href="#content">Top of Page</a></p> 
+     </div> 
+    </div> 
+    <div class="column2"> 
+     <h3 class="index_label" id="A">A</h3> 
+     <ul class="index"> 
+      <li><a href="http://housing.ucr.edu/">Aberdeen-Inverness </a></li> 
+      <li><a href="http://cnc.ucr.edu/instruc_tech_group.html ">Academic Computing</a></li> 
+      <li><a href="http://cnc.ucr.edu/admin_computing.html">Academic Information Systems</a></li> 
+      <li><a href="http://efileinfo.ucr.edu/">Academic Personnel eFile System</a></li> 
+      <li><a href="http://cnc.ucr.edu/aprecruit/">Academic Personnel Recruit System (AP Recruit)</a></li> 
+      <li><a href="http://arc.ucr.edu/">Academic Resource Center (ARC)</a></li> 
+      <li><a href="http://www.accounting.ucr.edu">Accounting Services</a></li> 
+      <li><a href="http://www.accounting.ucr.edu">Accounts Payable </a></li> 
+      <li><a href="http://asp.ucr.edu/">African Student Programs</a></li> 
+      <li><a href="http://cnc.ucr.edu/aprecruit/">AP Recruit (Academic Personnel Recruit System)</a></li> 
+      <li><a href="http://bearlogic.ucr.edu/">Apple Authorized Campus Store </a></li> 
+      <li><a href="http://arc.ucr.edu/">ARC (Academic Resource Center) </a></li> 
+      <li><a href="http://apsp.ucr.edu/">Asian Pacific Student Programs</a></li> 
+     </ul> 
+     <h3 class="index_label" id="B">B</h3> 
+     <ul class="index"> 
+      <li><a href="http://housing.ucr.edu/">Bannockburn Village </a></li> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Barn (Restaurant)</a></li> 
+      <li><a href="http://bearlogic.ucr.edu/">Bear Logic (Your Campus Computer Store)</a></li> 
+      <li><a href="http://www.ucrcampusstore.ucr.edu">Bookstore </a></li> 
+      <li><a href="http://pplant.ucr.edu/building/building.html">Building &amp; Special Services</a></li> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Bytes (restaurant) </a></li> 
+     </ul> 
+     <h3 class="index_label" id="C">C</h3> 
+     <ul class="index"> 
+      <li><a href="http://plantbiology.ucr.edu/campuselectronics.html">Campus Electronics Services</a></li> 
+      <li><a href="http://wrc.ucr.edu/escortservices/Pages/default.aspx">Campus Escort</a></li> 
+      <li><a href="http://campushealth.ucr.edu/Pages/default.aspx">Campus Health Center</a></li> 
+      <li><a href="http://police.ucr.edu/">Campus Police Department</a></li> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Campus Restaurants</a></li> 
+      <li><a href="http://admissions.ucr.edu/VisitUCR">Campus Tours</a></li> 
+      <li><a href="http://vet.ucr.edu/">Campus Veterinarian</a></li> 
+      <li><a href="http://www.ucrcampusstore.ucr.edu">CampusStore</a></li> 
+      <li><a href="http://housing.ucr.edu/">Canyon Crest Family Student Housing</a></li> 
+      <li><a href="http://www.careers.ucr.edu">Career Center</a></li> 
+      <li><a href="http://dining.ucr.edu/catering/citrusgrovecatering.html">Catering</a></li> 
+      <li><a href="http://creativedesign.ucr.edu">CDS (Creative Design Services)</a></li> 
+      <li><a href="http://www.specialservices.ucr.edu">Certification of Disability Status</a></li> 
+      <li><a href="http://acif.ucr.edu/mspec/">Chemical Analyses </a></li> 
+      <li><a href="http://csp.ucr.edu/Pages/default.aspx">Chicano Student Programs</a></li> 
+      <li><a href="http://cdc.ucr.edu/">Child Care Center </a></li> 
+      <li><a href="http://cdc.ucr.edu/">Child Development Center</a></li> 
+      <li><a href="http://dining.ucr.edu/catering/citrusgrovecatering.html">Citrus Grove Catering</a></li> 
+      <li><a href="http://iclassroom.ucr.edu/">Classroom Technology</a></li> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Coffee Bean &amp; Tea Leaf (restaurant) </a></li> 
+      <li><a href="http://www.highlanderunionbuilding.ucr.edu/pages/default.aspx">Commons </a></li> 
+      <li><a href="http://bearlogic.ucr.edu/">CompUCR (formerly)</a></li> 
+      <li><a href="http://cnc.ucr.edu/scs/complabs.html">Computer Labs</a></li> 
+      <li><a href="http://bearlogic.ucr.edu/">Computer Store </a></li> 
+      <li><a href="http://cnc.ucr.edu">Computing &amp; Communications</a></li> 
+      <li><a href="http://cnc.ucr.edu/instruc_tech_group.html ">Computing, Academic</a></li> 
+      <li><a href="http://creativedesign.ucr.edu">Creative Design Services</a></li> 
+     </ul> 
+     <h3 class="index_label" id="D">D</h3> 
+     <ul class="index"> 
+      <li><a href="http://cdc.ucr.edu/">Daycare Center</a></li> 
+      <li><a href="http://dining.ucr.edu/">Dining Services</a></li> 
+      <li><a href="http://enterprisedirectory.ucr.edu/phone/tel_search.show">Directory, Staff </a></li> 
+      <li><a href="http://hr.ucr.edu/?content=ProgramsAndServices/disabilitymanagement/AboutDisabilityManagement.htm">Disability Management</a></li> 
+      <li><a href="http://www.specialservices.ucr.edu">Disability Services </a></li> 
+      <li><a href="http://mediaresources.ucr.edu">Distance Learning </a></li> 
+     </ul> 
+     <h3 class="index_label" id="E">E</h3> 
+     <ul class="index"> 
+      <li><a href="http://cnc.ucr.edu/email.html">E-mail Services</a></li> 
+      <li><a href="http://efileinfo.ucr.edu/">eFile (Academic Personnel eFile System)</a></li> 
+      <li><a href="http://cnc.ucr.edu/ens/">Emergency Notification System</a></li> 
+      <li><a href="http://careers.ucr.edu/jobs/oci/Pages/OnCampusInterviews.aspx">Employment, Student </a></li> 
+      <li><a href="http://cnc.ucr.edu/ens/">ENS (Emergency Notification System)</a></li> 
+      <li><a href="http://enterprisedirectory.ucr.edu/phone/tel_search.show">Enterprise Directory</a></li> 
+      <li><a href="http://iviews.ucr.edu/iviews/iviews_eacs.main">Enterprise Workplace Systems (iViews)</a></li> 
+      <li><a href="http://matmgmt.ucr.edu/equipment/equipment.html">Equipment Management</a></li> 
+      <li><a href="http://wrc.ucr.edu/escortservices/Pages/default.aspx">Escort Service (Campus Safety)</a></li> 
+      <li><a href="https://post.ucr.edu/owa">Exchange E-mail</a></li> 
+      <li><a href="http://strategiccommunications.ucr.edu">External Relations </a></li> 
+     </ul> 
+     <h3 class="index_label" id="F">F</h3> 
+     <ul class="index"> 
+      <li><a href="http://pplant.ucr.edu/facilities/facilities.html">Facilities Maintenance</a></li> 
+      <li><a href="http://fms.ucr.edu/">Facilities Management System</a></li> 
+      <li><a href="http://cnc.ucr.edu/faculty.html">Faculty Computer Support</a></li> 
+      <li><a href="http://housing.ucr.edu/">Falkirk Student Apartments </a></li> 
+      <li><a href="http://fleet.ucr.edu">Fleet Services</a></li> 
+      <li><a href="http://fms.ucr.edu/">FMS</a></li> 
+      <li><a href="http://dining.ucr.edu/">Food Services</a></li> 
+     </ul> 
+     <h3 class="index_label" id="G">G</h3> 
+     <ul class="index"> 
+      <li><a href="http://www.wrc.ucr.edu">GEARS </a></li> 
+      <li><a href="http://www.wrc.ucr.edu">Gender Education &amp; Resource Services</a></li> 
+      <li><a href="http://housing.ucr.edu/">Glen Mor Student Apartments </a></li> 
+      <li><a href="http://arc.ucr.edu/">Grad Track Program </a></li> 
+      <li><a href="http://arc.ucr.edu/">Graduate School and Professional School Exam Preparation Seminars </a></li> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Grill at Latitude 55 (restaurant) </a></li> 
+     </ul> 
+     <h3 class="index_label" id="H">H</h3> 
+     <ul class="index"> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Habanero's (restaurant) </a></li> 
+      <li><a href="http://www.highlanderunionbuilding.ucr.edu/pages/default.aspx">Highlander Union (HUB)</a></li> 
+      <li><a href="http://housing.ucr.edu/">Housing Services</a></li> 
+     </ul> 
+     <h3 class="index_label" id="I">I</h3> 
+     <ul class="index"> 
+      <li><a href="http://www.ucrcard.ucr.edu">ID</a></li> 
+      <li><a href="http://cnc.ucr.edu/admin_computing.html">Institutional Computing</a></li> 
+      <li><a href="http://internationalcenter.ucr.edu/">International Education Center (now the ISRC) </a></li> 
+      <li><a href="http://internationalscholars.ucr.edu/">International Scholar Center</a></li> 
+      <li><a href="http://internationalcenter.ucr.edu/">International Student Resource Center</a></li> 
+      <li><a href="http://housing.ucr.edu/">International Village </a></li> 
+      <li><a href="http://internationalcenter.ucr.edu/">ISRC (International Student Resource Center)</a></li> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Ivan's @ Hinderaker (restaurant) </a></li> 
+      <li><a href="http://iviews.ucr.edu/iviews/iviews_eacs.main">iViews Enterprise Workplace Systems</a></li> 
+     </ul> 
+     <h3 class="index_label" id="J">J</h3> 
+     <ul class="index"> 
+      <li><a href="http://careers.ucr.edu/jobs/oci/Pages/OnCampusInterviews.aspx">Jobs, Student</a></li> 
+     </ul> 
+     <h3 class="index_label" id="L">L</h3> 
+     <ul class="index"> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">La Fiamma (restaurant) </a></li> 
+      <li><a href="http://pplant.ucr.edu/landscape/landscape.html">Landscape &amp; Refuse Services</a></li> 
+      <li><a href="http://plantbiology.ucr.edu/campuselectronics.html">Laser Printer Repair </a></li> 
+      <li><a href="http://arc.ucr.edu/">Learning Center</a></li> 
+      <li><a href="http://ucrlearning.ucr.edu/">Learning Center </a></li> 
+      <li><a href="http://ucrlearning.ucr.edu/">Learning Management System (LMS) </a></li> 
+      <li><a href="http://www.out.ucr.edu">Lesbian Gay Bisexual Transgender Resource Center</a></li> 
+      <li><a href="http://careers.ucr.edu/gradSchoolPortal/GradLetterofRef/Pages/GraduateSchoolLettersofReference.aspx">Letters of Reference File Service</a></li> 
+      <li><a href="http://www.out.ucr.edu">LGBTRC (Lesbian Gay Bisexual Transgender Resource Center)</a></li> 
+      <li><a href="http://library.ucr.edu/">Libraries</a></li> 
+      <li><a href="http://ucrlearning.ucr.edu/">LMS (Learning Management System)</a></li> 
+      <li><a href="http://housing.ucr.edu/">Lothian </a></li> 
+     </ul> 
+    </div> 
+    <div class="column2R"> 
+     <h3 class="index_label" id="M">M</h3> 
+     <ul class="index"> 
+      <li><a href="http://ucrmail.ucr.edu">Mail Services</a></li> 
+      <li><a href="http://marketing.ucr.edu">Marketing</a></li> 
+      <li><a href="http://acif.ucr.edu/mspec/">Mass Spec Service</a></li> 
+      <li><a href="http://acif.ucr.edu/mspec/">Mass Spectrometry Facility</a></li> 
+      <li><a href="http://www.matmgmt.ucr.edu">Materiel Management</a></li> 
+      <li><a href="http://arc.ucr.edu/">Math Program </a></li> 
+      <li><a href="http://mediarelations.ucr.edu">Media Relations</a></li> 
+      <li><a href="http://mediaresources.ucr.edu">Media Resources</a></li> 
+      <li><a href="http://deanofstudents.ucr.edu/equityDiversity/Pages/Mesc/Default.aspx">MESC (Middle Eastern Student Center)</a></li> 
+      <li><a href="http://cnc.ucr.edu/msg.html">Microcomputer Support Group</a></li> 
+      <li><a href="http://deanofstudents.ucr.edu/equityDiversity/Pages/Mesc/Default.aspx">Middle Eastern Student Center (MESC)</a></li> 
+      <li><a href="http://mediaresources.ucr.edu">Multimedia Technologies</a></li> 
+     </ul> 
+     <h3 class="index_label" id="N">N</h3> 
+     <ul class="index"> 
+      <li><a href="http://nasp.ucr.edu/Pages/default.aspx">Native American Student Programs</a></li> 
+      <li><a href="http://strategiccommunications.ucr.edu">News Bureau</a></li> 
+     </ul> 
+     <h3 class="index_label" id="O">O</h3> 
+     <ul class="index"> 
+      <li><a href="http://careers.ucr.edu/jobs/oci/Pages/OnCampusInterviews.aspx">OCI (On-Campus Interview Program) </a></li> 
+      <li><a href="http://strategiccommunications.ucr.edu">Office of Strategic Communications</a></li> 
+      <li><a href="http://vet.ucr.edu/">Office of the Campus Veterinarian</a></li> 
+      <li><a href="http://ombudsperson.ucr.edu/">Office of the Ombudsperson</a></li> 
+      <li><a href="http://ombudsperson.ucr.edu/">Ombudsman</a></li> 
+      <li><a href="http://careers.ucr.edu/jobs/oci/Pages/OnCampusInterviews.aspx">On-Campus Interview Program</a></li> 
+      <li><a href="https://post.ucr.edu/owa">Outlook Web Access </a></li> 
+      <li><a href="https://post.ucr.edu/owa">OWA</a></li> 
+     </ul> 
+     <h3 class="index_label" id="P">P</h3> 
+     <ul class="index"> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Panda Express (restaurant) </a></li> 
+      <li><a href="http://parking.ucr.edu/">Parking Services </a></li> 
+      <li><a href="http://www.accounting.ucr.edu">Payroll Office </a></li> 
+      <li><a href="http://plantbiology.ucr.edu/campuselectronics.html">PC Upgrades</a></li> 
+      <li><a href="http://arc.ucr.edu/">Peer Counseling </a></li> 
+      <li><a href="http://housing.ucr.edu/">Pentland Hills </a></li> 
+      <li><a href="http://enterprisedirectory.ucr.edu/phone/tel_search.show">Phonebook </a></li> 
+      <li><a href="http://www.pplant.ucr.edu">Physical Plant</a></li> 
+      <li><a href="http://arc.ucr.edu/">Placement Testing </a></li> 
+      <li><a href="http://housing.ucr.edu/">Plaza Apartments </a></li> 
+      <li><a href="http://police.ucr.edu/">Police Department</a></li> 
+      <li><a href="http://printing.ucr.edu">Printing &amp; Reprographics</a></li> 
+      <li><a href="http://strategiccommunications.ucr.edu">Public Relations </a></li> 
+      <li><a href="http://www.purchasing.ucr.edu">Purchasing</a></li> 
+     </ul> 
+     <h3 class="index_label" id="R">R</h3> 
+     <ul class="index"> 
+      <li><a href="http://rspace.ucr.edu/">R'Space (Staff Portal)</a></li> 
+      <li><a href="http://rweb.ucr.edu/">R'Web (Student Portal)</a></li> 
+      <li><a href="http://plantbiology.ucr.edu/campuselectronics.html">Radiation Meter Calibration </a></li> 
+      <li><a href="http://res.ucr.edu/">Real Estate Services</a></li> 
+      <li><a href="http://rss.ucr.edu/">Really Simple Syndication</a></li> 
+      <li><a href="http://matmgmt.ucr.edu/shipping/shipping.html">Receiving &amp; Shipping</a></li> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Restaurant: The Barn</a></li> 
+      <li><a href="http://rss.ucr.edu/">RSS</a></li> 
+     </ul> 
+     <h3 class="index_label" id="S">S</h3> 
+     <ul class="index"> 
+      <li><a href="http://admissions.ucr.edu/VisitUCR">Self-Guided Tours </a></li> 
+      <li><a href="http://sexualviolence.ucr.edu/">Sexual Violence Prevention &amp; Response</a></li> 
+      <li><a href="http://www.sis-training.ucr.edu/">SIS Training and Access</a></li> 
+      <li><a href="http://enterprisedirectory.ucr.edu/phone/tel_search.show">Staff Directory </a></li> 
+      <li><a href="http://housing.ucr.edu/">Stonehaven Student Apartments </a></li> 
+      <li><a href="http://matmgmt.ucr.edu/storehouse.html">Storehouse</a></li> 
+      <li><a href="http://strategiccommunications.ucr.edu">Strategic Communications Office </a></li> 
+      <li><a href="http://cnc.ucr.edu/scs/">Student Computing Services</a></li> 
+      <li><a href="http://campushealth.ucr.edu/Pages/default.aspx">Student Health Services</a></li> 
+      <li><a href="http://www.sis-training.ucr.edu/">Student Information Systems</a></li> 
+      <li><a href="http://rweb.ucr.edu/">Student Portal (R'Web)</a></li> 
+      <li><a href="http://www.specialservices.ucr.edu">Student Special Services</a></li> 
+      <li><a href="http://www.specialservices.ucr.edu">Students with Disabilities </a></li> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Subway (resaturant) </a></li> 
+      <li><a href="http://dining.ucr.edu/campusrestaurants/thebarn.html">Sushi by Panda Express (restaurant)</a></li> 
+      <li><a href="http://sustainability.ucr.edu/">Sustainability</a></li> 
+     </ul> 
+     <h3 class="index_label" id="T">T</h3> 
+     <ul class="index"> 
+      <li><a href="http://parking.ucr.edu/">TAPS (Transportation &amp; Parking Services) </a></li> 
+      <li><a href="http://enterprisedirectory.ucr.edu/phone/tel_search.show">Telephone Directory</a></li> 
+      <li><a href="http://videoproduction.ucr.edu/">Television Studio</a></li> 
+      <li><a href="http://www.theatrefacilitiesunit.ucr.edu">Theatre Facilities Unit</a></li> 
+      <li><a href="http://admissions.ucr.edu/VisitUCR">Tours of Campus</a></li> 
+      <li><a href="http://admissions.ucr.edu/VisitUCR/virtualTours">Tours, Virtual</a></li> 
+      <li><a href="http://parking.ucr.edu/">Transportation &amp; Parking Services (TAPS)</a></li> 
+      <li><a href="http://matmgmt.ucr.edu/travel.html">Travel Information</a></li> 
+      <li><a href="http://www.accounting.ucr.edu">Travel Procedures</a></li> 
+      <li><a href="http://arc.ucr.edu/">Tutorial Assistance </a></li> 
+     </ul> 
+     <h3 class="index_label" id="U">U</h3> 
+     <ul class="index"> 
+      <li><a href="http://ucrlearning.ucr.edu/">UC Learning Center</a></li> 
+      <li><a href="http://www.ucrcard.ucr.edu">UCR Card</a></li> 
+      <li><a href="http://ucrlearning.ucr.edu/">UCR Learning Management System (LMS) </a></li> 
+      <li><a href="http://library.ucr.edu/">UCR Library</a></li> 
+      <li><a href="http://www.ucrcampusstore.ucr.edu">UCRCampusStore</a></li> 
+      <li><a href="http://ue.ucr.edu/">Undergraduate Education</a></li> 
+      <li><a href="http://www.highlanderunionbuilding.ucr.edu/pages/default.aspx">University Commons</a></li> 
+     </ul> 
+     <h3 class="index_label" id="V">V</h3> 
+     <ul class="index"> 
+      <li><a href="http://videoproduction.ucr.edu/">Video Production Unit</a></li> 
+      <li><a href="http://admissions.ucr.edu/VisitUCR/virtualTours">Virtual Tours</a></li> 
+      <li><a href="http://hr.ucr.edu/?content=ProgramsAndServices/disabilitymanagement/AboutDisabilityManagement.htm">Vocational Rehabilitation</a></li> 
+      <li><a href="http://community.ucr.edu/volunteer.html">Volunteer Opportunities for Employees</a></li> 
+     </ul> 
+     <h3 class="index_label" id="W">W</h3> 
+     <ul class="index"> 
+      <li><a href="http://webdevelopment.ucr.edu/">Web Development</a></li> 
+      <li><a href="http://cnc.ucr.edu/email.html">Webmail </a></li> 
+      <li><a href="http://wellness.ucr.edu/">Wellness Program for Faculty and Staff</a></li> 
+      <li><a href="http://www.wrc.ucr.edu">Women's Resource Center</a></li> 
+      <li><a href="http://www.wrc.ucr.edu">WRC </a></li> 
+     </ul> 
+     <h3 class="index_label" id="Y">Y</h3> 
+     <ul class="index"> 
+      <li><a href="http://community.ucr.edu/volunteer.html">You See UCR in the Community</a></li> 
+     </ul>
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links footer-links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Flibrary.ucr.edu%2F');">UCR Library</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstatus.ucr.edu%2F');">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstore.ucr.edu%2F');">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Femployment.html');">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fdiversity.ucr.edu%2F');">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Fabout%2Fdirections.html');">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fadmissions.ucr.edu%2FVisitUCR');">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.355393 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Additional Information</h3> 
+      <address><strong><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a></strong><br> <a href="http://campusmap.ucr.edu/?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/find_people.php">Find People</a></li> 
+       <li><a href="http://enterprisedirectory.ucr.edu/phone/tel_search.show">Enterprise Directory</a></li> 
+       <li><a href="http://facultydirectory.ucr.edu/">Faculty Directory</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="//www.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li>Last modified: 2015-Jan-29</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.180041 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html>

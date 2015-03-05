@@ -15,7 +15,7 @@ public class MyThread implements Runnable {
 	public void run() {
 
 	    while(crawler.useFrontier(2,null) != null && usefileNum(0) <= crawler.numPages) {
-			System.out.println("I AM THREAD " + name); //CHange happening between these two?//ERRRRRROROORORR// I can't make these two atomic
+			System.out.println("I AM THREAD " + name); 
             Tuple<String, Integer> temp = crawler.useFrontier(0,null);//Pop
 			if(temp.y < 0) {
 					break; //Frontier became empty
@@ -26,6 +26,7 @@ public class MyThread implements Runnable {
 				{
 					crawler.getLinks(temp.x,temp.y);
 				}
+				System.out.println(name + " is WORKING");
 
             } catch (IOException e) {
                 e.printStackTrace();
@@ -33,7 +34,6 @@ public class MyThread implements Runnable {
             usefileNum(1);
         	
 		}
-		System.out.println(name + " is DONE");
 	}
 
 	public static synchronized long usefileNum(int action) {

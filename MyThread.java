@@ -6,16 +6,13 @@ import java.io.*;
 public class MyThread implements Runnable {
 	
 	public static long fileNum;
- 	String name;
 
-	public MyThread(String n) {
-		name = n;
+	public MyThread() {
 		fileNum = 0;
 	}
 	public void run() {
 
 	    while(crawler.useFrontier(2,null) != null && usefileNum(0) <= crawler.numPages) {
-			System.out.println("I AM THREAD " + name); 
             Tuple<String, Integer> temp = crawler.useFrontier(0,null);//Pop
 			if(temp.y < 0) {
 					break; //Frontier became empty
@@ -26,7 +23,6 @@ public class MyThread implements Runnable {
 				{
 					crawler.getLinks(temp.x,temp.y);
 				}
-
             } catch (IOException e) {
                 e.printStackTrace();
             }

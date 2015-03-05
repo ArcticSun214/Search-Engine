@@ -24,9 +24,6 @@ class crawler{
 	static Map<String, Integer> map = new HashMap<String,Integer>();
 	public static Queue<Tuple<String, Integer>> frontier = new LinkedList<Tuple<String, Integer>>();
 
-	private static final Lock lock = new ReentrantLock();
-	public static boolean frontierLock = false;
-
 	public static void main(String[] args){
 
         //Check if Input is valid
@@ -41,24 +38,16 @@ class crawler{
         numPages = Long.valueOf(args[1]).longValue();
         hopsAway = Long.valueOf(args[2]).longValue();
         directory = args[3];
-        //System.out.println(directory);
 
         //Make sure the directory "html_downloads" exists
         createDirectory();
-        try {
-            downloadFile("http://www.cs.ucr.edu/~cto002/",0);
-         } catch (IOException e) {
-         }
-        
 
         //Get Seeds and put them in the frontier
         getSeeds();
-		System.out.println("GET SEED");
-		printFrontier();
 
         //Traverse webpages and saves them
-	    testThread();
-		
+	    runThreads();
+
 	}
 
     //Make sure a directory to put the downloaded files exists
@@ -87,8 +76,6 @@ class crawler{
 				{
 					map.put(url,0);
 					useFrontier(1,new Tuple<String, Integer>(url,0));
-               		//frontier.add(new Tuple<String, Integer>(url,0));
-					//testThread();
 				}
             }
 
@@ -176,14 +163,13 @@ class crawler{
 		return "error";
 	}
 
-    //Check if a URL has be crawled already
-    
-    //Check robots.txt
-    
     //Get links
     public static void getLinks(String url, int currentHopLevel) {
         try {
-            Document doc = Jsoup.connect(url).get(); 
+            Connection connection = Jsoup.connect(url);
+            connection.userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1");
+            Document doc = connection.get(); 
+
             Elements links = doc.select("a[href]");
             for(Element link : links) {
 				String tmp = link.attr("href");
@@ -193,8 +179,6 @@ class crawler{
 					useFrontier(1, new Tuple<String, Integer>(normalizedURL, currentHopLevel+1));
 				}
             }
-			System.out.println("GET LINKS");
-			printFrontier();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -209,8 +193,8 @@ class crawler{
 		try {
 			Connection connection = Jsoup.connect(url);
             connection.userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1");
-            connection.setConnectTimeout(5000);
 			Document doc = connection.get();
+
 			String htmlContent = doc.html();
 			String fileName = "file" + fileNum + ".dld"; 
 			BufferedWriter writer = new BufferedWriter(new FileWriter(directory + "\\" + fileName));
@@ -284,20 +268,15 @@ class crawler{
 		return doesContainLink;
 	}
 
-	//Function for testing
-	public static void printFrontier() {
-			System.out.println("\n________________________________________________________\n");
-			for(Tuple<String, Integer> s : frontier)
-			{
-				System.out.println(s.x + " " + s.y);
-			}
-			System.out.println("\n---------------------------------------------------------\n");
-	}
+    //Runs the threads
+	public static void runThreads() {
 
-	public static void testThread() {
-		Runnable thread = new MyThread("HAI");
-		Runnable thread2 = new MyThread("DDD");
-		Runnable thread3 = new MyThread("FFF");
+        System.out.println("Web Crawler is now crawling");
+		
+        Runnable thread = new MyThread();
+		Runnable thread2 = new MyThread();
+		Runnable thread3 = new MyThread();
+
 		new Thread(thread).start();
 		new Thread(thread2).start();
 		new Thread(thread3).start();
